@@ -23,13 +23,8 @@ page-order:
 # Same note RE case above
 python-extra-pages:
   - console
-<<<<<<< HEAD
   
   
-=======
-  
-  
->>>>>>> 6aa611d9a3a791af2a84d27eeddc15bd090042fb
 baseurl: /spring2016
 url: /spring2016
 
