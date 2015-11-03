@@ -2,7 +2,7 @@
 layout: post
 author: elliott
 title: Sixth class notes
-published: true
+published: false
 ---
 
 # Class Canceled

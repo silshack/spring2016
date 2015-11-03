@@ -2,6 +2,7 @@
 layout: post
 author: elliott
 title: "Tweets from last class and proposals"
+published: false
 ---
 
 ## Tweets

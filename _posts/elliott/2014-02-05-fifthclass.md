@@ -2,6 +2,7 @@
 author: elliott
 layout: post
 title: Fifth Class Notes
+published: false
 ---
 
 ## Announcements
