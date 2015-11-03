@@ -2,6 +2,7 @@
 layout: post
 author: elliott
 title: Fourth Class Notes
+published: false
 ---
 
 ## Announcements
