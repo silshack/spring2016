@@ -1,5 +1,6 @@
 name: Professor Jekyll Teaches You to Blog Like a Hacker
-pygments: true
+
+highlighter: pygments
 
 baseurl: /professorjekyll
 
