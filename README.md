@@ -1,5 +1,7 @@
 SILShack, Spring 2014
 
+![](https://travis-ci.org/silshack/spring2016.svg)
+
 This is the source code for the collaboratively edited blog/site for the Spring 2014 session of UNC INLS 560, Programming for Information Professionals.
 
 ### To Students in the Class

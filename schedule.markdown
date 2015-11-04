@@ -7,24 +7,32 @@ title: "Schedule"
 
 ## Office Hours
 
-I will be available Wednesdays after class and by appointment via our Google Plus community.
+I will be available for office hours immediately after class and by appointment via video and/or text chat.
 
 ## Work in Progress
 This schedule is a work in progress and will change based on our progress, your interests, and things that come up along the way.  I'll make sure to announce any changes in our Google community.
 
 ## Guest Speakers
 
-We’ll have a series of programming professionals come in and discuss their experiences and their personal relationships to the topics we’re covering.  A selection of speakers who have confirmed (but not yet scheduled):
+We’ll have a series of programming professionals come in and discuss their experiences and their personal relationships to the topics we’re covering.  I'm still confirming this guest list but I hope to have some previous students of this class talk about their current professions and how they're using code professionally.
 
-* Brian Marks, CTO, Trinket.io
 
-* Karen Cranston, co-PI, Open Tree of Life Project
+Part I: Collaboration with Github and the Basics of Python with Trinket
 
-* Julia Elman, Lead Designer, Trinket.io
+* Posting to our Jekyll WEbsite via Github.com
+* Using Github issues and milestones to track progress
+* Writing Python Programs with Trinket
+* Submitting Pull Requests
+* Passing Tests
+* Merging Pull Requests
 
-* Alan Dipert, (Currently) Freelance Programmer
 
-* Jeff Heard, Senior Researcher, RENCI
+Part II: Interactive Python Project
+
+Part III: Command line Git and a Basic Python Web Application
+
+Part IV: Final Project - Turtle Game, Web App, or Twitter Bot
+
 
 ### <date d="20140108">January 8th, Week 1: Digging into Source Code</date>
 
@@ -37,8 +45,6 @@ Key Questions
 * How Can Text Control Computers?
 
 1. None (first day of class)
-
-In-Class: Get set up on Google Plus
 
 In-Class: Get set up on Github
 
@@ -66,7 +72,8 @@ Readings:
 
 Read the text, do the exercises, and be prepared to explore what Turtles can do in class.  The videos are optional- I find them less helpful than the text myself but you might find them helpful.  Pay attention to the Flow of Control exercises
 
-* In-Class Exercise: Write a simple post with syntax highlighting and a screenshot of your turtle program.
+* The basics of Trinket 
+* In-Class Exercise: Write a simple post with an embedded turtle program.
 
 ### <date d="20140122">January 22nd, Week 3: Stepping back a bit: What is code?</date>
 
