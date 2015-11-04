@@ -11,7 +11,7 @@ General references for how to do useful things for this class.
 
 {% assign how-tos = site.categories.how-to %}
 {% for post in how-tos %}
-    <li><a href=" {{ site.baseurl }}{{ post.url }} "> {{ post.title }} </a></li>
+    <li><a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a></li>
 {% endfor %}
 
 </ul>
