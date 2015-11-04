@@ -10,6 +10,9 @@ timezone: America/New_York
 special-categories: 
   - "exercise"
   - "how-to"
+  
+# Exclude Jekyll's built-in tests
+exclude: [vendor]
 
 # These can contain uppercase: they'll be lowercased in the URL
 page-order:
