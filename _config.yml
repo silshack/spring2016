@@ -10,6 +10,7 @@ timezone: America/New_York
 special-categories: 
   - "exercise"
   - "how-to"
+  - "sidebar"
   
 # Exclude Jekyll's built-in tests
 exclude: [vendor]

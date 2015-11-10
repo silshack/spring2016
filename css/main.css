@@ -74,9 +74,14 @@ pre {
   color: #2980b9;
 }
 
+.post-row {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
 .output {
     background: #ccc;
-    color: #black;
+    color: black;
     height: 100px;
     overflow: auto;
     font-family: "Consolas","Lucida Console","Monaco",monospace;
@@ -115,14 +120,16 @@ code, pre {
     background-color: #2980b9; !important
 }
 
+.sidebar ul {
+  list-style-type: none;
+}
 
+.sidebar .title {
+  font-weight: 600;
+}
 
 .top-bar-section li:not(.has-form) a:not(.button) {
   background-color: #2980b9; !important
-}
-
-section, ul, li, a {
-  color: inherit; !important
 }
 
 /*http://stackoverflow.com/questions/32854455/mobile-menu-breakpoint-in-foundation*/
