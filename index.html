@@ -3,9 +3,7 @@ layout: default
 title: "INLS 560 - Spring 2016"
 ---
 
-
-<div id="home">
-  <ul class="posts">
+  <ul class="post">
     {% for post in site.posts %}
       {% assign print = "true" %}
       {% for category in site.special-categories %}
@@ -41,4 +39,3 @@ title: "INLS 560 - Spring 2016"
       {% endif %}
     {% endfor %}
   </ul>
-</div>

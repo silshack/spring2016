@@ -15,6 +15,9 @@
     <!--Ahh, the framework-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css" type="text/css" />
 
+    <!--Cool Icons? yes please-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    
     <!-- syntax highlighting CSS -->
 
     <!-- Custom CSS -->
@@ -31,51 +34,80 @@
 </head>
 
 <body>
-
+    <div class="main-content-wrapper">
     
-    <div data-alert class="alert-box warning">
+    <!--Nav-->
+    <div class="sticky">
+        <nav class="top-bar" data-topbar role="navigation">
+          <ul class="title-area">
+            <li class="name">
+              <h1><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            </li>
+             <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+            <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
+          </ul>
+        
+          <section class="top-bar-section">
+            <!-- Right Nav Section -->
+            <ul class="right">
+              <li><a href="http://github.com/silshack/2016"><i class="fa fa-github"></i>&nbsp;Github</a></li>
+            </ul>
+        
+            <!-- Left Nav Section -->
+            <ul class="left">
+                {% for pagename in site.page-order %}
+                <li><a class="extra" href="{{ site.baseurl }}/{{ pagename | lower }}.html">{{ pagename }}</a></li>
+                {% endfor %} {% if site.python == true %} {% for pagename in site.python-extra-pages %}
+                <li><a class="extra" href="{{ site.baseurl }}/{{ pagename }}.html">{{ pagename }}</a></li>
+                {% endfor %} {% endif %}
+            </ul>
+          </section>
+        </nav>
+    </div>
+    
+    {% if page.url == "/index.html" %}
+    <!--Don't judge me bro-->
+    <div data-alert class="alert-box warning fade-in">
       Hi!  This site is currently <a href="http://www.textfiles.com/underconstruction/">under revision</a> for Spring 2016.  Feel free to browse it or <a href="http://silshack.github.com/spring2014" style="color: lightblue">One of my previous courses</a> to get a sense of what we'll cover and how I teach. - <a href="http://elliotthauser.com">Elliott</a>
       <a href="#" class="close">&times;</a>
     </div>
-    <div class="container">
-        <div class="site">
-            <div class="header">
-                <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-                <p>
-                    {% for pagename in site.page-order %}
-                    <a class="extra" href="{{ site.baseurl }}/{{ pagename | lower }}.html">{{ pagename }}</a>
-                    {% endfor %} {% if site.python == true %} {% for pagename in site.python-extra-pages %}
-                    <a class="extra" href="{{ site.baseurl }}/{{ pagename }}.html">{{ pagename }}</a>
-                    {% endfor %} {% endif %}
-                </p>
-            </div>
-
-            {{ content }}
-
-            <div class="footer">
-                <div class="contact">
-                    <p>
-                        {{ site.course.number }} - "{{ site.course.title }}"
-                    </p>
-                    <p>
-                        Another <a href="http://github.com/silshack/professorjekyll">silshack</a> by <a href="http://twitter.com/hauspoor/">@hauspoor</a> & friends
-                        <br />
-                    </p>
-                    <p>
-                        This page was generated on
-                        <script type="text/javascript">
-                            var date = new Date('{{ site.time | date: "%D %T %z" }}');
-                            document.write(date.toLocaleDateString() + " " + date.toLocaleTimeString())
-                        </script>
-                    </p>
-                </div>
-            </div>
+    {% endif %}
+    
+    <!--Main content in a small-12-->
+    <div class="row">
+            
+        <div class="small-12 column">
+             {{ content }}
         </div>
     </div>
-    <!-- /container -->
-    <!-- Script imports at bottom to decrease page-load-time-->
     
 
+
+
+<footer id="footer" class="footer">
+  <div class="row">
+    <div class="small-12 large-4 columns">
+        <p>
+            {{ site.course.number }} - "{{ site.course.title }}"
+        </p>
+    </div>
+    <div class="small-12 large-4 columns">
+        <p>
+            Another <a href="http://github.com/silshack/professorjekyll">silshack</a> by <a href="http://twitter.com/hauspoor/">@hauspoor</a> & friends
+        </p>
+    </div>
+    <div class="small-12 large-4 columns">
+        <p>
+            This page was generated on
+            <script type="text/javascript">
+                var date = new Date('{{ site.time | date: "%D %T %z" }}');
+                document.write(date.toLocaleDateString() + " " + date.toLocaleTimeString())
+            </script>
+        </p>
+    </div>
+  </div>
+</footer>
+</div>
 <script>
   ((window.gitter = {}).chat = {}).options = {
     room: 'silshack/spring2016'
@@ -85,12 +117,29 @@
 <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 <script src="{{ site.baseurl}}/js/date-cs.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.alert.min.js"></script>"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.alert.min.js"></script></script>
 <script>
 $(document).foundation()
 // $(document).on('close.fndtn.alert', function(event) {
 //   console.info('An alert box has been closed!');
 // });
+
+window.onload = function stickyFooter() {
+    var footer = '#footer';
+    
+    if ($(footer).offset().top + $(footer).outerHeight() < $(window).height()) {
+        $(footer).css({
+            'bottom' : 0,
+            'left' : 0,
+            'right' : 0,
+            'position' : 'fixed',
+        });
+    } else {
+        $(footer).css('position', 'initial');
+    }
+
+    $(footer).addClass('fade-in')
+}
 </script>
 </body>
 </html>

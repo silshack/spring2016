@@ -5,7 +5,13 @@ task :test do
   sh 'echo "\n\nbaseurl:\nurl:" >> _config.yml'
   begin
     sh "bundle exec jekyll build"
-    HTML::Proofer.new("./_site", {:disable_external => true, :checks_to_ignore => ['ScriptCheck'], :empty_alt_ignore => true, :verbose => true}).run
+    HTML::Proofer.new("./_site", {
+      :disable_external => true, 
+      :checks_to_ignore => ['ScriptCheck'], 
+      :empty_alt_ignore => true, 
+      :verbose => true,
+      :href_ignore => ["#"]
+    }).run
   rescue Exception => e  
     puts e.message  
     puts e.backtrace.inspect  
