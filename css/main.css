@@ -249,3 +249,8 @@ code, pre {
 .codeblock p{
   margin-bottom: 0;
 }
+
+
+.warning a {
+  color: lightblue;
+}
