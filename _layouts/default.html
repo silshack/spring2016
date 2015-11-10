@@ -11,6 +11,9 @@
     <meta http-equiv="pragma" content="no-cache" />
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width">
+    
+    <!--Ahh, the framework-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css" type="text/css" />
 
     <!-- syntax highlighting CSS -->
 
@@ -18,7 +21,7 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
     <!--<link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">-->
 
-    <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script> -->
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script> 
     <!-- <script src="{{ site.baseurl}}/js/date-cs.js" type="text/javascript"></script> -->
 <!--     <script src="{{ site.baseurl}}/js/OTS.js" type="text/javascript"></script>
     <script src="/spring2014/js/codemirrorepl.js" type="text/javascript"></script>
@@ -28,15 +31,12 @@
 </head>
 
 <body>
-    <!-- Ribbon -->
 
-    <img style="position: absolute; top: 0; right: 0; border: 0; height: 135px; width: 135px; z-index:10; pointer-events:none;"  src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub">
-    <svg style="position: absolute; top: 0; right: 0; border: 0; z-index:15;" version="1.1" pointer-events="none" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"  width="135px" height="135px" viewBox="0 0 135 135" enable-background="new 0 0 135 135" xml:space="preserve">
-      <a xlink:href="https://github.com/silshack{{ site.baseurl }}" pointer-events="painted" data-proofer-ignore>
-        <polygon opacity="00" fill="purple" stroke="#000000" stroke-miterlimit="10" points="135,0 0,0 135,135 " />
-      </a>
-    </svg>
-
+    
+    <div data-alert class="alert-box warning">
+      Hi!  This site is currently <a href="http://www.textfiles.com/underconstruction/">under revision</a> for Spring 2016.  Feel free to browse it or <a href="http://silshack.github.com/spring2014" style="color: lightblue">One of my previous courses</a> to get a sense of what we'll cover and how I teach. - <a href="http://elliotthauser.com">Elliott</a>
+      <a href="#" class="close">&times;</a>
+    </div>
     <div class="container">
         <div class="site">
             <div class="header">
@@ -81,7 +81,16 @@
     room: 'silshack/spring2016'
   };
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
 <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
 <script src="{{ site.baseurl}}/js/date-cs.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/js/foundation/foundation.alert.min.js"></script>"></script>
+<script>
+$(document).foundation()
+// $(document).on('close.fndtn.alert', function(event) {
+//   console.info('An alert box has been closed!');
+// });
+</script>
 </body>
 </html>
