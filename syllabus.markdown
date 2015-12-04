@@ -3,8 +3,8 @@ layout: default
 title: "Syllabus"
 ---
 
-## Syllabus
-### {{ site.course.number }}: {{ site.course.title }}
+## Syllabus - Subject to Change
+### {{ site.course.number }}: {{ site.course.title }} 
 Instructor: {{ site.course.instructor }}
 
 
