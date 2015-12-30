@@ -10,7 +10,7 @@
     <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
     <meta http-equiv="pragma" content="no-cache" />
     <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!--Ahh, the framework-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.3/css/foundation.min.css" type="text/css" />
@@ -50,7 +50,8 @@
           <section class="top-bar-section">
             <!-- Right Nav Section -->
             <ul class="right">
-              <li><a href="http://github.com/silshack/2016"><i class="fa fa-github"></i>&nbsp;Github</a></li>
+              <li><a href="#" class="js-gitter-toggle-chat-button">Chat</a></li>
+              <li><a href="http://github.com/silshack/spring2016"><i class="fa fa-github"></i>&nbsp;Github</a></li>
             </ul>
         
             <!-- Left Nav Section -->
@@ -110,6 +111,9 @@
 <script>
   ((window.gitter = {}).chat = {}).options = {
     room: 'silshack/spring2016'
+    , useStyles: true
+    , preload: true
+    , activationElement: false
   };
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
