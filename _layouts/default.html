@@ -49,7 +49,7 @@
         
           <section class="top-bar-section">
             <!-- Right Nav Section -->
-            <ul class="right">
+            <ul class="right show-for-large-up">
               <li><a href="#" class="js-gitter-toggle-chat-button">Chat</a></li>
               <li><a href="http://github.com/silshack/spring2016"><i class="fa fa-github"></i>&nbsp;Github</a></li>
             </ul>
@@ -61,6 +61,8 @@
                 {% endfor %} {% if site.python == true %} {% for pagename in site.python-extra-pages %}
                 <li><a class="extra" href="{{ site.baseurl }}/{{ pagename }}.html">{{ pagename }}</a></li>
                 {% endfor %} {% endif %}
+                <li class="show-for-small-only"><a href="#" class="js-gitter-toggle-chat-button">Chat</a></li>
+                <li class="show-for-small-only"><a href="http://github.com/silshack/spring2016"><i class="fa fa-github"></i>&nbsp;Github</a></li>
             </ul>
           </section>
         </nav>
