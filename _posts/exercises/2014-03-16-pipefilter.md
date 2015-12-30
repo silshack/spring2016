@@ -4,6 +4,7 @@ author: elliott
 title: Pipes and Filters
 categories: exercise
 date: 2014-03-16 11:59pm
+published: false
 ---
 **Attribtution: this exercise was adapted from [Software Carpentry bootcamps](https://github.com/swcarpentry/bc) under a CC-BY license**
 
