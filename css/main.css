@@ -133,10 +133,10 @@ code, pre {
 }
 
 /*http://stackoverflow.com/questions/32854455/mobile-menu-breakpoint-in-foundation*/
-@media only screen and (max-width: 64.063em) {
+@media only screen and (max-width: 40.063em) {
     meta.foundation-mq-topbar {
-        font-family: "/only screen and (min-width:64.063em)/";
-        width: 64.063em;
+        font-family: "/only screen and (min-width:40.063em)/";
+        width: 40.063em;
     }
 
     .top-bar {
