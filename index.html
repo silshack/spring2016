@@ -3,7 +3,21 @@ layout: default
 title: "INLS 560 - Spring 2016"
 ---
 
-  <ul class="post">
+<div class="row">
+  <div class="small-12 medium-3 right announcements">
+    <div class="panel sidebar">
+      <ul>
+        <li class="title">Announcements</li>
+    {% for post in site.posts %}
+    {% if post.categories contains "sidebar" %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif%}
+    {% endfor %}
+    </ul>
+    </div>
+  </div>
+  <div class="small-12 medium-9">
+    <ul class="post">
     {% for post in site.posts %}
       {% assign print = "true" %}
       {% for category in site.special-categories %}
@@ -39,3 +53,6 @@ title: "INLS 560 - Spring 2016"
       {% endif %}
     {% endfor %}
   </ul>
+
+  </div>
+</div>

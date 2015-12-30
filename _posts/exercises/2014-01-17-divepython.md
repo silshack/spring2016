@@ -4,6 +4,7 @@ layout: post
 title: Diving into Python!
 categories: exercise
 date: 2014-01-17 11:59pm
+published: false
 ---
 
 These two exercises are all about diving into python and getting our hands dirty.  The first is getting a program to ask for user input.  The second is to make the coolest Turtle program you can and post it to our blog.  There's nothing to turn in for the first exercise.  I'll walk thru the first one in class and as much of the second one as I can.  For this exercise, practice knowing only what you need to solve the problem- don't be worried if you don't understand everything.  Next class we'll back up and examine some of the concepts we're glossing over.

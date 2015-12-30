@@ -4,6 +4,7 @@ author: elliott
 categories: exercise
 title: Lists and Strings Exercises
 date: 2014-01-31 11:59pm
+published: false
 ---
 
 ## Strings exercises

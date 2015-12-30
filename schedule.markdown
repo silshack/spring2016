@@ -5,34 +5,106 @@ title: "Schedule"
 
 # {{ site.course.number }} Initial Schedule: Subject to Change
 
+## Scehdule Outline
+
+**Note to potential students: the five part outline below is the best indicator of what the Spring 2016 class will cover**
+
+Part I: Collaboration with Github and the Basics of Python with Trinket
+
+* Posting to our Jekyll Website via Github.com
+* Using Github issues and milestones to track progress
+* Submitting Pull Requests
+* Passing Tests
+* Merging Pull Requests
+* Writing Python Programs with Trinket
+  * Variables & objects
+  * Flow of control: Loops & Logic
+  * Functions
+  * Opening files
+  * Importing modules
+  * Instantiating objects
+  * Regex
+* Projects
+  * Hangman program
+  * Text search tool
+  * Data parser
+
+
+Part II: Interactive Python Programs
+
+* Interactive Programs with Turtle
+* Custom Classes & Class Extension
+  * Methods are functions
+  * Attributess are Variables
+* Screen state in Turtle
+* Decorators
+  *  Functions are objects
+  *  Decorators are Functions that modify functions
+* Projects
+  * Drawing App
+  * Basic TurtleChase game
+
+Part III: Python and Git on the Command line
+
+* Hello Cloud9
+* Pip install some cool modules
+* Twitter Bot
+  * API access
+  * HTTP GET & POST
+* Command line Git
+  * Adding & Committing
+  * Branching
+  * Pushing & Pulling
+
+Part IV: a Basic Python Web Application
+
+* Simple Flask App
+* Hosts and Ports
+* Routes
+* Templates
+* Creating new github repos
+* Public projects with Cloud9
+
+Part V: Final Project - Turtle Game, Web App, or Twitter Bot
+
+* Common project features:
+  * Public, well-commented/documented source code
+  * Publicly deployed
+  * Write-up detailing project goals, scoping and next steps
+  * (Bonus) Collaboratively authored
+* An interactive Turtle game, using trinket
+  * Custom Classes
+  * User Interface
+  * Help Text
+  * Levels
+  * Game State Readout  
+  * Uses images
+* A Python Twitter bot, deployed to the web
+  * Use of local files for customization or storage
+  * State change/evolution over time
+  * Read data to Twitter
+  * Write data to twitter
+  * Autonomous and user-driven modes
+* A Python Web App with users, custom routes, and a database, deployed to the web
+  * Public pages
+  * User registration & auth
+  * Private pages
+  * Deployed to AWS or Heroku
+  * CRUD
+
 ## Office Hours
 
 I will be available for office hours immediately after class and by appointment via video and/or text chat.
 
 ## Work in Progress
-This schedule is a work in progress and will change based on our progress, your interests, and things that come up along the way.  I'll make sure to announce any changes in our Google community.
+This schedule is a work in progress and will change based on our progress, your interests, and things that come up along the way.  It will be revised extensively before class starts in mid January, 2016.
 
 ## Guest Speakers
 
 We’ll have a series of programming professionals come in and discuss their experiences and their personal relationships to the topics we’re covering.  I'm still confirming this guest list but I hope to have some previous students of this class talk about their current professions and how they're using code professionally.
 
 
-Part I: Collaboration with Github and the Basics of Python with Trinket
-
-* Posting to our Jekyll WEbsite via Github.com
-* Using Github issues and milestones to track progress
-* Writing Python Programs with Trinket
-* Submitting Pull Requests
-* Passing Tests
-* Merging Pull Requests
-
-
-Part II: Interactive Python Project
-
-Part III: Command line Git and a Basic Python Web Application
-
-Part IV: Final Project - Turtle Game, Web App, or Twitter Bot
-
+Note: the detailed schedule below will be extensively revised in January 2016
 
 ### <date d="20140108">January 8th, Week 1: Digging into Source Code</date>
 

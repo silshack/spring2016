@@ -3,6 +3,7 @@ author: elliott
 layout: post
 title: Python Basics
 categories: exercise
+published: false
 ---
 
 ## First things First: Updating your repo in Github
