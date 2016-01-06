@@ -3,6 +3,7 @@ layout: post
 author: elliott
 title: Branching in Git
 categories: how-to
+published: false
 ---
 
 By now, you have all of the tools you need to create a new branch for each assignment.  From now on, this will is a required element of turning in an exercise: it should be on its own branch.  Since Pull Requests are comparisons between branches, this will let you open up a new pull request even when I get behind in grading.

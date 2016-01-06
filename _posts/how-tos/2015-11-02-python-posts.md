@@ -3,7 +3,7 @@ layout: post
 author: elliott
 categories: how-to
 title: Adding interactive Python to your posts
-pubilshed: false
+published: false
 ---
 
 

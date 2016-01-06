@@ -3,6 +3,7 @@ layout: post
 author: elliott
 categories: how-to
 title: Cloning and running our class website
+published: false
 ---
 
 You should already have created your development environment.  Using a command line terminal,
