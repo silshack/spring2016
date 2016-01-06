@@ -140,4 +140,5 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
+  jemoji
   rake

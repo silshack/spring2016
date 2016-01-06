@@ -16,6 +16,10 @@
   margin-right: auto;
 }
 
+img.emoji {
+  display: inline;
+}
+
 /* standard */
 .post h1 {
   font-size: 140%;

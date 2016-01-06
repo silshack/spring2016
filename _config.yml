@@ -7,6 +7,10 @@ redcarpet:
 
 timezone: America/New_York
 
+# You betcha
+gems:
+  - jemoji
+
 special-categories: 
   - "exercise"
   - "how-to"
@@ -27,6 +31,8 @@ page-order:
 python-extra-pages:
   - console
   
+  
+permalink: none
   
 baseurl: /spring2016
 url: /spring2016
