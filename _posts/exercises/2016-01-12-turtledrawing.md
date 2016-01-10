@@ -3,7 +3,7 @@ author: elliott
 layout: post
 title: Diving into Python!
 categories: exercise
-date: 2014-01-17 11:59pm
+date: 2016-01-17 11:59pm
 published: false
 ---
 
