@@ -7,10 +7,17 @@ redcarpet:
 
 timezone: America/New_York
 
+# You betcha
+gems:
+  - jemoji
+
+# Categories to exclude from the index
 special-categories: 
   - "exercise"
   - "how-to"
   - "sidebar"
+  - "reading"
+  - "notes"
   
 # Exclude Jekyll's built-in tests
 exclude: [vendor]
@@ -19,7 +26,7 @@ exclude: [vendor]
 page-order:
   - syllabus
   - schedule
-  - exercises
+  - assignments
   - how-to
   - people
 
@@ -27,6 +34,8 @@ page-order:
 python-extra-pages:
   - console
   
+  
+permalink: none
   
 baseurl: /spring2016
 url: /spring2016
@@ -56,4 +65,11 @@ authors:
       github: gerbal
       twitter: gerbal100
       about: Grant is a former student and TA who helped make this site. He's from Chapel Hil and likes playing with new technologies and getting way in over his head.
- 
+  tommytester:
+      name: Tommy the Tester
+      prof: false
+      gravatar:
+      website: https://www.google.com/search?q=tommy+tester&rlz=1CAACAG_enUS613US613&oq=tommy+tester&aqs=chrome..69i57j0l5.2034j0j7&sourceid=chrome&es_sm=92&ie=UTF-8
+      github: tommytester
+      twitter: tommytester
+      about: "Tommy is our tester account.  We'll use him to scope out how to use github"

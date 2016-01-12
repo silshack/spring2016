@@ -2,14 +2,17 @@
 layout: default
 title: "Schedule"
 ---
-
+{% comment %}
 # {{ site.course.number }} Initial Schedule: Subject to Change
 
 ## Scehdule Outline
 
-**Note to potential students: the five part outline below is the best indicator of what the Spring 2016 class will cover**
 
+**Note to potential students: the five part outline below is the best indicator of what the Spring 2016 class will cover**
 Part I: Collaboration with Github and the Basics of Python with Trinket
+
+For this part we will use the free [Python for Informatics](http://www.pythonlearn.com/) book by Charles Severance (Dr. Chuck).  We'll be using the [in-progress Python 3 version](https://github.com/csev/pythonlearn/tree/master/book), which I'm lending a hand with. Yay open source!
+ For this part we'll also use a variety of free web-based resources such as [this Github guide](https://guides.github.com/activities/hello-world/).
 
 * Posting to our Jekyll Website via Github.com
 * Using Github issues and milestones to track progress
@@ -29,13 +32,14 @@ Part I: Collaboration with Github and the Basics of Python with Trinket
   * Text search tool
   * Data parser
 
-
 Part II: Interactive Python Programs
+
+For this part we will use [Python Game Development for Beginners](http://www.infiniteskills.com/training/python-game-development-for-beginners.html) by yours truly.
 
 * Interactive Programs with Turtle
 * Custom Classes & Class Extension
   * Methods are functions
-  * Attributess are Variables
+  * Attributes are Variables
 * Screen state in Turtle
 * Decorators
   *  Functions are objects
@@ -44,34 +48,43 @@ Part II: Interactive Python Programs
   * Drawing App
   * Basic TurtleChase game
 
-Part III: Python and Git on the Command line
+Part III: Git & the Command line
+
+For this part we will use custom tutorials I have written.
 
 * Hello Cloud9
-* Pip install some cool modules
-* Twitter Bot
-  * API access
-  * HTTP GET & POST
+* Command line basics
 * Command line Git
   * Adding & Committing
   * Branching
   * Pushing & Pulling
+* Editing our class website via Cloud9
 
-Part IV: a Basic Python Web Application
+Part IV: Python & the Web
 
-* Simple Flask App
-* Hosts and Ports
-* Routes
-* Templates
+For this part we will use the free [Python for Informatics](http://www.pythonlearn.com/) book by Charles Severance (Dr. Chuck) again.
+
+* Chapter 12: Reading webpages from Python
+* Chapter 13: Using & parsing web data (XML & JSON)
+* A Command-line Twitter Bot
+  * API access
+  * HTTP GET & POST
+
+Part V: Final Project - Turtle Game or Twitter Bot
+
+Your final project should be a demonstration of mastery over the various tools, processes, and concepts
+we've covered.  You may be able to build directly upon the exercies we've completed or code you've already
+written.  You may find examples, walkthroughs, or tutorials online to help you.  
+
 * Creating new github repos
 * Public projects with Cloud9
-
-Part V: Final Project - Turtle Game, Web App, or Twitter Bot
 
 * Common project features:
   * Public, well-commented/documented source code
   * Publicly deployed
   * Write-up detailing project goals, scoping and next steps
-  * (Bonus) Collaboratively authored
+  * Proper attribution to all sources, code, and collaborators
+  * (Bonus) Collaboratively authored, with well-formed pull requests, issues, etc.
 * An interactive Turtle game, using trinket
   * Custom Classes
   * User Interface
@@ -79,32 +92,100 @@ Part V: Final Project - Turtle Game, Web App, or Twitter Bot
   * Levels
   * Game State Readout  
   * Uses images
-* A Python Twitter bot, deployed to the web
+* A Python Twitter bot, deployed on the Internet
   * Use of local files for customization or storage
   * State change/evolution over time
   * Read data to Twitter
   * Write data to twitter
   * Autonomous and user-driven modes
-* A Python Web App with users, custom routes, and a database, deployed to the web
-  * Public pages
-  * User registration & auth
-  * Private pages
-  * Deployed to AWS or Heroku
-  * CRUD
+  * Bonus: with Web interface
 
-## Office Hours
+Other final projects are possible, with approval from me. For instance, fully functioning web app as described in Chapters 14 and 15 of Severance's book with customizations of your own design would be entirely acceptable.
 
-I will be available for office hours immediately after class and by appointment via video and/or text chat.
-
-## Work in Progress
-This schedule is a work in progress and will change based on our progress, your interests, and things that come up along the way.  It will be revised extensively before class starts in mid January, 2016.
-
-## Guest Speakers
-
-We’ll have a series of programming professionals come in and discuss their experiences and their personal relationships to the topics we’re covering.  I'm still confirming this guest list but I hope to have some previous students of this class talk about their current professions and how they're using code professionally.
+{% endcomment %}
 
 
-Note: the detailed schedule below will be extensively revised in January 2016
+
+# Class Schedule
+
+Here's a rough schedule so you get a sense of where we're going. The official due date of each exercise and reading will be available on the [assignments page]({{ site.baseurl}}/assignments.html) by the time you'll need to start on it. So that's the page you should check during the class.  This is more of a roadmap to keep us on track.
+
+Date            | Topic                 | Readings (completed before class) | Exercise Assigned
+--------------- | -----------------     | --------------------------------- | ----------------------
+Tues, Jan 12    | Diving into Python    | Welcome to the course! :)         | Turtle Drawing
+Thurs, Jan 14   | Github basics         | Github's Hello World Guide | A Pull Request with your Turtle Drawing
+Tues, Jan 19    | Variables <br> Operators        | Dr. Chuck Chapter 1       | Merge your classmates' changes<br>Chapter 1 Exercises
+Thurs, Jan 21   | Variables <br> Logic            | Dr. Chuck Chapter 2               | Chapter 2 Exercises
+Tues, Jan 26    | Logic <br> Expressions          |                                   | 
+Thurs, Jan 28   | Functions                    | Dr. Chuck Chapter 3               | Chapter 3 Exercises
+Tues, Feb 2     | Functions <br> Events           |                                   | 
+Thurs, Feb 4    | Loops                        | Dr. Chuck Chapter 4               | Chapter 4 Exercises
+Tues, Feb 9     | Loops <br> Lists                | Dr. Chuck Chapter 7               | Chapter 7 Exercises
+Thurs, Feb 11   | Modules <br> Turtle             |                                   | TBD
+Tues, Feb 16    | User Interfaces              | Video                             | Drawing App Project (Due Feb 23)
+Thurs, Feb 18   | Turtle Screen (Remote Class) | Video                             | 
+Tues, Feb 23    | Debugging (Remote Class)     | Video                             | 
+Thurs, Feb 25   | No Class<br> Work on Project    |                                   | 
+Tues, Mar 1     | Drawing Project Code Talks   |                                   | Take-home Midterm (Due March 8; ungraded)
+Thurs, Mar 3    | Class Extension              |                                   | Game Project 2 (Due March 10)
+Tues, Mar 8     | Class Extension              |                                   | TBD
+Thurs, Mar 10   | Game Project Code Talks      |                                   | Set up Cloud 9 (by March 22)
+Tues, Mar 15    | Spring Break                 |                                   | 
+Thurs, Mar 17   | Spring Break                 |                                   | 
+Tues, Mar 22    | Projects <br> Cloud 9<br> Files     | Dr. Chuck Chapter 6               | Files Exercises
+Thurs, Mar 24   | Strings                      | Dr. Chuck Chapter 5               | Strings Exercises
+Tues, Mar 29    | Strings<br> Regex               | Dr. Chuck Chapter 5 <br> Dr. Chuck Chapter 10 | Regex Exercises
+Thurs, Mar 31   | Dictionaries <br> Reading websites with Python | Dr. Chuck Chapter 8<br> Dr. Chuck Chapter 11   | Dictionaries Exercises
+Tues, Apr 5     | Dictionaries<br> Parsing Data                 | Dr. Chuck Chapter 12              | Dictionaries Exercises
+Thurs, Apr 7    | Project statement due <br> git   |                                   | TBD
+Tues, Apr 12    | Project work day             |                                   | TBD
+Thurs, Apr 14   | Progress reports             |                                   | TBD
+Tues, Apr 19    | Progress reports             |                                   | TBD
+Thurs, Apr 21   | Final progress reports       |                                   | TBD
+Tues, Apr 26    | Final progress reports       |                                   | TBD
+Fri, Apr 29     | No Class; Final Projects Due |                                   | 
+
+
+
+
+
+
+
+{% comment %} Class Notes {% endcomment %}
+
+[cn1]: 
+[cn2]: {{ site.baseurl }}/how-to/githubbasics.html
+
+
+{% comment %} Readings {% endcomment %}
+
+[rd1]: https://guides.github.com/activities/hello-world/
+
+[ch1]: {{ site.baseurl }}/reading/ch1.html
+[ch2]: {{ site.baseurl }}/reading/ch2.html
+[ch3]: {{ site.baseurl }}/reading/ch3.html
+[ch4]: {{ site.baseurl }}/reading/ch4.html
+[ch5]: {{ site.baseurl }}/reading/ch5.html
+[ch6]: {{ site.baseurl }}/reading/ch6.html
+[ch7]: {{ site.baseurl }}/reading/ch7.html
+[ch8]: {{ site.baseurl }}/reading/ch8.html
+[ch9]: {{ site.baseurl }}/reading/ch9.html
+[ch10]: {{ site.baseurl }}/reading/ch10.html
+[ch11]: {{ site.baseurl }}/reading/ch11.html
+[ch12]: {{ site.baseurl }}/reading/ch12.html
+[ch13]: {{ site.baseurl }}/reading/ch13.html
+[ch14]: {{ site.baseurl }}/reading/ch14.html
+
+
+{% comment %} Exercises {% endcomment %}
+
+[ex1]: {{ site.baseurl }}/exercise/turtledrawing.html
+[ex2]: {{ site.baseurl }}/exercise/ghsetup.html
+[ex3]: {{ site.baseurl }}/exercise/ghmerging.html
+
+
+
+{% comment %} Begin old schedule:
 
 ### <date d="20140108">January 8th, Week 1: Digging into Source Code</date>
 
@@ -304,3 +385,7 @@ Presentation and discussion of projects.  A roadmap for where students want to g
 * scp & rsync
 
 * Check-in: Meetups
+* 
+
+{% endcomment %}
+

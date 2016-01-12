@@ -3,7 +3,7 @@ author: grant
 layout: post
 title: Getting Started with Nitrous.io and Jekyll
 categories: how-to
-pulished: false
+published: false
 ---
 
 
