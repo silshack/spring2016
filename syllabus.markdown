@@ -58,15 +58,15 @@ We’ll have a series of programming professionals come in and discuss their exp
 
 These experiences will combine with class assignments, readings, and in-class exercises to deepen students’ interest and facility with the concepts and skills we’ll learn.  Students who are unable to attend the in-person meetups may propose a comparable virtual community interaction in its place.
 
-**In-Class Exercises:**  Almost every class will feature exercises that build on assigned readings.  These assignments can be completed and submitted during class, or students can submit them before midnight if they need extra time.  Exercises may involve pair programming and I will circle through class to resolve any confusion and share important concepts with the group.  Some of these exercises will involve code submission via Github, while others will use Trinket.  In almost all cases you'll report your work or turn it in via Github.  These are the largest component of your grade.
+**Exercises (In-class and Take-Home):**  Like any skill, frequent practice is key to coding. Almost every class will feature exercises that build on assigned readings.  These assignments can be completed and submitted during class, or students can submit them before midnight if they need extra time.  Exercises may involve pair programming and I will circle through class to resolve any confusion and share important concepts with the group.  In addition to in-class exercises, there will be requent assignments of exercises from our texts and larger project-style assignments. Most of these exercises will involve submitting a post to our class blog via Github, with your code included in a Trinket.  Some may involve the creation of a separate Github repo.  These in-class and take-home exercises are the largest component of your grade.
 
 **Readings & Jekyll Blog:** Assigned readings, lectures, or exercises should be completed before the indicated class.  In most cases their content will be essential to completing the in-class exercises.  In technology we’ll often encounter terms or project names that we haven’t heard of before (myself included).  Students will be encouraged to keep track of new terms, research them, and bring them up in class.  We’ll collaboratively author a Jekyll blog on Github, at first as an in-class exercise, and then as a way to keep explain these novel concepts and projects to each other and the community at large.
 
-**Ungraded Midterm:** Inspired by SILS Prof. David Gotz, there will be an ungraded midterm to help you know what you don't know.  This will serve as an inventory of knowledge to revisit as we head into the final project.  I'll return them to you along with personalized feedback on your progress in the course.
+**Ungraded Midterm:** Inspired by SILS Prof. David Gotz, there will be an ungraded midterm to help you know what you don't know.  This will serve as an inventory of knowledge to revisit as we head into the final project.  I'll return them to you along with personalized feedback on your progress in the course.  This will allow you to understand your trajectory in this class an make any desired course corrections before we head into the project.
 
-**Website chat:** Our class website has a Gittr chat room available from every page.  This is available for backchannel Q&A during class.  Participation in this chat will count as classroom participation.  Students are expected to conduct themselves in this room as they do during class, keeping content appropriate and relevant. <a class="js-gitter-toggle-chat-button">Click here to open the chat</a>
+**Website chat:** Our class website has a Gittr chat room available from the upper right of every page.  This is available for backchannel Q&A during class.  Participation in this chat will count as classroom participation.  Students are expected to conduct themselves in this room as they do during class, keeping content appropriate and relevant. <a class="js-gitter-toggle-chat-button">Click here to open the chat</a>
 
-**Final Project:** The semester will culminate in a fully developed program or system of the student’s creation.  This program can either be an interactive game developed using Trinket, custom extensions of the Turtle Class, and with a fully articulated user interface or a command-line Python program, using third-party modules, developed using Cloud9 and posted to Github.  The Final Project is due at the time and date of our final exam block, 12:00pm Friday, April 29.  See below for my policy on late work (short version: don’t be late).
+**Final Project:** The semester will culminate in a fully developed program or system of the student’s creation.  This program can either be an interactive game developed using Trinket, custom extensions of the Turtle Class, and with a fully articulated user interface or a command-line Python program, using third-party modules, developed using Cloud9 and posted to Github.  The Final Project is due at the time and date of our final exam block, 12:00pm Friday, April 29.  See below for my policy on late work (short version: don’t be late).  More details on the final project will follow.
 
 **Extra Credit:** There will be infrequent opportunities to earn small amounts of extra credit.  This will usually involve doing things I might normally do, like deploying our class blog, tidying up code I write for this class for wider consumption, or helping moderate our forums.
 
@@ -74,17 +74,17 @@ These experiences will combine with class assignments, readings, and in-class ex
 
 ## Materials
 
-**Primary Textbook:** We'll be using a new version of Charles Severance's excellent Python for Informatics.  This book is being revised to support Python 3, and I'm actively helping.  The free PDF and EPUB are available [here](http://do1.dr-chuck.com/pythonlearn/).  I'm working on getting an HTML version up so that you'll always have access to the latest version.  Since the textbook is [open source](https://github.com/csev/pythonlearn) you can make contributions or fixes to any errors you find with the Github-based collaboration skills we'll learn in the class.
+**Primary Textbook:** We'll be using a new version of Charles Severance's excellent Python for Informatics.  This book is being revised to support Python 3, and I'm actively helping.  The free PDF and EPUB are available [here](http://do1.dr-chuck.com/pythonlearn/), and I've gotten permission to maintain an HTML version at [http://ils.unc.edu/~eah13/textbook/](http://ils.unc.edu/~eah13/textbook/).  I'm working on getting an HTML version up so that you'll always have access to the latest version.  Since the textbook is [open source](https://github.com/csev/pythonlearn) you can make contributions or fixes to any errors you find with the Github-based collaboration skills we'll learn in the class.
 
 **Primary Video:** I recorded a video series with O'Reilly this year and we'll use the videos extensively during a section on making interactive games.  The video is [available for purchase from O'Reilly](http://shop.oreilly.com/product/0636920040873.do).  Students who choose to make an interactive game as a final project may want to purchase the video; others can probably make do with the limited-time free access options out there.  More info on this when we get there; no need to get anything yet.
 
-**Readings:** Most, if not all, materials used in this course will be drawn from freely available resources on the Internet.  This mimics the working environment of most programmers.  I’ll select readings from blogs, project documentation, and leading free textbooks and developer reference books Think Python, Learn Python the Hard Way, and Pro Git.
+**Readings:** As often as is possible, materials used in this course will be drawn from freely available resources on the Internet.  This mimics the working environment of most programmers.
 
-**Software:** The course will utilize free open source software almost exclusively.  For in-class exercises, some exercises will be completed via a browser and for actual development we’ll all use the cloud based development environments provided for free by Nitrous.io. This provides a headless Ubuntu server instance and a graphical text editor. It is a professional quality tool that students can use in most real-world development tasks with little modification. 
+**Software:** The course will utilize free software almost exclusively, much of it open source.  For in-class exercises, some exercises will be completed in browser using Trinket.io and for actual development we’ll all use the cloud based development environments provided for free by Cloud9. This provides a headless Ubuntu server instance and a graphical text editor. It is a professional quality tool that students can use in most real-world development tasks with little modification. 
 
 **Hardware:**  Students will need their own laptops able to run Chrome or other modern web browser compatible with Cloud9. iPads are NOT recommended for coding.  If you **must** use an iPad, I highly recommend purchasing and external keyboard. Or, since iPad accessories are already pretty expensive, purchase a $150 Chromebook.  Coders need keyboards.
 
-**Additional Materials:** There is a wealth of excellent Python material on the Internet.  Here is a selection of some resources students may wish to consult for additional perspectives on some of the concepts we'll cover:
+**Additional Materials:** There is a wealth of excellent Python material on the Internet.  Here is a selection of some resources students may wish to consult for additional perspectives or information on some of the concepts we'll cover:
 
 * Coursera's [Python for Everybody](https://www.coursera.org/learn/python) by Dr. Chuck.  Yes, the same Dr. Chuck who wrote our textbook.  Some of these older videos use Python 2 syntax but regardless they are an excellent option for students who want a more multimedia experience.  The Week chunks roughly correspond to the first few chapters.  Highly recommended for any time something didn't 'click' in class and you want to hear it again.  Free.
 * Related, Dr. Chuck has [a YouTube playlist](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ) with lectures and walkthroughs of much of the course content.  
@@ -92,7 +92,6 @@ These experiences will combine with class assignments, readings, and in-class ex
 * [Google's Python Class](https://elliott.trinket.io/google-s-python-class) by Nick Parlante. This is an intensive 2 day course for programmers with experience in a language other than Python.  its quick pace means that it's best as a refresher or extender after we've covered something.  The link is to a version that I made interactive with Trinket, so it should be quick and easy to pop in and do a section.
 
 I'll occasionally pull readings from these sources or refer you to them.
-
 
 ## Grading
 
@@ -110,7 +109,6 @@ Weights of course components are as follows:
 
 Note that the SILS grading policy is based on the University Grading Policy. SILS uses the following graduate and undergraduate grading scales:
 
-
 | Graduate         |           | Undergraduate  |
 | ------------- |:-------------:| -----:|
 | H      | Clear excellence | A |
@@ -118,7 +116,7 @@ Note that the SILS grading policy is based on the University Grading Policy. SIL
 | L | Low Passing      |    C+, C, C- |
 |F     |  Failed   |       D+, D, F|
 
-For the purposes of this course, satisfactory performance (the ‘P’ grade) involves completing all of the assignments and showing personal mastery of the material.  Clear excellence (the ‘H’ grade) means positive participation in communities and effective collaboration with other programmers, either inside or outside our class.
+For the purposes of this course, satisfactory performance (the ‘P’ grade) involves completing all of the assignments and showing personal competence with the material.  Clear excellence (the ‘H’ grade) means active participation in our classroom community, mastery and extension of the material, and effective collaboration with other programmers, either inside or outside our class.
 
 ## Student and Instructor Expectations
 
@@ -136,6 +134,8 @@ If you have any questions about what's allowed, please contact me immediately.  
 
 Students should attend every class and give it their undivided attention.  Use of non-coding websites or social features is prohibited.  There will be many opportunities for interaction, but during class time please pay attention.  Students that do not follow this will be asked to leave class.
 
+If you must miss class please let me know as soon as possible, check the class website for any class notes I post that day, and contact a fellow student for a recap.  You will still be responsible for any in-class exercises completed that day.
+
 ### Late Work
 
 In general, lateness is not tolerated in the professional world, and that's the same standard I’m holding you to.  Late work without prior approval will not be accepted.  Exceptions will be rare. Contact me as soon as you think you may have difficulty meeting a deadline with your rationale for an extension.  Turning work in early is good for all involved, for this class and your career beyond, so start early.
@@ -146,4 +146,4 @@ I take the happiness and wellbeing of all students very seriously and share the 
 
 ## Acknowledgements
 
-This course and its content has been deeply influenced by my interactions with and the input of others.  I’d like to thank David Gotz, Hilmar Lapp, Stephanie Haas, Brian Marks, Greg Wilson, John D. Martin III, Alan Dipert, Al Sweigart, and Charles Severance for a wide range of help.
+This course and its content has been deeply influenced by my interactions with and the input of others.  I’d like to thank David Gotz, Hilmar Lapp, Stephanie Haas, Brian Marks, Greg Wilson, John D. Martin III, Rob Capra, Alan Dipert, Al Sweigart, and Charles Severance for a wide range of help.
