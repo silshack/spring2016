@@ -11,10 +11,13 @@ timezone: America/New_York
 gems:
   - jemoji
 
+# Categories to exclude from the index
 special-categories: 
   - "exercise"
   - "how-to"
   - "sidebar"
+  - "reading"
+  - "notes"
   
 # Exclude Jekyll's built-in tests
 exclude: [vendor]
@@ -23,7 +26,7 @@ exclude: [vendor]
 page-order:
   - syllabus
   - schedule
-  - exercises
+  - assignments
   - how-to
   - people
 

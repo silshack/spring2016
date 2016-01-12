@@ -136,6 +136,14 @@ code, pre {
   background-color: #2980b9; !important
 }
 
+table {
+  width: 100%;
+}
+
+tr:hover td {
+  background-color: lightyellow;
+}
+
 /*http://stackoverflow.com/questions/32854455/mobile-menu-breakpoint-in-foundation*/
 @media only screen and (max-width: 40.063em) {
     meta.foundation-mq-topbar {
