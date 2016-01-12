@@ -6,6 +6,7 @@ categories:
  - exercise
 inclass: true
 title: Github basics
+date: 2016-01-14 11:58pm
 ---
 
 # Can I Get A Volunteer?
