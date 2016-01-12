@@ -1,7 +1,10 @@
 ---
 layout: post
 author: elliott
-categories: how-to
+categories: 
+ - how-to
+ - exercise
+inclass: true
 title: Github basics
 ---
 

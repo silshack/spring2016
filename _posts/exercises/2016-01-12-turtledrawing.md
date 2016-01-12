@@ -1,17 +1,22 @@
 ---
 author: elliott
 layout: post
-title: Diving into Python!
+title: Turtle Drawing!
 categories: exercise
-date: 2016-01-17 11:59pm
-published: false
+date: 2016-01-14 11:00am
 ---
 
-These two exercises are all about diving into python and getting our hands dirty.  The first is getting a program to ask for user input.  The second is to make the coolest Turtle program you can and post it to our blog.  There's nothing to turn in for the first exercise.  I'll walk thru the first one in class and as much of the second one as I can.  For this exercise, practice knowing only what you need to solve the problem- don't be worried if you don't understand everything.  Next class we'll back up and examine some of the concepts we're glossing over.
+These two exercises are all about diving into python and getting our hands dirty.  The first is getting a 
+program to ask for user input.  The second is to make the coolest Turtle program you can and post it to 
+our blog.  There's nothing to turn in for the first exercise.  I'll walk thru the first one in class and 
+as much of the second one as I can.  For this exercise, practice knowing only what you need to solve the 
+problem- don't be worried if you don't understand everything.  Next class we'll back up and examine some 
+of the concepts we're glossing over.
 
 ## Custom Input for Turtles
 
-In the ActiveCode Example 2, there's an example that introduces background colors.  It suggests we extend the program to accept user input.  Let's do that now.
+In the ActiveCode Example 2, there's an example that introduces background colors.  It suggests we extend 
+the program to accept user input.  Let's do that now.
 
 When you're done with this part of the exercise you'll have a program that:
 
@@ -19,22 +24,28 @@ When you're done with this part of the exercise you'll have a program that:
 * prompts the user for a background color and makes it that color
 * prompts the user for Tess's pen size and makes her pen that size
 
-To prompt the user for input we'll need Python's `raw_input()` function.  We haven't learned about functions yet, but since we're diving in we're just going to use it and see what happens.
+To prompt the user for input we'll need Python's `raw_input()` function.  We haven't learned about 
+functions yet, but since we're diving in we're just going to use it and see what happens.
 
 Read up a little on some of the results from a quick Google search:
 
 * Python's [official docs](http://docs.python.org/2/library/functions.html#raw_input) for `raw_input`
 * [Stack overflow question](http://stackoverflow.com/questions/5563089/raw-input-function-in-python)
 
-Like much of the documentation we'll find in programming, these imply or depend on a lot of background knowledge you may or may not have.  Push on even if you don't understand and see what happens in the code!  I'll mention a few things that might help.
+Like much of the documentation we'll find in programming, these imply or depend on a lot of background 
+knowledge you may or may not have.  Push on even if you don't understand and see what happens in the 
+code!  I'll mention a few things that might help.
 
-`raw_input` gets a value, and we have to store it somewhere to use it in our program.  That's why in the example on Stack Overflow there's an assignment of the statement to a variable.  For example, we might store the result like this:
+`raw_input` gets a value, and we have to store it somewhere to use it in our program.  That's why in 
+the example on Stack Overflow there's an assignment of the statement to a variable.  For example, we 
+might store the result like this:
 
 ```
 tess_color = raw_input("What color should Tess be?")
 ```
 
-This will cause a window to pop up asking "What color should Tess be?" and save the user input into the variable.  We can then use the `tess_color` variable later, in place of something like `"red"` or etc.
+This will cause a window to pop up asking "What color should Tess be?" and save the user input into 
+the variable.  We can then use the `tess_color` variable later, in place of something like `"red"` or etc.
 
 Using this information, knock out the three components of the exercise above.
 
@@ -43,7 +54,10 @@ Using this information, knock out the three components of the exercise above.
 
 Now that we know a little about how to make Turtles do cool stuff, let's [hack](http://paulgraham.com/gba.html) them!
 
-The Turtle library is code that someone else wrote for us.  You can see the full extent of that code [here](http://silshack.github.io/fall2013/turtle.html). The Textbook reading we had uses only some of this **library** or **module**'s functionality.  We'll learn some more about this functionality, make some pretty pictures, and post our results on the blog.  At the end of this exercise you should have:
+The Turtle library is code that someone else wrote for us.  You can see the full extent of that code 
+[here](http://silshack.github.io/fall2013/turtle.html). The Textbook reading we had uses only some of 
+this **library** or **module**'s functionality.  We'll learn some more about this functionality, make 
+some pretty pictures, and post our results on the blog.  At the end of this exercise you should have:
 
 * Some Turtle code that, when run on the interactive python site (i.e. our textbook) produces an awesome picture.  The more awesome the better.  The more use of the Turtle module's special abilies the better.
 * The picture itself, taken as a screenshot.

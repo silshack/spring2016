@@ -2,7 +2,7 @@
 author: elliott
 layout: post
 title: "Diving in to Python!"
-category: how-to
+categories: reading
 ---
 
 # Why Python?
