@@ -114,14 +114,14 @@ Date            | Topic                 | Readings (completed before class) | Ex
 --------------- | -----------------     | --------------------------------- | ----------------------
 Tues, Jan 12    | Diving into Python    | Welcome to the course! :)         | Turtle Drawing
 Thurs, Jan 14   | Github basics         | Github's Hello World Guide | A Pull Request with your Turtle Drawing
-Tues, Jan 19    | Variables <br> Operators        | Dr. Chuck Chapter 1       | Merge your classmates' changes<br>Chapter 1 Exercises
-Thurs, Jan 21   | Variables <br> Logic            | Dr. Chuck Chapter 2               | Chapter 2 Exercises
+Tues, Jan 19    | Variables <br> Operators        | Dr. Chuck Chapter 2       | Merge your classmates' changes<br>Chapter 1 Exercises
+Thurs, Jan 21   | Variables <br> Logic            | Dr. Chuck Chapter 3               | Chapter 3 Exercises
 Tues, Jan 26    | Logic <br> Expressions          |                                   | 
-Thurs, Jan 28   | Functions                    | Dr. Chuck Chapter 3               | Chapter 3 Exercises
+Thurs, Jan 28   | Functions                    | Dr. Chuck Chapter 4               | Chapter 4 Exercises
 Tues, Feb 2     | Functions <br> Events           |                                   | 
-Thurs, Feb 4    | Loops                        | Dr. Chuck Chapter 4               | Chapter 4 Exercises
-Tues, Feb 9     | Loops <br> Lists                | Dr. Chuck Chapter 7               | Chapter 7 Exercises
-Thurs, Feb 11   | Modules <br> Turtle             |                                   | TBD
+Thurs, Feb 4    | Loops                        | Dr. Chuck Chapter 5               | Chapter 5 Exercises
+Tues, Feb 9     | Loops <br> Lists                | Dr. Chuck Chapter 8               | Chapter 8 Exercises
+Thurs, Feb 11   | Modules <br>cd Turtle             |                                   | TBD
 Tues, Feb 16    | User Interfaces              | Video                             | Drawing App Project (Due Feb 23)
 Thurs, Feb 18   | Turtle Screen (Remote Class) | Video                             | 
 Tues, Feb 23    | Debugging (Remote Class)     | Video                             | 
@@ -132,11 +132,11 @@ Tues, Mar 8     | Class Extension              |                                
 Thurs, Mar 10   | Game Project Code Talks      |                                   | Set up Cloud 9 (by March 22)
 Tues, Mar 15    | Spring Break                 |                                   | 
 Thurs, Mar 17   | Spring Break                 |                                   | 
-Tues, Mar 22    | Projects <br> Cloud 9<br> Files     | Dr. Chuck Chapter 6               | Files Exercises
-Thurs, Mar 24   | Strings                      | Dr. Chuck Chapter 5               | Strings Exercises
-Tues, Mar 29    | Strings<br> Regex               | Dr. Chuck Chapter 5 <br> Dr. Chuck Chapter 10 | Regex Exercises
-Thurs, Mar 31   | Dictionaries <br> Reading websites with Python | Dr. Chuck Chapter 8<br> Dr. Chuck Chapter 11   | Dictionaries Exercises
-Tues, Apr 5     | Dictionaries<br> Parsing Data                 | Dr. Chuck Chapter 12              | Dictionaries Exercises
+Tues, Mar 22    | Projects <br> Cloud 9<br> Files     | Dr. Chuck Chapter 7               | Files Exercises
+Thurs, Mar 24   | Strings                      | Dr. Chuck Chapter 6               | Strings Exercises
+Tues, Mar 29    | Strings<br> Regex               | Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | Regex Exercises
+Thurs, Mar 31   | Dictionaries <br> Reading websites with Python | Dr. Chuck Chapter 9<br> Dr. Chuck Chapter 12   | Dictionaries Exercises
+Tues, Apr 5     | Dictionaries<br> Parsing Data                 | Dr. Chuck Chapter 13              | Dictionaries Exercises
 Thurs, Apr 7    | Project statement due <br> git   |                                   | TBD
 Tues, Apr 12    | Project work day             |                                   | TBD
 Thurs, Apr 14   | Progress reports             |                                   | TBD
