@@ -114,7 +114,7 @@ Date            | Topic                 | Readings (completed before class) | Ex
 --------------- | -----------------     | --------------------------------- | ----------------------
 Tues, Jan 12    | Diving into Python    | Welcome to the course! :)         | Turtle Drawing
 Thurs, Jan 14   | Github basics         | Github's Hello World Guide | A Pull Request with your Turtle Drawing
-Tues, Jan 19    | Variables <br> Operators        | Dr. Chuck Chapter 2       | Merge your classmates' changes<br>Chapter 1 Exercises
+Tues, Jan 19    | Variables <br> Operators        | Dr. Chuck Chapter 2       | Merge your classmates' changes<br>Chapter 2 Exercises
 Thurs, Jan 21   | Variables <br> Logic            | Dr. Chuck Chapter 3               | Chapter 3 Exercises
 Tues, Jan 26    | Logic <br> Expressions          |                                   | 
 Thurs, Jan 28   | Functions                    | Dr. Chuck Chapter 4               | Chapter 4 Exercises
