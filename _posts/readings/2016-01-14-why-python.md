@@ -87,7 +87,7 @@ intepreters are so much more convenient for programmers than compilers are.
 
 Further Reading:
 
-* Section 0.6 of [our textbook](http://www.pythonlearn.com/html-270/book002.html#sec9) has more on this subject.
+* Chapter 1 of [our textbook](http://ils.unc.edu/~eah13/textbook/01-intro.html#terminology-interpreter-and-compiler) has more on this subject.
 * [Discussion about this on Quora](https://www.quora.com/What-is-the-difference-between-compiled-and-interpreted-programming-languages) 
 wherein the top commenter says that since every language *can* be interpreted or compiled (which is true), it makes no sense to speak of them in 
 such terms.  Which means that what I wrote above is a bunch of hogwash. See if you agree.  You'll find lots of very precise answers like 
