@@ -129,7 +129,7 @@ Thurs, Feb 25   | No Class<br> Work on Project    |                             
 Tues, Mar 1     | Drawing Project Code Talks   |                                   | Take-home Midterm (Due March 8; ungraded)
 Thurs, Mar 3    | Class Extension              |                                   | Game Project 2 (Due March 10)
 Tues, Mar 8     | Class Extension              |                                   | TBD
-Thurs, Mar 10   | Game Project Code Talks      |                                   | Set up Cloud 9 (by March 22)
+Thurs, Mar 10   | Game Project Code Talks      |                                   | Set up Cloud 9 (by March 22) <br> Extra Credit: Spring Break Hack
 Tues, Mar 15    | Spring Break                 |                                   | 
 Thurs, Mar 17   | Spring Break                 |                                   | 
 Tues, Mar 22    | Projects <br> Cloud 9<br> Files     | Dr. Chuck Chapter 7               | Files Exercises
