@@ -5,7 +5,8 @@ title: "People"
 
 
 ### {{ site.course.title }} Instructors  
-{% for a in site.authors do %}
+{% assign authors = site.authors %}
+{% for a in authors do %}
   {% assign adata = a[0] %}
   {% assign thisauthor = site.authors[adata] %}
   
@@ -40,7 +41,9 @@ title: "People"
   {% if thisauthor.prof != true %}
 #### {{ thisauthor.name }}
 
-{{ thisauthor.about }}  Find {{ thisauthor.name }} on <a href="http://twitter.com/{{thisauthor.twitter}}">Twitter</a>, <a href="http://github.com/{{thisauthor.github}}">Github</a>, and <a href="{{thisauthor.website}}">on the web</a>.
+{{ thisauthor.about }}  
+
+Find {{ thisauthor.name }} on <a href="http://twitter.com/{{thisauthor.twitter}}">Twitter</a>, <a href="http://github.com/{{thisauthor.github}}">Github</a>, and <a href="{{thisauthor.website}}">on the web</a>.
 
     {% for p in site.posts do %}
       {% for authors in p.author %}
