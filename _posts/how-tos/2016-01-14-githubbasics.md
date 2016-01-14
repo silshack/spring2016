@@ -11,6 +11,8 @@ date: 2016-01-14 11:58pm
 
 # Can I Get A Volunteer?
 
+We're going to help Tommy the Tester create his first post.
+
 * Create Github account
 * Go to [http://github.com/silshack/spring2016]
 * Create a new post with the filename `_posts/<yourname>/2015-01-12-<yourname>-first-post.md` **Remember the importance of careful typing**
@@ -27,9 +29,7 @@ title: "Yourname's first post!"
 **Remember, every character matters to a computer.**
 
 * Then, underneath, write a bit about yourself.
-* Write a commit message at the bottom of the github page describing what you did, like "Added Elliott's first post"
-* Commit directly to the gh-pages branch
-* Check it out on <yourname>.github.io/spring2016.  If you don't see your post, make sure you've committed to the gh-pages branch (that's what triggers the website getting created)
+* Write a commit message at the bottom of the github page describing what you did, like "Added Tommy's first post"
 * Look good? Create Pull Request.  Or edit again if something's wrong.
 * :+1: :sunglasses: :fire:
 
