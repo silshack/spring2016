@@ -1,7 +1,7 @@
 ---
 layout: post
 author: namagic
-title: "Yourname's first post!"
+title: "Omar's First Post"
 ---
 
 hola, mi llamo omar
