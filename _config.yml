@@ -57,6 +57,7 @@ authors:
       github: eah13
       twitter: hauspoor
       about:  Elliott Hauser is a PhD Student in information science at UNC Chapel Hill.  He's hacking education as one of the cofounders of Trinket.io.  
+  
   grant:
       name: Grant McLendon
       prof: true
@@ -65,6 +66,7 @@ authors:
       github: gerbal
       twitter: gerbal100
       about: Grant is a former student and TA who helped make this site. He's from Chapel Hil and likes playing with new technologies and getting way in over his head.
+  
   tommytester:
       name: Tommy the Tester
       prof: false
@@ -73,3 +75,175 @@ authors:
       github: tommytester
       twitter: tommytester
       about: "Tommy is our tester account.  We'll use him to scope out how to use github"
+    
+  clairewlj:                    
+    name: clairewlj
+    prof: false
+    gravatar:
+    website: 
+    github: clairewlj
+    twitter: 
+    about: "Here's a little about clairewlj"
+    
+  ericabrody:                    
+    name: ericabrody
+    prof: false
+    gravatar:
+    website: 
+    github: ericabrody
+    twitter: 
+    about: "Here's a little about ericabrody"
+    
+  EternalFootman:                    
+    name: EternalFootman
+    prof: false
+    gravatar:
+    website: 
+    github: EternalFootman
+    twitter: 
+    about: "Here's a little about EternalFootman"
+    
+  gao14g:                    
+    name: gao14g
+    prof: false
+    gravatar:
+    website: 
+    github: gao14g
+    twitter: 
+    about: "Here's a little about gao14g"
+    
+  hannahlwang:                    
+    name: hannahlwang
+    prof: false
+    gravatar:
+    website: 
+    github: hannahlwang
+    twitter: 
+    about: "Here's a little about hannahlwang"
+    
+  jamesma560:                    
+    name: jamesma560
+    prof: false
+    gravatar:
+    website: 
+    github: jamesma560
+    twitter: 
+    about: "Here's a little about jamesma560"
+    
+  JayYang95:                    
+    name: JayYang95
+    prof: false
+    gravatar:
+    website: 
+    github: JayYang95
+    twitter: 
+    about: "Here's a little about JayYang95"
+    
+  jwarrich:                    
+    name: jwarrich
+    prof: false
+    gravatar:
+    website: 
+    github: jwarrich
+    twitter: 
+    about: "Here's a little about jwarrich"
+    
+  namagic:                    
+    name: namagic
+    prof: false
+    gravatar:
+    website: 
+    github: namagic
+    twitter: 
+    about: "Here's a little about namagic"
+    
+  nataliele:                    
+    name: nataliele
+    prof: false
+    gravatar:
+    website: 
+    github: nataliele
+    twitter: 
+    about: "Here's a little about nataliele"
+    
+  payalpn:                    
+    name: payalpn
+    prof: false
+    gravatar:
+    website: 
+    github: payalpn
+    twitter: 
+    about: "Here's a little about payalpn"
+    
+  pmr1027:                    
+    name: pmr1027
+    prof: false
+    gravatar:
+    website: 
+    github: pmr1027
+    twitter: 
+    about: "Here's a little about pmr1027"
+    
+  RhymesWithMecca:                    
+    name: RhymesWithMecca
+    prof: false
+    gravatar:
+    website: 
+    github: RhymesWithMecca
+    twitter: 
+    about: "Here's a little about RhymesWithMecca"
+    
+  ShyArmadillo8:                    
+    name: ShyArmadillo8
+    prof: false
+    gravatar:
+    website: 
+    github: ShyArmadillo8
+    twitter: 
+    about: "Here's a little about ShyArmadillo8"
+    
+  touchwick:                    
+    name: touchwick
+    prof: false
+    gravatar:
+    website: 
+    github: touchwick
+    twitter: 
+    about: "Here's a little about touchwick"
+    
+  tsukori:                    
+    name: tsukori
+    prof: false
+    gravatar:
+    website: 
+    github: tsukori
+    twitter: 
+    about: "Here's a little about tsukori"
+    
+  tyym0215:                    
+    name: tyym0215
+    prof: false
+    gravatar:
+    website: 
+    github: tyym0215
+    twitter: 
+    about: "Here's a little about tyym0215"
+    
+  wfh1972:                    
+    name: wfh1972
+    prof: false
+    gravatar:
+    website: 
+    github: wfh1972
+    twitter: 
+    about: "Here's a little about wfh1972"
+    
+  yiyangshi:                    
+    name: yiyangshi
+    prof: false
+    gravatar:
+    website: 
+    github: yiyangshi
+    twitter: 
+    about: "Here's a little about yiyangshi"
+    
