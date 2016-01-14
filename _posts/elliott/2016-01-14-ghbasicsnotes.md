@@ -45,6 +45,13 @@ What are your goals for this class?
 * "To be able communicate intelligently with programmers"
 
 
+## Schedule Addition
+
+I've added an extra credit hack project for over spring break for those of you who have goals of using 
+Python in a specific program or framework.  More soon, but know I'm listening!
+
+# Today's Class
+
 Today we will:
 
 * Make your first post to our github blog
