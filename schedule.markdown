@@ -121,7 +121,7 @@ Thurs, Jan 28   | Functions                    | Dr. Chuck Chapter 4            
 Tues, Feb 2     | Functions <br> Events           |                                   | 
 Thurs, Feb 4    | Loops                        | Dr. Chuck Chapter 5               | Chapter 5 Exercises
 Tues, Feb 9     | Loops <br> Lists                | Dr. Chuck Chapter 8               | Chapter 8 Exercises
-Thurs, Feb 11   | Modules <br>cd Turtle             |                                   | TBD
+Thurs, Feb 11   | Modules <br> Turtle             |                                   | TBD<br> Meet ups check-in
 Tues, Feb 16    | User Interfaces              | Video                             | Drawing App Project (Due Feb 23)
 Thurs, Feb 18   | Turtle Screen (Remote Class) | Video                             | 
 Tues, Feb 23    | Debugging (Remote Class)     | Video                             | 
@@ -129,7 +129,7 @@ Thurs, Feb 25   | No Class<br> Work on Project    |                             
 Tues, Mar 1     | Drawing Project Code Talks   |                                   | Take-home Midterm (Due March 8; ungraded)
 Thurs, Mar 3    | Class Extension              |                                   | Game Project 2 (Due March 10)
 Tues, Mar 8     | Class Extension              |                                   | TBD
-Thurs, Mar 10   | Game Project Code Talks      |                                   | Set up Cloud 9 (by March 22)
+Thurs, Mar 10   | Game Project Code Talks      |                                   | Set up Cloud 9 (by March 22) <br> Extra Credit: Spring Break Hack
 Tues, Mar 15    | Spring Break                 |                                   | 
 Thurs, Mar 17   | Spring Break                 |                                   | 
 Tues, Mar 22    | Projects <br> Cloud 9<br> Files     | Dr. Chuck Chapter 7               | Files Exercises
@@ -137,7 +137,7 @@ Thurs, Mar 24   | Strings                      | Dr. Chuck Chapter 6            
 Tues, Mar 29    | Strings<br> Regex               | Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | Regex Exercises
 Thurs, Mar 31   | Dictionaries <br> Reading websites with Python | Dr. Chuck Chapter 9<br> Dr. Chuck Chapter 12   | Dictionaries Exercises
 Tues, Apr 5     | Dictionaries<br> Parsing Data                 | Dr. Chuck Chapter 13              | Dictionaries Exercises
-Thurs, Apr 7    | Project statement due <br> git   |                                   | TBD
+Thurs, Apr 7    | Project statement due <br> git   |                                   | TBD <br> Meet ups check-in
 Tues, Apr 12    | Project work day             |                                   | TBD
 Thurs, Apr 14   | Progress reports             |                                   | TBD
 Tues, Apr 19    | Progress reports             |                                   | TBD
