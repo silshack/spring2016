@@ -7,7 +7,9 @@ task :test do
     sh "bundle exec jekyll build"
   rescue Exception => e  
     puts e.message  
-    puts e.backtrace.inspect  
+    puts e.backtrace.inspect 
+    # Remove empty baseurls
+    sh 'head -n -4 _config.yml > tmp && mv tmp _config.yml'
     raise "build failed"
   end 
   begin
@@ -21,6 +23,8 @@ task :test do
   rescue Exception => e  
     puts e.message  
     puts e.backtrace.inspect  
+    # Remove empty baseurls
+    sh 'head -n -4 _config.yml > tmp && mv tmp _config.yml'
   end 
   # Remove empty baseurls
   sh 'head -n -4 _config.yml > tmp && mv tmp _config.yml'
