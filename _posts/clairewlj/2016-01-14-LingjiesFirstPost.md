@@ -1,5 +1,5 @@
 ---
-arthor: clairewlj
+author: clairewlj
 layout: post
 ---
 
