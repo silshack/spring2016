@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Jay Yang
+author: JayYang95
 ---
 
 I like to code.
