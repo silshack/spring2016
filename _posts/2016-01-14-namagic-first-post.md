@@ -1,6 +1,6 @@
 ---
 layout: post
-author: <yourgithubname>
+author: namagic
 title: "Yourname's first post!"
 ---
 
