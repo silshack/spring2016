@@ -2,5 +2,4 @@
 set -e # halt script on error 
 
 # Commands to run during test
-jekyll build
 bundle exec rake test

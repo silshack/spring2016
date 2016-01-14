@@ -15,6 +15,7 @@ task :test do
   rescue Exception => e  
     puts e.message  
     puts e.backtrace.inspect  
+    raise "build failed"
   end 
   # Remove empty baseurls
   sh 'head -n -4 _config.yml > tmp && mv tmp _config.yml'
