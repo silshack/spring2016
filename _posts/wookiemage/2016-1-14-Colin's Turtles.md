@@ -26,7 +26,7 @@ And it involved the use of a loop:
 for x in range(0, sides):
   tina.left(turn)
   tina.forward(100)
-  '''
+'''
   
 Originally, I hoped to have the turtle draw a star with as many points as specified by the user but I ran into trouble with the math.
 I'm sure there is a simple formula for it, but I decided to make my life easier and draw polygons.
