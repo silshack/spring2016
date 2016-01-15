@@ -30,3 +30,7 @@ for x in range(0, sides):
   
 Originally, I hoped to have the turtle draw a star with as many points as specified by the user but I ran into trouble with the math.
 I'm sure there is a simple formula for it, but I decided to make my life easier and draw polygons.
+Here's a fun challenge for more math minded folks, can you figure out how to make this go?
+And for those of you who are more familiar with Python, can you make my math simpler / use fewer lines and variables?
+
+Thanks!
