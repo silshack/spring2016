@@ -1,5 +1,5 @@
 ---
-author: Ga Kay
+author: gao14g
 layout: post
 ---
 
