@@ -9,6 +9,16 @@ title: Github basics
 date: 2016-01-14 11:58pm
 ---
 
+# New: Video
+
+This video walks through creating and updating a new post as well as updating a post that's already been merged.  It also goes over some of the basics of branches.
+
+<iframe src="https://player.vimeo.com/video/151900462" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Hope it helps!
+
+___
+
 # Can I Get A Volunteer?
 
 We're going to help Tommy the Tester create his first post.
