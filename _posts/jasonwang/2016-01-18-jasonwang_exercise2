@@ -39,4 +39,4 @@ print("It is " + str(fahrentemp) + " degrees Fahrenheit.")
 Thoughts:
 I had a bit of a mixup with integers (int) and floating points (float) initially. This led to some errors when I was trying to round the values due to disagreements between the datatypes, i.e. float() doesn't work with integers, and integers and floats don't work together.
 Also, I forgot that you need to convert the numbers into strings before you can concatenate them into the print functions. Nothing serious, but just for readability.
-Finally, for the reading- exercise 4 has an operator called "\*". Does that still apply to python? I could only find documentation for "**" instead.
+Finally, for the reading- exercise 4 has an operator for exponents called "\*". Does that still apply to python? I could only find documentation for "**" instead.
