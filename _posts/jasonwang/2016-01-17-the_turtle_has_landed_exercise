@@ -82,3 +82,5 @@ By doing so, I could then redimension the viewpoint to something that always fit
 6. For filling the shape, the color of the cursor is overridden by the color of the fill. However, the cursor turns into a blend of both colors.
 
 If given more time/opportunties, I'd like to figure out how to center the polygon, and maybe resize the worldview. Also, I'd like to look into the cursor behavior.
+
+Pleae don't think I'm good at Python though. Today's been my first day with Python (I've done Matlab and C before though), and I've only started learning object oriented stuff 2 weeks ago...
