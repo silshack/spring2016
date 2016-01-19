@@ -1,5 +1,5 @@
 ---
-author: Ruotong
+author: izayak
 layout: post
 title: Ruotong First Post
 ---
