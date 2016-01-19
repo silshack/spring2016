@@ -76,6 +76,25 @@ authors:
       twitter: tommytester
       about: "Tommy is our tester account.  We'll use him to scope out how to use github"
     
+    
+  batlopez:                    
+    name: batlopez
+    prof: false
+    gravatar:
+    website: 
+    github: batlopez
+    twitter: 
+    about: "Here's a little about batlopez"
+    
+  camazotz:                    
+    name: camazotz
+    prof: false
+    gravatar:
+    website: 
+    github: camazotz
+    twitter: 
+    about: "Here's a little about camazotz"
+    
   clairewlj:                    
     name: clairewlj
     prof: false
@@ -120,6 +139,15 @@ authors:
     github: hannahlwang
     twitter: 
     about: "Here's a little about hannahlwang"
+    
+  izayak:                    
+    name: izayak
+    prof: false
+    gravatar:
+    website: 
+    github: izayak
+    twitter: 
+    about: "Here's a little about izayak"
     
   jamesma560:                    
     name: jamesma560
@@ -175,15 +203,6 @@ authors:
     twitter: 
     about: "Here's a little about payalpn"
     
-  pmr1027:                    
-    name: pmr1027
-    prof: false
-    gravatar:
-    website: 
-    github: pmr1027
-    twitter: 
-    about: "Here's a little about pmr1027"
-    
   RhymesWithMecca:                    
     name: RhymesWithMecca
     prof: false
@@ -229,6 +248,15 @@ authors:
     twitter: 
     about: "Here's a little about tyym0215"
     
+  wagerpascal:                    
+    name: wagerpascal
+    prof: false
+    gravatar:
+    website: 
+    github: wagerpascal
+    twitter: 
+    about: "Here's a little about wagerpascal"
+    
   wfh1972:                    
     name: wfh1972
     prof: false
@@ -247,7 +275,3 @@ authors:
     twitter: 
     about: "Here's a little about yiyangshi"
     
-
-
-baseurl:
-url:
