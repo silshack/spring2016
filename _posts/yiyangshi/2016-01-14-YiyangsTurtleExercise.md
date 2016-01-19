@@ -1,6 +1,6 @@
 ---
 layout: post
-author:yiyangshi
+author: yiyangshi
 title: Yiyang's Turtle Exercise
 ---
 
