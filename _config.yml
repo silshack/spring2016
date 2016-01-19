@@ -266,6 +266,15 @@ authors:
     twitter: 
     about: "Here's a little about wfh1972"
     
+  wookiemage:
+    name: wookiemage
+    prof: false
+    gravatar:
+    website: 
+    github: wookiemage
+    twitter: 
+    about: "Here's a little about wookiemage"
+    
   yiyangshi:                    
     name: yiyangshi
     prof: false
@@ -274,4 +283,8 @@ authors:
     github: yiyangshi
     twitter: 
     about: "Here's a little about yiyangshi"
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> 306e60f14f765e5bc28ee41ea136b8fb49ff8221

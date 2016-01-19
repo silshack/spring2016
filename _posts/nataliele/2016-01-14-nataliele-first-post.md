@@ -1,6 +1,7 @@
 ---
 layout: post
 author: nataliele
+title: "Natalie's first post"
 ---
 
-Hellow world!
+Hello world!
