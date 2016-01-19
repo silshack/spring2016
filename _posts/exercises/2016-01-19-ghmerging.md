@@ -5,6 +5,7 @@ title: Update your Repo by Merging on Github.com
 categories: exercise 
 inclass: true
 date: 2016-01-19 11:00am
+published: false
 ---
 
 {% include ghmerging %}
