@@ -1,6 +1,7 @@
 ---
 author: gao14g
 layout: post
+title: "Ga Kay's Variable Exercise"
 ---
 
 Exercise 2:
