@@ -1,7 +1,7 @@
 ---
 layout: post
 author: JayYang95
-title: Jay's Turtle Exercise
+title: "Jay's Turtle Exercise"
 ---
 
 Turtle Drawing:
