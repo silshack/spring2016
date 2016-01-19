@@ -1,6 +1,6 @@
 --- 
 layout: post
-author: <batlopez>
+author: batlopez
 title: "Nat's 2nd Assignment!"
 ---
 Welcome!
