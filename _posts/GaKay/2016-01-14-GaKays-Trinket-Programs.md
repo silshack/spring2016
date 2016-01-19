@@ -1,6 +1,7 @@
 ---
 author: gao14g
 layout: post
+title: "Ga Kay's Trinket Programs"
 ---
 
 This is my own personal Trinket.
