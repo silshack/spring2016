@@ -19,7 +19,7 @@ boardcount = int(raw_input("How many boards would the Mongol horde hoard, if the
     chair.fillcolor("red")
 ```
 
-This part was added as a test for prime numbers by using the modulo operator. I thought it was a nice challenge in which to determine the easiest way of doing so.
+This part was added as a test for even/odd numbers by using the modulo operator. I thought it was a nice challenge in which to determine the easiest way of doing so.
 
 In addition, I added:
 
