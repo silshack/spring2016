@@ -1,7 +1,7 @@
 ---
 author: izayak
-layout: post
 title: "Ruotong's Ch2 Exercises Post" 
+layout: post
 ---
 
 Embeded link from Trinket:
