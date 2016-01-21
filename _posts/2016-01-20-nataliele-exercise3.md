@@ -20,3 +20,4 @@ Score   Grade
 < 0.6    F
 
 <iframe src="https://trinket.io/embed/python/a41bf23b56" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+I didnt have much issues with this exercise. I will probably do when using loop for the turtle conditional exercise.
