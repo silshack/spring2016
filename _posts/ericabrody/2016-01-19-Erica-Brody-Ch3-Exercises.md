@@ -4,7 +4,7 @@ author: ericabrody
 title: "Erica's Chapter 3 Exercises"
 ---
 Here is the first program that increases the pay to 1.5 times the pay rate:
-<iframe src="https://trinket.io/embed/python/a3d95e643e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/5df8837e8e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Here is the second program that provides an error message if the user enters a non-numeric string:
 <iframe src="https://trinket.io/embed/python/ee9d1b1517" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
