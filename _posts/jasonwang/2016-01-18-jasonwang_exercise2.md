@@ -33,7 +33,6 @@ celsiustemp = float(raw_input("What's the temperature in Celsius?:"))
 fahrentemp_1 = (celsiustemp*(9/5)) + 32
 fahrentemp = round(fahrentemp_1, 3)
 print("It is " + str(fahrentemp) + " degrees Fahrenheit.")
-
 ```
 
 Thoughts:
