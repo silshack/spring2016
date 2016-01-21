@@ -1,6 +1,6 @@
 ---
 author: izayak
-title: "Ruotong's Ch2 Exercises Post" 
+title: "Ruotong's Chapter2 Variable Exercises Post" 
 layout: post
 ---
 
