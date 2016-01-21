@@ -8,6 +8,7 @@ Take a look:
 <iframe src="https://trinket.io/embed/python/2c801f4cf8" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 And here's the code:
+
 ```
 #Exercise Two Problems
 # Jason Wang
@@ -33,7 +34,6 @@ celsiustemp = float(raw_input("What's the temperature in Celsius?:"))
 fahrentemp_1 = (celsiustemp*(9/5)) + 32
 fahrentemp = round(fahrentemp_1, 3)
 print("It is " + str(fahrentemp) + " degrees Fahrenheit.")
-
 ```
 
 Thoughts:
