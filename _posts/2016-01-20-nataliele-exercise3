@@ -1,0 +1,22 @@
+---
+layout: post
+author: nataliele
+title: Natalie's conditionals exercise
+---
+Exercise 1: Rewrite your pay computation to give the employee 1.5 times the hourly rate for hours worked above 40 hours.
+<iframe src="https://trinket.io/embed/python/dfb9f73012" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Exercise 2: Rewrite your pay program using try and except so that your program handles non-numeric input gracefully by printing a message and exiting the program.
+I rewrote the program so that it'll print an error but will let user enter numbers again.
+<iframe src="https://trinket.io/embed/python/dfb9f73012" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Exercise 3: Write a program to prompt for a score between 0.0 and 1.0. If the score is out of range, print an error message. If the score is between 0.0 and 1.0, print a grade using the following table:
+
+Score   Grade
+>= 0.9     A
+>= 0.8     B
+>= 0.7     C
+>= 0.6     D
+< 0.6    F
+
+<iframe src="https://trinket.io/embed/python/a41bf23b56" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
