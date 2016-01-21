@@ -1,6 +1,6 @@
 ---
 author: namagic
-post: layout
+layout: post
 title: "Omar's Logical turtle Exercise, BMI"
 ---
 
