@@ -1,7 +1,7 @@
 ---
 author: clairewlj
 layout: post
-title: Lingjie's variables exercises
+title: "Lingjie's variables exercises"
 ---
 
 This is my Welcome exercise.
