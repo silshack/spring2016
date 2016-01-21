@@ -3,7 +3,7 @@ author: elliott
 layout: post
 title: Turtle Drawing!
 categories: exercise
-date: 2016-01-14 11:00am
+date: 2016-01-14
 ---
 
 These two exercises are all about diving into python and getting our hands dirty.  The first is getting a 
