@@ -23,6 +23,7 @@ With great power comes great responsibility
 
 * Never merge your own pull request
 * Never commit directly to the `gh-pages` branch
+![Imgur](http://i.imgur.com/sEFqgU7.png)
 * Never merge broken or failing code
 
 # Review & Merge Posts
