@@ -1,7 +1,7 @@
 ---
 author: wookiemage
 layout: post
-title: Colin's Turtle Logic
+title: "Colin's Turtle Logic"
 ---
 I had some trouble finding any inspiration for this one. I just couldn't think of what to do.
 So I started off overly ambitious. I decided I was going to draw the Apple Logo with the turtle. I didn't get too far. I couldn't make it fill in the spaces I wanted filled and leave the rest black. And positioning of the circles was difficult too. So I gave up on that one.
