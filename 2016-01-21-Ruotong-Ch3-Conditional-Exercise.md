@@ -20,5 +20,5 @@ http://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/op_precedence.
 My questions:
 1. For exercise 3, for score less than 0 or greater than 10, I print 'Bad score' in the try part. Should that be put in except part? 
 I also add a comment in the Trinket file to indicate that question's position.
-
+2. About the print statement, can I use it the way like in Python i.e. print(' ', ' ', ...)? Or I can only use like this: print ' '+' '+... ? 
 
