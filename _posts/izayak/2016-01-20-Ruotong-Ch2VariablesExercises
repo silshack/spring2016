@@ -9,3 +9,4 @@ Embeded link from Trinket:
 
 Some ideas:
 1. The print function is not the same as in the Python interpreter, also not the same as in the textbook. Changed the format to work out.
+2. I found out that in Trinket's Python interpreter I should use ' ' instead of " ". While in Python interpreter, either works.
