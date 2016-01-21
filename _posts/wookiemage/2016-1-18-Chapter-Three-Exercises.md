@@ -1,7 +1,7 @@
 ---
 author: wookiemage
 layout: post
-title: Chapter Three: Flow Control Exercises
+title: Chapter Three Flow Control Exercises
 ---
 Here's my first exercise:
 <iframe src="https://trinket.io/embed/python/01b02c1c22" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
