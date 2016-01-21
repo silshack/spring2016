@@ -1,7 +1,7 @@
 ---
 layout: post
 author: EternalFootman
-title: Kit's Logical Turtles
+title: "Kit's Logical Turtles"
 ---
 This is the first scene of "Alice In Wonderland" with turtles. Enjoy.
 
