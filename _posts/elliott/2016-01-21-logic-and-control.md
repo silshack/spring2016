@@ -17,6 +17,14 @@ we can review any outstanding issues.
 
 Gittr chat.
 
+# Merging!
+
+With great power comes great responsibility
+
+* Never merge your own pull request
+* Never commit directly to the `gh-pages` branch
+* Never merge broken or failing code
+
 # Review & Merge Posts
 
 Volunteer: Merging with Tommy Tester.
