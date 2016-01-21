@@ -1,5 +1,5 @@
 ---
-format: post
+layout: post
 author: ericabrody
 title: "Erica's Chapter 3 Exercises"
 ---
