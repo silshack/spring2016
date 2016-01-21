@@ -40,3 +40,10 @@ I use it to generate random numbers for you and in the animation.
 The `animations.py` file is a **custom module**.  Custom modules are basically a way of organizing
 code so it's more managable. I `import` the function instead of defining it in `main.py`,
 getting it out of the way.
+
+# Get Creative!
+
+As our first **game sketch**, this assignment offers lots of opportunity to get creative.
+Make sure to pace yourself and run your code often if you're experiementing. You can 
+**Duplicate/Make a Copy** of your code on Trinket if you want to experiment without
+worrying about breaking your assignment.

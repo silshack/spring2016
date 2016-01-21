@@ -21,9 +21,10 @@ Gittr chat.
 
 Volunteer: Merging with Tommy Tester.
 
-* Reviewing PRs
-* Assigning issues
-* Merging
+* Reviewing PRs - comment on them directly
+* Merging - Your responsibility to make sure your partner's post works! Check that it shows up on our site
+* Assigning issues - already merged work with problems
+
 
 ~10 minutes reviewing & merging posts with a partner.
 
@@ -38,7 +39,12 @@ Basic `if` statements act as 'gates' to control whether blocks of code get execu
 
 # Logical Turtles code talks
 
-3-4 student programs
+3-4 student volunteers
+
+* Story of your approach
+* Your triumphs
+* Your despairs
+* Problem Solving attitudes and strategies
 
 # Homework: Treasure Hunt Turtles
 
