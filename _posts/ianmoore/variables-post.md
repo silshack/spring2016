@@ -1,7 +1,7 @@
 ---
-author: touchwick
 layout: post
-title: Chapter 2: Variable Exercises
+author: touchwick
+title: "Chapter 2 Exercises"
 ---
 Here's my first exercise: 
 
