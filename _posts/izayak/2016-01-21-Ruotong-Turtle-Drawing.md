@@ -4,7 +4,7 @@ title: "Ruotong's Turtle Drawing"
 layout: post
 ---
 
-Here is the embeded link from Trinket:
+Here is the embedded link from Trinket:
 <iframe src="https://trinket.io/embed/python/b8066c8fd0" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 I'm kind of sad of the result.
@@ -24,5 +24,6 @@ The problems that I was facing:
 quite tedious.
 3. For the face, either square or circle would be fine. But if I use square, the radius cannot be on the top of the square. 
 I guess that should be my problem. I am sure this can be achieved by Turtle.
+4. Did not figure out why the turtle.write() did not work. The place is not where I wanted the message to show up. Confused about that.
 
 All in all, although it takes time, it's interesting! 
