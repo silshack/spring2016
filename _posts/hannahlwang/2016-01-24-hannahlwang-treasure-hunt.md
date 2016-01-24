@@ -1,6 +1,6 @@
 ---
 layout: post
-author: hlwang
+author: hannahlwang
 title: "Hannah's Turtle Treasure Hunt!"
 ---
 Here is my treasure hunt! A few notes and observations:
