@@ -27,3 +27,8 @@ I guess that should be my problem. I am sure this can be achieved by Turtle.
 4. Did not figure out why the turtle.write() did not work. The place is not where I wanted the message to show up. Confused about that.
 
 All in all, although it takes time, it's interesting! 
+
+
+Feedback from insturctor:
+in your program, you send your turtle to 200,-30. The canvas goes from -200 to 200 in either direction, so this puts the turtle way off the the right of the screen. When you write(), the text is then not visible. Also, your pen is still down, so the turtle draws a line.
+Try sending the turtle to 0,-150 or something and then writing. Also, remember that your turtle will write in his current color, so you will probably need to change it for the writing to show up.
