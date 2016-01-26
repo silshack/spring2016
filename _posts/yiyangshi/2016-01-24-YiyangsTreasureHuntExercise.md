@@ -1,7 +1,7 @@
 ---
 author: yiyangshi
 layout: post
-title: Yiyang's Treasure Hunt Turtles Exercise
+title: "Yiyang's Treasure Hunt Turtles Exercise"
 ---
 
 Here is my treasure hunt turtle Tina:
