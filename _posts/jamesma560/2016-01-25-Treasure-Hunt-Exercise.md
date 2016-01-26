@@ -1,6 +1,6 @@
 ---
 layout: post
-author: jamesma
+author: jamesma560
 title: "James' Tresure Hunt Exercise"
 ---
 
