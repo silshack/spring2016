@@ -12,10 +12,9 @@ Problems encountered:
 http://stackoverflow.com/questions/5228383/how-do-i-find-the-distance-between-two-points  
 There are two ways: 1) use a specific function called 'hypot' 2) directly use the Pythagorean theorem with 'sqrt' function.  
 Do not forget put 'math.' before 'sqrt'. https://mail.python.org/pipermail/tutor/2002-March/013249.html  
-2. String and variable print at the same time [still have question]  
+2. String and variable print at the same time [solved]  
 http://stackoverflow.com/questions/17153779/how-can-i-print-variable-and-string-on-same-line-in-python  
-There is one way like this: print "If there was a birth every 7 seconds, there would be: {} births".format(births). I tried, but this did
-not work.  
+There is one way like this: print "If there was a birth every 7 seconds, there would be: {0} births".format(births).  
 3. Round function [solved]  
 https://docs.python.org/2/library/functions.html#round  
 
@@ -24,3 +23,8 @@ https://docs.python.org/2/library/functions.html#round
 2. Give the player the information about the direction would be helpful. e.g. East,North,South,West. 
 3. .towards() and .distance() and .color(). Make the turtle towards the treasure and change its color reder if get closer.  
 
+Why this does not work?
+  if not isinstance(user_x, (int,float) )  or not isinstance(user_y, (int,float) ) :
+    print("Enter a number :(")
+  elif abs( float(user_x) ) > 100 or abs( float(user_y) ) > 100 :
+    print("Enter something between -100 and 100 :)")
