@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=zCstXk-46nE
 because the speed of drawing a circle is quite slow... then I found that I can figure out the place later which at first I thought
 could be hard. Actually that's way better as drawing radius is fast.  
 
-The problems that I was facing:
+The problems that I was facing:  
 1. I need to make sensei's teeth white, instead of yellow as his face... I tried using fill, but the result is weird.  
 2. To indicate that's his teeth, I need lines with different length. But comparing to the first one, this can be solved, but can be
 quite tedious.  
