@@ -28,3 +28,6 @@ Why this does not work?
     print("Enter a number :(")  
   elif abs( float(user_x) ) > 100 or abs( float(user_y) ) > 100 :  
     print("Enter something between -100 and 100 :)")  
+resources:  
+http://stackoverflow.com/questions/1549801/differences-between-isinstance-and-type-in-python  
+http://stackoverflow.com/questions/11204789/how-to-properly-use-pythons-isinstance-to-check-if-a-variable-is-a-number  
