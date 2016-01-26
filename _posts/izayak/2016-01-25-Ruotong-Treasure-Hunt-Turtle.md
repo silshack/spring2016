@@ -23,8 +23,8 @@ https://docs.python.org/2/library/functions.html#round
 2. Give the player the information about the direction would be helpful. e.g. East,North,South,West. 
 3. .towards() and .distance() and .color(). Make the turtle towards the treasure and change its color reder if get closer.  
 
-Why this does not work?
-  if not isinstance(user_x, (int,float) )  or not isinstance(user_y, (int,float) ) :
-    print("Enter a number :(")
-  elif abs( float(user_x) ) > 100 or abs( float(user_y) ) > 100 :
-    print("Enter something between -100 and 100 :)")
+Why this does not work?  
+  if not isinstance(user_x, (int,float) )  or not isinstance(user_y, (int,float) ) :  
+    print("Enter a number :(")  
+  elif abs( float(user_x) ) > 100 or abs( float(user_y) ) > 100 :  
+    print("Enter something between -100 and 100 :)")  
