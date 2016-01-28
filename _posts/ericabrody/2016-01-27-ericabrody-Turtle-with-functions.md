@@ -10,7 +10,7 @@ which determines the number of squares drawn. All the squares are green.
 
 Here is the new program which includes 2 functions - one that uses an argument and one that returns a result.
 The only difference in this program is that each square drawn is a random color.
-<iframe src="https://trinket.io/embed/python/61fb719ba2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/c0cea377e8" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Reflection:
 I have now written several programs that check whether the user input is an integer and whether it falls within a prescribed range.
