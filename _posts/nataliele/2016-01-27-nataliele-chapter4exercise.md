@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nataliele
-title: Natalie's function exercise
+title: "Natalie's function exercise"
 ---
 
 Exercise 6:
