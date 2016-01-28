@@ -4,6 +4,10 @@ author: jwarrich
 title: "Javairia's Turtle Function"
 ---
 
+Here is my original Logical turtle:
+
+<iframe src="https://trinket.io/embed/python/1651f09ea5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 Here is my Logical turtle with functions:
 
 <iframe src="https://trinket.io/embed/python/e247311102" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
