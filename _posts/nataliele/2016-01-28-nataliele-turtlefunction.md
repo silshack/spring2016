@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nataliele
-title: Natalie's turtle function exercise
+title: "Natalie's turtle function exercise"
 ---
 
 This is my previous turtle exercise edited with a custom function:
