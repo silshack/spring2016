@@ -21,4 +21,7 @@ My questions:
 1. For exercise 3, for score less than 0 or greater than 10, I print 'Bad score' in the try part. Should that be put in except part? <\n>
 I also add a comment in the Trinket file to indicate that question's position.  
 
+Update:  
+This problem is solved when I do the Chapter4 Exercise.  
+https://github.com/silshack/spring2016/blob/gh-pages/_posts/izayak/2016-01-28-Ruotong-Ch4-Function-Exercise.md  
 
