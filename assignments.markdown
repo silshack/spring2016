@@ -11,7 +11,9 @@ be completed by the date and time listed.  Class notes are for your reference of
 {% comment %} Jekyll 2.4 doesn't support the concat filter so we hack it with push {% endcomment %}
 {% assign assignments = "" | split: "" %}
 {% for exercise in site.categories.exercise %}
+{% if exercise.published != false %}
     {% assign assignments = assignments | push: exercise %}
+{% endif %}
 {% endfor %}
 {% for reading in site.categories.reading %}
     {% assign assignments = assignments | push: reading %}
