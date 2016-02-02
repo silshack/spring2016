@@ -2,7 +2,7 @@
 layout: default
 title: "Assignments"
 ---
-
+ 
 ## {{ site.course.number }} Assignments
 
 Assignments will be added below.  Readings should be done by the beginning of class.  Exercises should 
