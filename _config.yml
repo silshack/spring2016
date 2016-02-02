@@ -4,6 +4,8 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
+  
+future: true
 
 timezone: America/New_York
 
