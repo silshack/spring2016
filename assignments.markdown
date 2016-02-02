@@ -17,7 +17,7 @@ be completed by the date and time listed.  Class notes are for your reference of
 {% endfor %}
 {% for reading in site.categories.reading %}
     {% assign assignments = assignments | push: reading %}
-{% endfor %}
+{% endfor %} 
 {% for note in site.categories.notes %}
     {% assign assignments = assignments | push: note %}
 {% endfor %}
