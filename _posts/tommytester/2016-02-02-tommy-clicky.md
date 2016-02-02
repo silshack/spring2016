@@ -25,4 +25,10 @@ comparison).
 
 I had fun on this one!  Here are two pictures I drew with my program:
 
+Traditional:
 
+![]([Imgur](http://i.imgur.com/8n5IWnN.png)
+
+Using animation artifacts for artistic effect:
+
+![]([Imgur](http://i.imgur.com/I2lR24l.png))
