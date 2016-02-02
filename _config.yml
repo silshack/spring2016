@@ -1,9 +1,9 @@
 name: SILShack Spring 2016
 
 highlighter: rouge
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"]
+markdown: kramdown
+kramdown:
+  input: GFM
 
 timezone: America/New_York
 
