@@ -4,7 +4,7 @@ highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
-  
+
 timezone: America/New_York
 
 # You betcha
