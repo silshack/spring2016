@@ -121,7 +121,7 @@ Thurs, Jan 28   | Functions                    | Dr. Chuck Chapter 4            
 Tues, Feb 2     | Functions <br> Events           |                                   | 
 Thurs, Feb 4    | Loops                        | Dr. Chuck Chapter 5               | Chapter 5 Exercises
 Tues, Feb 9     | Loops <br> Lists <br> Strings | Dr. Chuck Chapters 6 & 8               | Chapters 6 & 8 Exercises
-Thurs, Feb 11   | Modules <br> Turtle             |                                   | TBD<br> Meet ups check-in
+Thurs, Feb 11   | Modules <br> Turtle             |                                   | Poetry Slam Tina <br> Meet ups check-in
 Tues, Feb 16    | User Interfaces              | Video                             | Drawing App Project (Due Feb 23)
 Thurs, Feb 18   | Turtle Screen (Remote Class) | Video                             | 
 Tues, Feb 23    | Debugging (Remote Class)     | Video                             | 
