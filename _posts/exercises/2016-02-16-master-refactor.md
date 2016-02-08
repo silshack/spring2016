@@ -3,7 +3,7 @@ layout: post
 author: elliott
 categories:
   - exercise
-title: Master Refactor Turtles Exercise
+title: Refactoring Tetris Turtles
 ---
 
 Submit a well-formatted pull request to our class blog with embedded Trinket programs for the below exercises.
@@ -17,13 +17,17 @@ Did you encounter frustrating situations? Did you feel a lightbulb turn on?
 ___
 
 
-Refactor the below trinket program.  You should use custom modules, functions, and any other tools neccessary to 
+Refactor the below trinket program, which was created by some very industrious trinket users.
+You should use **custom modules**, **functions**, and any other tools neccessary to 
 clean up the code, increase readability, and modularlize the logic in the program.
 
-<iframe src="https://trinket.io/embed/python/0a04b3533d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/d0b14e13d2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Your finished program should look and behave like the original, but with cleaner, more readable, and more easily
-hackable code.
+For full credit, your finished program **must** look and behave at least as well as the original, but with cleaner, more 
+readable, and more easily hackable code.
+
+**Reflection note**: for this assignment, reflect specifically on your refactoring choices.  Why did you do what you did?
+Why did you not do what you didn't do?  How is your program more readable and modular than the original?
 
 Some concepts we haven't covered yet that you may want to read ahead on:
 
@@ -35,7 +39,15 @@ the `colors` in the tetris program.
 we have covered).  Sometimes data like the shape of pieces may be convenient to store in text files during a
 refactor.
 
+___
+
 **For an extra challenge worth extra credit**, improve upon the functionality of the original by 
-implementing more of the Tetris rule set. This is quite an extensive project, so it's important 
-to pace yourself, and pick and work on only one new feature at a time.  It's very unlikely that you'll
-be able to implement all of Tetris in a weekend, so pick your battles wisely.
+implementing more of the Tetris rule set in a separate Trinket. **Do not attempt the extra credit until after 
+your refactor is complete**.  Refactor the program, duplicate it in Trinket, then work on your enhancements. 
+Otherwise, you may be left with a program that is not functional.  Which would be a bummer.  
+
+For the extra credit, submit two Trinkets, one with the refactor above, one that then uses your refactored
+code to improve upon the functionality of the original.  In your reflection, talk about how your
+refactoring influenced your improvements and what is left to be done to make a fully featured Tetris game.
+It's OK to have refactoring in your extra credit submission that didn't make it into the original, but
+your refactor should be able to stand on its own.
