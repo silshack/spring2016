@@ -9,9 +9,7 @@ At first I tried to use del with indices but quickly realize that list indices m
 
 <iframe src="https://trinket.io/embed/python/1951ebd69a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-
 Exercise 2: So I think if the line starts with "From… or <From etc the program wont return the date on that line. But I feel it's not what this question is getting at...
-
 
 Chapter 8 - Exercise 3
 I tried 
