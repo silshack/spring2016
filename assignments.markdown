@@ -19,7 +19,8 @@ be completed by the date and time listed.  Class notes are for your reference of
     {% assign assignments = assignments | push: reading %}
 {% endfor %} 
 {% for note in site.categories.notes %}
-    {% assign note.date = ({{note.date | plus: 60}}) %}
+{{ {{note.date}} < 2016-02-09 00:00:00 -0500 }}
+    {% assign note.date = ({{note.date | plus: 100}}) %}
     {% assign assignments = assignments | push: note %}
 {% endfor %}
 
