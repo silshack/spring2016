@@ -2,8 +2,8 @@
 layout: post
 author: elliott
 categories:
-  - how-to
   - exercise
+  - how-to
 inclass: false
 title: Embed Turtle Programs into our Class Blog
 ---
