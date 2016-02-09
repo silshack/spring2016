@@ -1,7 +1,7 @@
 ---
 layout: post
 author: batlopez
-title: Nat's Ch 6 Exercises
+title: "Nat's Ch 6 Exercises"
 ---
 Ch 6, ex 1
 <iframe src="https://trinket.io/embed/python/2ab88a42f2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
