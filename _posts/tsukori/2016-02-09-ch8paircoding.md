@@ -14,6 +14,6 @@ Exercise 5: <iframe src="https://trinket.io/embed/python/1c80c889b2" width="100%
 
 Exercise 5 was the most straightforward and it took us pretty much no time at all.
 
-Exercise 6: <iframe src="https://trinket.io/embed/python/5a05a34b88" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Exercise 6: <iframe src="https://trinket.io/embed/python/8c4f97e4b1" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Class ended before we could finish exercise 6 but we worked on it afterwards and it's working as intended. We weren't sure if it should catch bad input so we just left it bare bones. 
+Class ended before we could finish exercise 6 but we worked on it afterwards and it's working as intended. It catches bad input such as strings.
