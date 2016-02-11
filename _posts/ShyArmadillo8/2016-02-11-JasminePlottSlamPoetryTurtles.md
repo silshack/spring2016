@@ -48,3 +48,6 @@ of the lyrics in the slam poetry list I'd created, I asked Tina to write an item
 with the next line, and then add one to x so that we could move on to the next item in the list until we'd completed the list.  For 
 some reason, I kept finding that the program would give me an error if I specified the font, alignment, or font size of tina.write(),
 and so I eventually just left these pieces off.  I'll have to play around with these in the future to see what I can correct.
+
+Here is my completed Trinket:
+<iframe src="https://trinket.io/embed/python/1d7bade207" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
