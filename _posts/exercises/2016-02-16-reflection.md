@@ -23,6 +23,8 @@ But here are some examples of the questions you should ask and answer:
 * What are your go-to Problem Solving Strategies? Which ones do you want to work on?
 * What are your go-to Problem Solving Attitudes? Which ones do you want to work on?
 * What skills, attitudes, and strategies will you develop in the second half of the semester?
+* How have discussions, collaboration, and pair programming with partners impacted your experience?
+* What are the positive and negative aspects of working with a partner? How could you maximize the benefits?
 
 The code samples can be exercises you've already completed, new code you write to illustrate a point,
 or even classmates' code.  The main requirement is that they help illustrate your reflection.
