@@ -1,9 +1,9 @@
 ---
 layout: post
 author:
--RhymesWithMecca
--jamesma560
-title: Becca and James' Chapter 8 Exercises, Part 2
+- RhymesWithMecca
+- jamesma560
+title: Becca and James' Chapter 8 Exercises Part 2
 ---
 
 **Here is 8.4:**
