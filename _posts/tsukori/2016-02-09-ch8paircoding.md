@@ -1,8 +1,8 @@
 ---
 layout: post
 author:
--tsukori
--hannahlwang
+- tsukori
+- hannahlwang
 title: "Pair Programming Exercises"
 ---
 
