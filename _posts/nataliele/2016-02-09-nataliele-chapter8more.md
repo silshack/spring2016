@@ -1,8 +1,8 @@
 ---
 layout: post
 author:
--nataliele
--clairewlj
+- nataliele
+- clairewlj
 title: "Natalie and Claire's chapter 8 exercises"
 ---
 
