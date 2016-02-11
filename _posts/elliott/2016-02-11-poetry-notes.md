@@ -1,5 +1,6 @@
 ---
 author: elliott
+layout: post
 category: notes
 published: true
 title: "Pair programming a poetry slam!"
