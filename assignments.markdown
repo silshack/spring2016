@@ -74,7 +74,7 @@ be completed by the date and time listed.  Class notes are for your reference of
     <th>Type</th>
     <th>Title</th>
     <th>Due Date</th>
- 
+  
 {% for post in all_assignments  %}
     <tr>
         <td>
@@ -105,6 +105,6 @@ be completed by the date and time listed.  Class notes are for your reference of
             {% endif %}
         </td>
     </tr>
-
+ 
 {% endfor %}
 </table>
