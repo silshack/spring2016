@@ -1,6 +1,8 @@
 ---
 layout: post
-author: jamesma560 nataliele
+author: 
+-jamesma560 
+-nataliele
 title: "James and Natalie's Poetry Turtle"
 ---
 
