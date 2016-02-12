@@ -4,11 +4,14 @@ author: tsukori
 title: "Ch.6 Exercises"
 ---
 
-Exercise 1: <iframe src="https://trinket.io/embed/python/2ecbaa45e4" width="80%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Exercise 1: 
+<iframe src="https://trinket.io/embed/python/2ecbaa45e4" width="80%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Exercise the rest: <iframe src="https://trinket.io/embed/python/569e4010ba" width="80%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Exercise the rest: 
+<iframe src="https://trinket.io/embed/python/569e4010ba" width="80%" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Reflection: I wanted to make the code easily readable so I made declared length as a variable to use in the while loop
+Reflection: I wanted to make the code easily readable so I declared length as a variable to use in the while loop
+
 ```
 length = len(input)
 while index < length:
@@ -19,7 +22,9 @@ while index < length:
     index = index + 1
     length = length - 1
 ```
+
 resulting in:
+
 ```
 Please enter a string: hello
 o
