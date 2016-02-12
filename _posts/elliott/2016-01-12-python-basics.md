@@ -26,13 +26,13 @@ Read the syllabus and feel free to [email me](eah13@email.unc.edu) with any ques
 
 # Why Python is Cool
 
-Cool interactive animations:
+Cool interactive animations:  
 <iframe src="https://trinket.io/embed/python/88dd6c94d1?toggleCode=true&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Interactive Games:
+Interactive Games:  
 <iframe src="https://trinket.io/embed/python/1cc827b4d9?toggleCode=true&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Data Viz:
+Data Viz:  
 <iframe src="https://trinket.io/embed/python/a1b614f1f3?toggleCode=true&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 But programs can also be very simple, and we'll start simple.

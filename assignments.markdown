@@ -2,34 +2,79 @@
 layout: default
 title: "Assignments"
 ---
-
-## {{ site.course.number }} Assignments
+ 
+## {{ site.course.number }} Assignments 
 
 Assignments will be added below.  Readings should be done by the beginning of class.  Exercises should 
 be completed by the date and time listed.  Class notes are for your reference of if you have to miss a class.
 
 {% comment %} Jekyll 2.4 doesn't support the concat filter so we hack it with push {% endcomment %}
-{% assign assignments = "" | split: "" %}
-{% for exercise in site.categories.exercise %}
-{% if exercise.published != false %}
-    {% assign assignments = assignments | push: exercise %}
-{% endif %}
+
+
+ 
+{% comment %} Get exercises and inclass exercises {% endcomment %}
+{% assign exercises = "" | split: "" %}
+{% assign inclassexercises = "" | split: "" %}
+{% assign sortedex = "" | split: "" %}
+{% for post in site.posts %}
+    {% if post.categories contains "exercise" %}
+        {% assign sortedex = sortedex | push: post} %}
+    {% endif %}
 {% endfor %}
-{% for reading in site.categories.reading %}
-    {% assign assignments = assignments | push: reading %}
-{% endfor %}
-{% for note in site.categories.notes %}
-    {% assign assignments = assignments | push: note %}
+{% for exercise in sortedex %}
+    {% if exercise.published != false %}
+        {% if exercise.inclass == true %}
+            {% assign inclassexercises = inclassexercises | push: exercise %}
+        {% else %}
+            {% assign exercises = exercises | push: exercise %}
+        {% endif %}
+    {% endif %}
 {% endfor %}
 
-{% assign all_assignments = (assignments | sort: 'date') %}
+{% comment %} Get readings {% endcomment %}
+{% assign readings = (site.categories.reading |  sort: 'date'} %}
+
+{% comment %} Get notes {% endcomment %}
+{% assign notes = (site.categories.notes |  sort: 'date'} %}
+
+{% comment %} Push them onto assignments in the correct order {% endcomment %}
+{% assign assignments = "" | split: "" %}
+{% assign class_dates = "" | split: "" %}
+{% for note in (site.categories.notes | sort: 'date') %}
+    {% assign class_dates = class_dates | push: note.date %}
+{% endfor %}
+{% for date in class_dates reversed %}
+    {% for reading in readings %}
+      {% if reading.date  == date %}
+          {% assign assignments = assignments | push: reading %}
+      {% endif %}
+    {% endfor %}
+    {% for exercise in exercises %}
+      {% if exercise.date  == date %}
+      {% assign assignments = assignments | push: exercise %}
+      {% endif %}
+    {% endfor %}
+    {% for note in notes %}
+        {% if note.date == date %}
+        {% assign assignments = assignments | push: note %}
+        {% endif %}
+    {% endfor %}
+    {% for ice in inclassexercises %}
+      {% if ice.date == date %}
+      {% assign assignments = assignments | push: ice %}
+      {% endif %}
+    {% endfor %}
+
+{% endfor%}
+
+{% assign all_assignments = assignments  %}
 
 <table>
  
     <th>Type</th>
     <th>Title</th>
     <th>Due Date</th>
- 
+  
 {% for post in all_assignments  %}
     <tr>
         <td>
@@ -60,6 +105,6 @@ be completed by the date and time listed.  Class notes are for your reference of
             {% endif %}
         </td>
     </tr>
-
+ 
 {% endfor %}
 </table>

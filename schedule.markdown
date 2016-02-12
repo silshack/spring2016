@@ -114,33 +114,33 @@ Date            | Topic                 | Readings (completed before class) | Ex
 --------------- | -----------------     | --------------------------------- | ----------------------
 Tues, Jan 12    | Diving into Python    | Welcome to the course! :)         | Turtle Drawing
 Thurs, Jan 14   | Github basics         | Github's Hello World Guide | A Pull Request with your Turtle Drawing
-Tues, Jan 19    | Variables <br> Operators        | Dr. Chuck Chapter 2       | Fill out your profile<br>Merge your classmates' changes<br>Chapter 2 Exercises
-Thurs, Jan 21   | Variables <br> Logic            | Dr. Chuck Chapter 3               | Chapter 3 Exercises
-Tues, Jan 26    | Logic <br> Expressions          |                                   | Turtle Exercises
+Tues, Jan 19    | Variables <br> Operators     | Dr. Chuck Chapter 2       | Fill out your profile<br>Merge your classmates' changes<br>Chapter 2 Exercises
+Thurs, Jan 21   | Variables <br> Logic         | Dr. Chuck Chapter 3               | Chapter 3 Exercises
+Tues, Jan 26    | Logic <br> Expressions       |                                   | Turtle Exercises
 Thurs, Jan 28   | Functions                    | Dr. Chuck Chapter 4               | Chapter 4 Exercises
-Tues, Feb 2     | Functions <br> Events           |                                   | 
+Tues, Feb 2     | Functions <br> Events        |                                   | 
 Thurs, Feb 4    | Loops                        | Dr. Chuck Chapter 5               | Chapter 5 Exercises
-Tues, Feb 9     | Loops <br> Lists                | Dr. Chuck Chapter 8               | Chapter 8 Exercises
-Thurs, Feb 11   | Modules <br> Turtle             |                                   | TBD<br> Meet ups check-in
-Tues, Feb 16    | User Interfaces              | Video                             | Drawing App Project (Due Feb 23)
-Thurs, Feb 18   | Turtle Screen (Remote Class) | Video                             | 
-Tues, Feb 23    | Debugging (Remote Class)     | Video                             | 
-Thurs, Feb 25   | No Class<br> Work on Project    |                                   | 
-Tues, Mar 1     | Drawing Project Code Talks   |                                   | Take-home Midterm (Due March 8; ungraded)
-Thurs, Mar 3    | Class Extension              |                                   | Game Project 2 (Due March 10)
-Tues, Mar 8     | Class Extension              |                                   | TBD
+Tues, Feb 9     | Loops <br> Lists <br> Strings | Dr. Chuck Chapters 6 & 8         | Chapters 6 & 8 Exercises
+Thurs, Feb 11   | Modules <br> Turtle          |                                | Poetry Slam Tina <br> Meet ups check-in
+Tues, Feb 16    | User Interfaces              |                                   | Tetris Refactor <br> Mid-semester Reflection <br> Drawing App Project (Due Feb 23)
+Thurs, Feb 18   | Turtle Screen (Remote Class) | Hauser 2 <br> Optional: Hauser Chapter 1    | Milestones & Update
+Tues, Feb 23    | Debugging (Remote Class)     | Video as needed                   | Drawing App due
+Thurs, Feb 25   | No Class<br> Begin Peer Review |                                 | 
+Tues, Mar 1     | Drawing Project Code Talks   |                                   | Peer Review Due
+Thurs, Mar 3    | Class Extension              |   Hauser Chapter 3                | Game Project (Due March 10) <br> Take-home Midterm (Due March 8; ungraded)
+Tues, Mar 8     | Class Extension <br> Midterm Review |                            | 
 Thurs, Mar 10   | Game Project Code Talks      |                                   | Set up Cloud 9 (by March 22) <br> Extra Credit: Spring Break Hack
 Tues, Mar 15    | Spring Break                 |                                   | 
 Thurs, Mar 17   | Spring Break                 |                                   | 
-Tues, Mar 22    | Projects <br> Cloud 9<br> Files     | Dr. Chuck Chapter 7               | Files Exercises
-Thurs, Mar 24   | Strings                      | Dr. Chuck Chapter 6               | Strings Exercises
-Tues, Mar 29    | Strings<br> Regex               | Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | Regex Exercises
+Tues, Mar 22    | Projects <br> Cloud 9<br> Files | Dr. Chuck Chapter 7               | Files Exercises
+Thurs, Mar 24   | Strings<br> Regex            | Review Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | Regex Exercises
+Tues, Mar 29    | Strings<br> Regex            | Review Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | 
 Thurs, Mar 31   | Dictionaries <br> Reading websites with Python | Dr. Chuck Chapter 9<br> Dr. Chuck Chapter 12   | Dictionaries Exercises
 Tues, Apr 5     | Dictionaries<br> Parsing Data                 | Dr. Chuck Chapter 13              | Dictionaries Exercises
-Thurs, Apr 7    | Project statement due <br> git   |                                   | TBD <br> Meet ups check-in
+Thurs, Apr 7    | Project statement due <br> git |                                   | TBD <br> Meet ups check-in
 Tues, Apr 12    | Project work day             |                                   | TBD
 Thurs, Apr 14   | Progress reports             |                                   | TBD
-Tues, Apr 19    | Progress reports             |                                   | TBD
+Tues, Apr 19    | Progress reports (Remote class)  |                                   | TBD
 Thurs, Apr 21   | Final progress reports       |                                   | TBD
 Tues, Apr 26    | Final progress reports       |                                   | TBD
 Fri, Apr 29     | No Class; Final Projects Due |                                   | 

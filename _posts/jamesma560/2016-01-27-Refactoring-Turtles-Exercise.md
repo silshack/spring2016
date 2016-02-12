@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 author: jamesma560
 title: "James' Refactored Turtle Exercises"
 ---

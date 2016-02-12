@@ -2,11 +2,10 @@
 layout: post
 author: elliott
 categories:
-  - how-to
   - exercise
+  - how-to
 inclass: false
 title: Embed Turtle Programs into our Class Blog
-date: 2016-01-19
 ---
 
 Use the instructions below to submit a post with your two Turtle programs embedded into it.
