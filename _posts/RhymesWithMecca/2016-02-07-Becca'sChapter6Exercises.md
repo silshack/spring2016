@@ -4,13 +4,17 @@ author: RhymesWithMecca
 title: "Becca's Chapter 6 Exercises"
 ---
 
-Here is 6.1: <iframe src="https://trinket.io/embed/python/021954b0cd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Here is 6.1: 
+<iframe src="https://trinket.io/embed/python/021954b0cd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Here is 6.3: <iframe src="https://trinket.io/embed/python/373e4cafbd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Here is 6.3: 
+<iframe src="https://trinket.io/embed/python/373e4cafbd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Here is 6.4: <iframe src="https://trinket.io/embed/python/9d48d3f785" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Here is 6.4: 
+<iframe src="https://trinket.io/embed/python/9d48d3f785" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Here is 6.5: <iframe src="https://trinket.io/embed/python/0028eb27f3" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+Here is 6.5: 
+<iframe src="https://trinket.io/embed/python/0028eb27f3" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 General Reflection:
 I didn't have code for user input checking because it didn't say we needed to - hope this is okay!
