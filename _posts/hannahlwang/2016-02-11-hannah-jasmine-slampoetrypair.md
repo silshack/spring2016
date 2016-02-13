@@ -1,6 +1,6 @@
 ---
 layout: post
-authors:
+author:
 - ShyArmadillo8
 - hannahlwang
 title: "Slam Poetry Turtles Pair post"
