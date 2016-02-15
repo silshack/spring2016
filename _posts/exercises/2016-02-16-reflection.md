@@ -15,6 +15,7 @@ Submit a refelctive post of 1000 words or more, containing 3 or more code sample
 
 In the post, reflect on your journey up to this point.  The emphasis will vary with each person
 But here are some examples of the questions you should ask and answer:
+
 * What have you learned? 
 * What has excited you?  
 * What has frustrated you?  
