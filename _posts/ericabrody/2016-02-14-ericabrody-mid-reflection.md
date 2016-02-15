@@ -6,7 +6,9 @@ title: "Erica's Mid-Semester Reflection"
 
 Mid-semester reflection:
 
-Since I am reflecting on the semester so far, I took this opportunity to review most of the readings and exercises we have done so far. Also, I hope this review helps me with the Tetris Turtles refactor exercise.  So far, I have learned a lot. 
+Since I am reflecting on the semester so far, I took this opportunity to review most of the readings and exercises we have done so far. Also, I hope this review helps me with the Tetris Turtles refactor exercise.  
+
+So far, I have learned a lot. 
 
 I feel pretty confident using turtle – remembering that turtles write, rather than print. I can request user input, check if the input is numeric, and manipulate strings, numbers, and lists. I am getting more comfortable passing data into and out of functions, using lists, and dealing with issues on Github (remembering to close them by using the fixed statement). 
 
@@ -34,7 +36,7 @@ for i in range (len(words)): # which is the length of the list of words
     result += "and " + words[i]
 print "My shopping list is " + result
 ```
-When reading the string chapter- where everything set to a variable, tested out built-in functions and methods with actual values – I created a teststring trinket and tested out different items, exercises in it, commenting out old parts and then running new parts, so I had most of the homework done by the time I finished reading the chapter. :Smile
+When reading the string chapter- where all the examples used variables, I tested out built-in functions and methods with actual values – I created a teststring trinket and tested out different items, exercises in it, commenting out old parts and then running new parts, so I had most of the homework done by the time I finished reading the chapter. :Smile
 <iframe src="https://trinket.io/embed/python/bcd0df56cd" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 Since these exercises took less time than expected, I played around with exercises 3 and 4 using the turtle to write rather than standard print commands.
 
