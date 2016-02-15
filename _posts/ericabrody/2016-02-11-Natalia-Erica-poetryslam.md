@@ -1,7 +1,7 @@
 ---
 layout: post
 author: 
-- erica
+- ericabrody
 - batlopez
 title: "Erica and Natalia's poetry slam"
 ---
