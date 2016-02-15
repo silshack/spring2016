@@ -30,6 +30,15 @@ You can use our classroom Gittr chat (click 'chat' in the menu bar of this site)
 
 For video chats I recommend http://free.gotomeeting.com or Google hangouts.  **It's very important for you to pick one of these and test it out on your laptop ahead of time to avoid technical difficulties.**  Video chats can be a pain but with a little preparation they don't have to be.
 
+# Warm up: Gerund Challenge
+
+Work in a pair programming style to solve this challenge:
+
+<iframe src="https://trinket.io/embed/python/98daa352ab" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+Make sure to consult your partner before typing- and make sure you're helping the driver!  Then siwtch and solve the problem **again** but do it a different way.  
+What 'different' means is up to you.  Don't spend more than a few minutes on this total; it's a warm up!
+
 # Milestones
 
 Review and merge you partner's pull request, discussing it with them like you would in person.  Make liberal use of screen sharing so that you and your partner can look at the same thing.
