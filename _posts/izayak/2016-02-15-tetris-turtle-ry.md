@@ -13,3 +13,4 @@ layour: post
 
 *Problems*  
 - Read the documentation of Python about tracer, do not get what "A replica of the corresponding TurtleScreen method" means.  
+    
