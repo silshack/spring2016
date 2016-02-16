@@ -4,8 +4,14 @@ author: wagerpascal
 title: "Jason's Reflections"
 ---
 
-	I came into this class with some coding experience- mostly with Arduino pseudocode and some embedded programming, as well as some data analysis things from a Matlab class I took 4 years ago. I decided to take this python course due to my interest in networking and socket programming, as Python is one of the major languages that is used for it.
-	Content-wise, I came in knowing about the basic nature and logic of most things up to loops. However, I knew near to nothing about the specifics of Python and how it was structured. Let’s take a peek at my “Logic Turtles” post from way back when:
+I came into this class with some coding experience- mostly with Arduino pseudocode and some embedded programming, 
+as well as some data analysis things from a Matlab class I took 4 years ago. 
+I decided to take this python course due to my interest in networking and socket programming, 
+as Python is one of the major languages that is used for it.
+Content-wise, I came in knowing about the basic nature and logic of most things up to loops. 
+However, I knew near to nothing about the specifics of Python and how it was structured. 
+Let’s take a peek at my “Logic Turtles” post from way back when:
+
 ```
 chair_color = raw_input("What color should Chair be now?")
 chair.color(chair_color)
