@@ -4,7 +4,9 @@ layout: post
 title: "Wayne Homan's broken refactored tetris"
 ---
 
+
 <iframe src="https://trinket.io/embed/python/35890baf32" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 This exercise is deceptively difficult. I especially had problems using global variables so that they could be defined over all of my 
 modules. I believe that I was finally able to define the global variables and functions. The next problem that I ran into was that 
