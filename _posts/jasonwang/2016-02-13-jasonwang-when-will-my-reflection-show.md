@@ -38,6 +38,7 @@ try:
   if desptimes == "yes" or desptimes == "Yes":
     chair.speed(10)
 ```
+
 The way that variables were set up, in that the way of which new variables replaced other variables, was a bit sloppy. 
 While it is conceptually easier to follow what is going on, the code can be cleaned up so that the input directly feeds into all of the processing that occurs. 
 It’s still a problem for me sometimes. The example I just showed may not be the best example, 
@@ -50,6 +51,7 @@ For example, I (incorrectly) did the poetry slam exercise by approaching it from
 rather than use the turtle library. 
 However, I would argue that this code performs at the same capacity as a classmate’s code that uses Turtle. 
 In some cases, it might seem that it takes less code to display it, as drawing is no longer a concern:
+
 ```
 words = []
 count = 0
@@ -75,6 +77,7 @@ for pieces in words:
 words_new.strip()
 print(words_new)
 ```
+
 Of course, the downside of such freedom is knowing where your limits are. 
 Let’s take the Clicky Turtles Exercise for example (incidentally an assignment that a lot of people seemed to have overextended). 
 My original idea for this assignment involved a turn-based game of tag, 
@@ -99,6 +102,7 @@ While this tactic may work for basic exercises or simple projects,
 it immediately begins falling apart with problems that are multifaceted or require a number of goals. 
 For example, in the Turtle Clone Treasure assignment, I needed to calculate the distance between the user-inputted point 
 with the point of the treasure. For this, I used:
+
 ```
 while still_going:
   # Get user X and Y coordinates.
@@ -124,6 +128,7 @@ while still_going:
   
   print("You are " + str(dist) + " units away.")
 ```
+
 I didn’t think this at the time, but I now realize that I just could have easily used the turtle.distance() method and 
 saved myself the time of doing it manually. However, the act of first doing it all yourself leads to you better 
 remembering how to do it, and potential methods or ideas that ca be used in future programs. 
