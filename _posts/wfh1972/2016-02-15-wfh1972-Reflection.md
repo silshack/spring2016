@@ -1,22 +1,22 @@
 ----
 author: wfh1972
-payout: post
+layout: post
 title: "Wayne Homan's reflection"
 ----
 
 Reflection:
 
 BLUF: 
-1)	Things that are harder than thought: 
-a.	Understanding loops
-b.	How variables work
-c.	I have had my differences with trinket
-d.	The book is a little soft on examples
-2)	Things that are going well:
-a.	I like python
-b.	I can see how I can get to my end goals
-c.	I am actually happy when I can get things to work
-d.	This class seems to be pointing me in the direction I want to go
+1) Things that are harder than thought: 
+     a.	Understanding loops
+     b.	How variables work
+     c.	I have had my differences with trinket
+     d.	The book is a little soft on examples
+2) Things that are going well:
+     a.	I like python
+     b.	I can see how I can get to my end goals
+     c.	I am actually happy when I can get things to work
+     d.	This class seems to be pointing me in the direction I want to go
 
 Background:
 I have very little (read none) experience in coding or programming unless you count basic that came with the vic-20 back in the early 80’s. I am situationally aware enough to understand that coding and programming is one of the critical skills of the future (if not the present). Almost every job out there could be made easier/more efficient with a little programming skill. I am a physician and there are so many places that I can think of that a short bit of code could make my job easier (e.g. a short bit of code to search the medical record and return major diagnoses that I should be aware of but don’t want to read the entire medical record to find). 
