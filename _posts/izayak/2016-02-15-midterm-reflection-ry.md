@@ -1,6 +1,6 @@
 ---
 author: izayak
-title: "Ruotong's Mid-semester Reflection
+title: "Ruotong's Mid-semester Reflection"
 layout: post
 ---
 
