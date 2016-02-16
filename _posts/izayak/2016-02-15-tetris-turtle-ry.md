@@ -10,5 +10,6 @@ layour: post
 - Added comments to make the program more readable
 - Also tried to make some repetitive part in those drawing functions into functions, but that would make the program unreadable
 
+
 *Problems*  
 - Read the documentation of Python about tracer, do not get what "A replica of the corresponding TurtleScreen method" means.  
