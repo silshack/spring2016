@@ -38,9 +38,18 @@ try:
   if desptimes == "yes" or desptimes == "Yes":
     chair.speed(10)
 ```
-The way that variables were set up, in that the way of which new variables replaced other variables, was a bit sloppy. While it is conceptually easier to follow what is going on, the code can be cleaned up so that the input directly feeds into all of the processing that occurs. It’s still a problem for me sometimes. The example I just showed may not be the best example, as our assignments typically do not require a large quantity of various variables that may be changing, but it is still an issue that appears in my code; defining more functions might help some of the problem.
-The most exciting part of this class are the options; coming from a background that only really demanded one correct way to do the problem correctly, it is refreshing to be able to sit and consider “Well, how about I try it this way?”
-For example, I (incorrectly) did the poetry slam exercise by approaching it from a pure lists standpoint, rather than use the turtle library. However, I would argue that this code performs at the same capacity as a classmate’s code that uses Turtle. In some cases, it might seem that it takes less code to display it, as drawing is no longer a concern:
+The way that variables were set up, in that the way of which new variables replaced other variables, was a bit sloppy. 
+While it is conceptually easier to follow what is going on, the code can be cleaned up so that the input directly feeds into all of the processing that occurs. 
+It’s still a problem for me sometimes. The example I just showed may not be the best example, 
+as our assignments typically do not require a large quantity of various variables that may be changing, 
+but it is still an issue that appears in my code; defining more functions might help some of the problem.
+The most exciting part of this class are the options; 
+coming from a background that only really demanded one correct way to do the problem correctly, 
+it is refreshing to be able to sit and consider “Well, how about I try it this way?”
+For example, I (incorrectly) did the poetry slam exercise by approaching it from a pure lists standpoint, 
+rather than use the turtle library. 
+However, I would argue that this code performs at the same capacity as a classmate’s code that uses Turtle. 
+In some cases, it might seem that it takes less code to display it, as drawing is no longer a concern:
 ```
 words = []
 count = 0
@@ -66,9 +75,30 @@ for pieces in words:
 words_new.strip()
 print(words_new)
 ```
-Of course, the downside of such freedom is knowing where your limits are. Let’s take the Clicky Turtles Exercise for example (incidentally an assignment that a lot of people seemed to have overextended). My original idea for this assignment involved a turn-based game of tag, where the user would have a “line of sight” where the target will move (similar to a treasure hunt, but more fast-paced in the end). During the process, I realized two issues: first, I needed to construct either a two-dimensional list or two separate lists that update themselves with the coordinates of where the turtle will go (also requiring predetermined coordinates at the beginning of the run). In addition, the timing/cooldown of which the turtle turns needs to be strictly timed (occasionally with poorly timed/smaller spaced clicks, the turtle starts spinning around due to the rapid updating of the points. These issues (especially the turtle pointing control) demonstrate the dichotomy between a conceptual idea and the actual execution of said idea. It may be simple to explain what the program does, but some of the things that humans take for granted: tracking moving objects, depth calculations, etc., are things that can’t be easily implemented in a few lines of code.
-I would say that after that exercise, I’ve taken a lot more precautions of ensuring that I am not overextending or being too ambitious about what I would like to take on. Before, I would simply just open Trinket and start coding with the hope that eventually I will reach the end. However, since that assignment, I’ve taken the time to draw out what I’m expressly trying to do; rather than try to tackle a goal that may encompass various tasks, I can instead break everything apart for better planning and management. 
-Of course I still have a ways to go. An issue that I would like to work on is that often times with these assignments, I hope that there is a roundabout method of implementing some kind of function or method that can solve my problem quickly. While this tactic may work for basic exercises or simple projects, it immediately begins falling apart with problems that are multifaceted or require a number of goals. For example, in the Turtle Clone Treasure assignment, I needed to calculate the distance between the user-inputted point with the point of the treasure. For this, I used:
+Of course, the downside of such freedom is knowing where your limits are. 
+Let’s take the Clicky Turtles Exercise for example (incidentally an assignment that a lot of people seemed to have overextended). 
+My original idea for this assignment involved a turn-based game of tag, 
+where the user would have a “line of sight” where the target will move (similar to a treasure hunt, but more fast-paced in the end). During the process, I realized two issues: 
+first, I needed to construct either a two-dimensional list or two separate lists that update themselves with the coordinates 
+of where the turtle will go (also requiring predetermined coordinates at the beginning of the run). 
+In addition, the timing/cooldown of which the turtle turns needs to be strictly timed (occasionally with 
+poorly timed/smaller spaced clicks, the turtle starts spinning around due to the rapid updating of the points. 
+These issues (especially the turtle pointing control) demonstrate the dichotomy between a conceptual idea and the 
+actual execution of said idea. It may be simple to explain what the program does, 
+but some of the things that humans take for granted: tracking moving objects, depth calculations, etc., 
+are things that can’t be easily implemented in a few lines of code.
+I would say that after that exercise, I’ve taken a lot more precautions of ensuring that I am not overextending or 
+being too ambitious about what I would like to take on. Before, I would simply just open Trinket and start coding with the 
+hope that eventually I will reach the end. However, since that assignment, 
+I’ve taken the time to draw out what I’m expressly trying to do; 
+rather than try to tackle a goal that may encompass various tasks, 
+I can instead break everything apart for better planning and management. 
+Of course I still have a ways to go. An issue that I would like to work on is that often times with these assignments, 
+I hope that there is a roundabout method of implementing some kind of function or method that can solve my problem quickly. 
+While this tactic may work for basic exercises or simple projects, 
+it immediately begins falling apart with problems that are multifaceted or require a number of goals. 
+For example, in the Turtle Clone Treasure assignment, I needed to calculate the distance between the user-inputted point 
+with the point of the treasure. For this, I used:
 ```
 while still_going:
   # Get user X and Y coordinates.
@@ -94,8 +124,25 @@ while still_going:
   
   print("You are " + str(dist) + " units away.")
 ```
-I didn’t think this at the time, but I now realize that I just could have easily used the turtle.distance() method and saved myself the time of doing it manually. However, the act of first doing it all yourself leads to you better remembering how to do it, and potential methods or ideas that ca be used in future programs. Bit of a nuanced example, but I occasionally hang out/work with computer science majors, so I end up hearing snippets of their thoughts. There was a person who was attempting to import a library that would allow him to do a square root in his program, but it simply wasn’t working. So he just manually made a function that calculates the square root, rather than continue to fiddle with the library. In the end, he probably saved more time and project momentum than fiddling with it. While it may not be practical, it is still important to do things the hard way the first go-round. Therefore, I should really start approaching problems from this angle.
-	For this upcoming half-semester, I’m planning on really focusing on learning the basics, especially regarding cutting down on abusing specific methods or functions when doing assignments (while ones that may cut down on small calculations or actions are okay, the ones that solve a huge portion of an assignment are considered “roundabout”). While I was just sketching out quick diagrams of my plans on scrap paper or a whiteboard, I will try to begin keeping a notebook to start sketching ideas out, and commenting my code to divide up sections and their functionality. However, judging from the Tetris game that is due soon, it looks like this class will be picking up the pace of complexity, which is rather exciting. 
+I didn’t think this at the time, but I now realize that I just could have easily used the turtle.distance() method and 
+saved myself the time of doing it manually. However, the act of first doing it all yourself leads to you better 
+remembering how to do it, and potential methods or ideas that ca be used in future programs. 
+Bit of a nuanced example, but I occasionally hang out/work with computer science majors, 
+so I end up hearing snippets of their thoughts. There was a person who was attempting to import a library that 
+would allow him to do a square root in his program, but it simply wasn’t working. 
+So he just manually made a function that calculates the square root, rather than continue to fiddle with the library. 
+In the end, he probably saved more time and project momentum than fiddling with it. 
+While it may not be practical, it is still important to do things the hard way the first go-round. 
+Therefore, I should really start approaching problems from this angle.
+
+For this upcoming half-semester, I’m planning on really focusing on learning the basics, 
+especially regarding cutting down on abusing specific methods or functions when doing assignments 
+(while ones that may cut down on small calculations or actions are okay, 
+the ones that solve a huge portion of an assignment are considered “roundabout”). 
+While I was just sketching out quick diagrams of my plans on scrap paper or a whiteboard, 
+I will try to begin keeping a notebook to start sketching ideas out, and commenting my code to divide up sections and 
+their functionality. However, judging from the Tetris game that is due soon, 
+it looks like this class will be picking up the pace of complexity, which is rather exciting. 
 
 
 Referenced Programs:
