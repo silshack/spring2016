@@ -7,21 +7,8 @@ categories:
 title: "Drawing Milestones & Starter Code"
 ---
 
-Submit a well-formatted pull request with a post containing your starter code
-and your project milestones.
+Submit a well-formatted pull request with a post containing your project milestones and, if you have time, some starter code.
 
-# Starter Code
-For many of your past projects I've given you starter code.  This code implemented
-helpful functions or contained the basics of the user interface.  Your task for this 
-assignment is to make your own starter code for your drawing app.
-
-Make sure to **duplicate** your starter code on trinket and embed a version you
-will not be editing.  Updates on Trinket will automatically show up in your embeds
-otherwise.
-
-While my O'Reilly videos should contain lots of good ideas for you, your starter code
-should be **your own work**.  Do not copy and paste any code for this exercise.  
-See also the No Outside Help section of the overall Drawing App assignment.
 
 # Milestones
 
@@ -48,3 +35,21 @@ This gives a good visual sense of how far you are.  For example:
 - [x] Milestone one
 - [ ] Milestone two
 - [ ] Milestone three
+
+
+# Starter Code
+
+Do the following before class if you can.  If not, at least come with a basic Trinket that you will 
+be using for your project.
+
+For many of your past projects I've given you starter code.  This code implemented
+helpful functions or contained the basics of the user interface.  Your task for this 
+assignment is to make your own starter code for your drawing app.
+
+Make sure to **duplicate** your starter code on trinket and embed a version you
+will not be editing.  Updates on Trinket will automatically show up in your embeds
+otherwise.
+
+While my O'Reilly videos should contain lots of good ideas for you, your starter code
+should be **your own work**.  Do not copy and paste any code for this exercise.  
+See also the No Outside Help section of the overall Drawing App assignment.
