@@ -1,7 +1,7 @@
 ---
 layout: post
 author: batlopez
-title: Nat's Mid-semester Reflection
+title: "Nat's Mid-semester Reflection"
 ---
 
 This class has been so fun but challenging so far! I think one of the major things I have learned is more about how to think about a problem rather than the actual mechanics of the code. I frequently have to open previous assignments and chapters up in separate links to refer back to them and apply what I learned in another assignment to the current one. It is sometimes frustrating but in general, I appreciate when I can figure it out. For whatever reason, the concept of functions is something I really enjoy and find relatively intuitive; being able to simplify repetitive tasks is super exciting and I guess something I generally do. I also think I’ve become pretty comfortable with if/else statements and while loops. Definitive loops are not so intuitive for me for some reason. I need to keep looking it up to remember how to use it or how to apply it, but perhaps I will become more used to them as I used them more in our code.
