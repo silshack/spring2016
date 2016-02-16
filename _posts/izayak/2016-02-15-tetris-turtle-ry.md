@@ -5,6 +5,8 @@ layour: post
 ---
 
 <iframe src="https://trinket.io/embed/python/1c64401265" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+*Reflection*
 - Added some functions to make the program more concise  
 - Put all the functions, dictionaries, turtle setups together
 - Added comments to make the program more readable
