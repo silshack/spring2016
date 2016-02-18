@@ -8,7 +8,23 @@ title: Drawing App Peer Review & Self-reflection
 ---
 
 Submit a well-formatted pull request with a 500+ word peer review of your partner's
-drawing app.  Your peer review/reflection should contain the following sections:
+drawing app.  Your partner will be the same one as in the clinic, which will help you evaluate a little of the app's evolution. Here they are for reference:
+
+```
+jamesma560 : JayYang95
+wagerpascal : hannahlwang
+EternalFootman : nataliele
+ShyArmadillo8 : clairewlj
+izayak : namagic
+yiyangshi : touchwick
+batlopez : jwarrich
+ericabrody : payalpn
+tsukori : wfh1972
+wookiemage : RhymesWithMecca
+camazotz : gao14g
+```
+
+Your peer review/reflection should contain the following sections:
 
 # The app
 
