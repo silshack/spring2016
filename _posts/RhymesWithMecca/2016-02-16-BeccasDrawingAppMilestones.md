@@ -5,7 +5,9 @@ title: "Becca's Drawing App Milestones"
 ---
 
 #### Milestones
+
 ##### User...
+
 - [ ] will not type - graphical interface only
 - [ ] can select drawing mode (program changes) using clicks and/or keys
 - [ ] can see current mode
@@ -13,6 +15,7 @@ title: "Becca's Drawing App Milestones"
 - [ ] can clear drawing and start over
 
 ##### Program...
+
 - [ ] uses custom modules
 - [ ] uses cusom functions
 - [ ] uses definite loops
