@@ -17,3 +17,4 @@ Here are my milestones
   - [ ] Create a function that reacts to button being pressed
   - [ ] Create a function that moves your drawing turtle to the place clicked
   - [ ] Move functions to modules where they make sense (animations.py, setup.py etc....)
+  - [ ] Write User instruction text using a turtle
