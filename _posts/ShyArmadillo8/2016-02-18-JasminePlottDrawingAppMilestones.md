@@ -3,7 +3,18 @@ layout: post
 author: ShyArmadillo8
 title: "Jasmine Plott's Milestones"
 ---
+New Update:
+After talking with Hannah about our milestones and goals for this assignment, I decided that it might be a good idea to rethink my 
+assignment and save my Frogger idea for later when we do more actual game development projects.  What I've decided to do instead is 
+focusing on creating a night sky with shooting stars across it.  The drawing portion of this app will be based on the user drawing a shooting star through the sky, which can vary in width depending on what they want the star to look like.  As the star "shoots" through the sky, I would like to make the flowers glow.
 
+- [ ] Pressing certain keys allows changing the width of the star
+- [ ] Allow the user to drag the turtle across the screen to make the shooting star
+- [ ] Have the shooting stars clear when the user presses enter
+- [ ] Have a setup module that creates a grassy ground and black night sky
+- [ ] When the user drags the star across the screen, have the flowers glow
+
+Old Bad Idea:
 The ultimate vision that I have for my final drawing app project is something like Frogger's Adventures.  For those who aren't very familiar
 with Frogger, here is a picture: http://s.emuparadise.org/fup/up/43431-Frogger's_Adventures_-_Temple_of_the_Frog_(U)(Lightforce)-2.png
 This may be an overly ambitious endeavor, but as I was watching the different videos, I kept thinking how cool it would be to make a game
