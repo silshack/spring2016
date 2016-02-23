@@ -28,7 +28,8 @@ layout: post
 Finished small parts, and the whole structure (e.g. loops) will be built later.
 
 **Questions**  
-1. <iframe src="https://trinket.io/embed/python/4c810fbcf0" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+1. 
+<iframe src="https://trinket.io/embed/python/4c810fbcf0" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 If we put a function into the screen.onkey() function, the function cannot take arguments as it is not been called. So in this case the go_left() functions etc. can only be placed in main.py? [solved]    
 2. In order to enter clicks mode, have to press '2' key 2 times... [just click 2 times...]
 
