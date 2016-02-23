@@ -35,6 +35,5 @@ layout: post
 **Future Improvements**  
 1. In clicks mode, I also achieve 'clear up and start again' feature by linking the clear() function with the 'z' key. If it is strict that in clicks mode no keys should be used, I have to improve that.  
 2. I used another turtle jack for working in the function back(). I also want to switch its pencolor and fillcolor, but the toggle.color() does not work. Maybe it is because two onclik of two turtles cannot be used together?   
-3. I haven't included a definite loop. I think that would be a good improvement, maybe can be used in cooperate with counting the number
-of keys pressed/clicks by the user.   
+3. I haven't included a definite loop. I think that would be a good improvement, maybe can be used in cooperate with counting the number of keys pressed/clicks by the user.   
 4. As I can create turtle custom modules, I can also create screen custom modules. I've tried also put screen.onkey() functions into the custom module, but in the screen.onkey() there are still turtle nested, which need to be solved first in order to move those screen.onkey() functions into custom module.  
