@@ -7,7 +7,7 @@ layout: post
 <iframe src="https://trinket.io/embed/python/d75e4a777c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
-**Updated Milestones**
+**Updated Milestones**  
 - [x] Set up a basic sturcture (Trinket code)  
 - [x] Build up functions for drawing shapes, lines etc.  
 - [x] Users can control the screen with keys  
@@ -27,7 +27,7 @@ layout: post
 - [ ] Be well-organized and readable  
 Finished small parts, and the whole structure (e.g. loops) will be built later.
 
-**Questions**
+**Questions**  
 1. <iframe src="https://trinket.io/embed/python/4c810fbcf0" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 If we put a function into the screen.onkey() function, the function cannot take arguments as it is not been called.   
 So in this case the go_left() functions etc. can only be placed in main.py?   
