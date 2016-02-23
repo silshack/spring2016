@@ -16,15 +16,15 @@ layout: post
 - [x] Allow the user to select a drawing mode that changes the program’s repsonse to clicks and/or keys  
 - [x] Display the current mode and other relevant information to the user  
 - [x] Allow the user to choose and draw shapes, lines, and colors depending upon the selected mode 
-- [ ] Allow the user to clear the drawing and start over   
-- [ ] Utilize custom modules for readability and organization
-- [ ] Utilize custom functions for modularity
-- [ ] Utilize definite loops (i.e. for loops)
-- [ ] Utilize multiple Turtle objects
-- [ ] Utilize a named Screen object
-- [ ] Run without errors
-- [x] Be well-commented
-- [ ] Be well-organized and readable  
+- [ ] Allow the user to clear the drawing and start over    
+- [ ] Utilize custom modules for readability and organization  
+- [ ] Utilize custom functions for modularity  
+- [ ] Utilize definite loops (i.e. for loops)  
+- [ ] Utilize multiple Turtle objects  
+- [ ] Utilize a named Screen object  
+- [ ] Run without errors  
+- [x] Be well-commented  
+- [ ] Be well-organized and readable    
 Finished small parts, and the whole structure (e.g. loops) will be built later.
 
 **Questions**  
