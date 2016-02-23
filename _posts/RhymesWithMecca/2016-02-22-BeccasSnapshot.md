@@ -1,6 +1,6 @@
 ---
 layout: post
-author: RhymesWtihMecca
+author: RhymesWithMecca
 title: "Becca's Drawing App Snapshot"
 ---
 
