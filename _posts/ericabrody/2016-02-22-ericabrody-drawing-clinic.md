@@ -1,8 +1,10 @@
 ---
 layout: post
 author: ericabrody
-title: "drawing prog for peer clinic"
+title: "drawing prog snapshot"
 ---
+
+<iframe src="https://trinket.io/embed/python/3197a3948f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
  - [x] create setup screen - set screen size and then draw black square around edges of the screen so users can see them
  - [x] create setup screen - draw set of 4 square shaped buttons at upper left of screen with black edges and different color fill- 
