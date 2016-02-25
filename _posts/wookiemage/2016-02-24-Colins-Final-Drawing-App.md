@@ -5,7 +5,7 @@ title: "Colin's Drawing App
 "
 ---
   So here it is:
-  <iframe src="https://trinket.io/embed/python/5978875cb2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  <iframe src="https://trinket.io/embed/python/8c362a2928" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
   I had a heck of a time getting it to do different things when keys were pressed. Originally, my goal was to have a variable change which method in a list of methods disp.onlick would call.
   ```
