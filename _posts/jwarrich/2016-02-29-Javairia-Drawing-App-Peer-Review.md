@@ -1,0 +1,14 @@
+---
+layout: post
+author: jwarrich
+title: Javairia's Drawing App Peer Review
+---
+
+The App:
+	For the clinic exercise, I was paired with Natalia. For the Drawing app assignment, she created a Muppet themed program. It allows the user to choose eyes, nose, and mouth to create a unique Muppet. I thought this was a very creative idea for the drawing app. Her app has an entirely graphical user interface. Based on the user’s clicks, the program has specific responses. Her app allows the user to choose from three different sets of eyes and nose and two choices for the mouth. Her program then displays those choices on the Muppet face. She does have a restart button but it seems to not be working. In her reflection, she mentioned that she had trouble integrating restart into her code. Overall, I thought Nat’s idea for the app was pretty creative and the app itself worked without any conflict.  
+The Code:
+	So, within Nat’s code, she used two modules. One main and then one to setup her screen and Muppet features.  Within the setup module, she used custom functions for each feature and then just called those functions in her main module. I think she only used one turtle for her program. She commented on parts of her code, but the parts she didn’t were pretty easy to understand. Overall, her code was well-organized, readable and ran without error.  
+The Process:
+	Based on Nat’s reflection, it seemed like she struggled a bit with the assignment. She had to adjust her vision to what she could do as a programmer. I could sympathize with this because at points I was having trouble putting my ideas to code. It can get frustrating when you write code and it doesn’t do what you want it to. I think Nat adapted pretty well given the challenges she had with creating her app. Nat’s milestones were clearly stated, achievable, and included the general project requirements. Nat was able to achieve all of her milestones except for the reset page. With everything considered, I think that with more time and coding experience Nat could achieve her original vision. 
+Self-Reflection:
+	When comparing mine and my partner’s app, I feel like we struggled with the same things. We both had to change our vision to match our programming capabilities but in the end we both had working programs so I guess that’s a win! Our apps are different in the fact that Nat’s app is focused on shapes while mine is focused on color. Nat’s main module is less cluttered more and more readable than mine. This is something that I could have improved upon. Also, looking back at my work, something that I could have added was instructions on the screen so that the user knows what to do. After the theme is picked, I didn’t add anything that would let the user know how to start or change color. Something that I left out was including a restart button. I think this was due to my time management skills. Overall, I am pleased with my final app.
