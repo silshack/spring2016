@@ -4,7 +4,7 @@ author: wagerpascal
 title: "Jason's Milestones and Goals"
 ---
 
-##Overall Goal
+## Overall Goal
 
 Using some kind of theme, create a Microsoft-Paint-esque script that allows the user to select line thicknesses and change colors when drawing. There will be two drawing modes: one for free drawing, and one where the user is constrained to a certain area. During reset, the screen should not have to redraw everything. 
 
