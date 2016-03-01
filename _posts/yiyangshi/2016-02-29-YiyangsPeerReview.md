@@ -1,6 +1,6 @@
 ---
 author: yiyangshi
-layout: post:
+layout: post
 title: "Yiyang's Peer Review"
 ---
 
