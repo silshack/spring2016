@@ -128,19 +128,19 @@ Tues, Feb 23    | Debugging (Remote Class)     | Video as needed                
 Thurs, Feb 25   | No Class<br> Begin Peer Review |                                 | 
 Tues, Mar 1     | Drawing Project Code Talks   |                                   | Peer Review Due
 Thurs, Mar 3    | Class Extension              |   Hauser Chapter 3                | Game Project (Due March 10) <br> Take-home Midterm (Due March 8; ungraded)
-Tues, Mar 8     | Class Extension <br> Midterm Review |                            | 
+Tues, Mar 8     | Game Project Peer Clinic <br> Midterm Review |    Hauser Chapter 3         | 
 Thurs, Mar 10   | Game Project Code Talks      |                                   | Set up Cloud 9 (by March 22) <br> Extra Credit: Spring Break Hack
 Tues, Mar 15    | Spring Break                 |                                   | 
 Thurs, Mar 17   | Spring Break                 |                                   | 
 Tues, Mar 22    | Projects <br> Cloud 9<br> Files | Dr. Chuck Chapter 7               | Files Exercises
 Thurs, Mar 24   | Strings<br> Regex            | Review Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | Regex Exercises
-Tues, Mar 29    | Strings<br> Regex            | Review Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | 
+Tues, Mar 29    | Strings<br> Regex  <br> Guest Speaker(s)?          | Review Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | 
 Thurs, Mar 31   | Dictionaries <br> Reading websites with Python | Dr. Chuck Chapter 9<br> Dr. Chuck Chapter 12   | Dictionaries Exercises
 Tues, Apr 5     | Dictionaries<br> Parsing Data                 | Dr. Chuck Chapter 13              | Dictionaries Exercises
 Thurs, Apr 7    | Project statement due <br> git |                                   | TBD <br> Meet ups check-in
 Tues, Apr 12    | Project work day             |                                   | TBD
 Thurs, Apr 14   | Progress reports             |                                   | TBD
-Tues, Apr 19    | Progress reports (Remote class)  |                                   | TBD
+Tues, Apr 19    | Peer Clinic (Remote class)  |                                   | TBD
 Thurs, Apr 21   | Final progress reports       |                                   | TBD
 Tues, Apr 26    | Final progress reports       |                                   | TBD
 Fri, Apr 29     | No Class; Final Projects Due |                                   | 
