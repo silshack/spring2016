@@ -22,7 +22,7 @@ Reference Link for the unsure: http://www.addictinggames.com/shooting-games/tank
 - [ ] Set tank health.
 - [ ] Determine method of awarding damage.
 - [ ] Animate tank shell trajectory.
-- [ ] Create turn-based system (based on either whether you have shot).
+- [ ] Create turn-based system (based on whether you have shot).
 - [ ] Have tank turret indicate angle (Optional).
 - [ ] Create dumb "AI" for other tank (Optional)
 - [ ] Make craters for where shells land (Optional)
