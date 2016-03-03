@@ -7,6 +7,7 @@ title: Becca's Game App Milestones
 **Here are my milestones:**
 
 **Required**
+
  - [ ] interface is entirely graphical
  - [ ] game uses key events (tentatively to play the trivia game for numerical questions)
  - [ ] game uses click events (tentatively to play the trivia game for non-numerical questions [moving to certain spots on the screen to guess answers - spots drawn by extensions of Python's turtle class])
@@ -16,6 +17,7 @@ title: Becca's Game App Milestones
  - [ ] game displays information that updates
  
 **Stretch**
+
  - [ ] game uses key events to change turtle/player (I'm not sure if this is possible)
  - [ ] game has point accumulation
  
