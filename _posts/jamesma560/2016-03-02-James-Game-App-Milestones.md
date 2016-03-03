@@ -8,7 +8,7 @@ title: "James Game App Milestones"
 -[]	Use custom methods with those custom class
 -[] Create screen. 
 -[]	Fullfill all assignment requirements.
--[]Include both key and click events. 
+-[] Include both key and click events. 
 -[] Have a .congratulate() that appears when the user wins.
 -[] Have a turtle .write() game instructions to the screen
 -[]	Use a custom turtles to display information to the user
