@@ -41,4 +41,29 @@ Here are some photos of what that looked like:
 ![Whiteboards with code snippets and goals](http://i.imgur.com/NeJLpsvm.jpg)  
 This was very very helpful. I was able to work on different sections and functions distinctly. I dedicated different sections of whiteboard to different goals which allowed me to keep things somewhere other than my head. I could easily work on a section until I got stuck and move to another. Being able to move back and forth between different sections turned out to be helpful for problem solving as well. I was able to move on whenever I needed.  
 
+### Troubleshooting
+This is by far the most complicated program I've written. It has a lot of functions that call other functions and some of the time they just didn't work the way they should. A few strategies really worked well for me here. Printing to the console variables was very helpful. Another strategy that I ended up using in the end was tracking down in which function the error occurred and rewriting the function in a completely different way.
 
+#### An Example
+This code block  
+```
+def collider(t1, t2, rad = 30):
+  xOverlap = (t1.xcor()-rad, t1.xcor() + rad)
+  yOverlap = (t1.ycor()-rad, t1.ycor() + rad)
+  enemyX, enemyY = t2.pos()
+  check_x = enemyX > min(xOverlap) and enemyX < max(xOverlap)
+  check_y = enemyY > min(yOverlap) and enemyY < max(xOverlap)
+  if (check_x and check_y):
+    return True
+  else:
+    return False
+```
+Became this code block  
+```
+def collider(t1, t2, rad = 30):
+  if (t1.distance(t2) < rad):
+    return True
+  else:
+    return False
+```
+I knew there was some trouble with the logic but I just couldn't trace through all the possibilities. So instead I wrote it again using a different method to compare those values. Thank goodness .distance existed.
