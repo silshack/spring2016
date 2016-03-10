@@ -5,6 +5,7 @@ title: "Natalie's game app"
 ---
 
 Milestones:
+
  - [x] Screen background
  - [x] import shark image
  - [x] multiple sharks appears
