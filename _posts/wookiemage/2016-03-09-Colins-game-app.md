@@ -67,3 +67,6 @@ def collider(t1, t2, rad = 30):
     return False
 ```
 I knew there was some trouble with the logic but I just couldn't trace through all the possibilities. So instead I wrote it again using a different method to compare those values. Thank goodness .distance existed.
+
+### Another Problem
+I discovered another problem as I was getting ready to submit the game. The character could fly off the screen. Obviously I didn't want to allow this. I made a function to check if the player was inside the playing field. Then I called this function every turn and if the player was not inside the playing field, the player couldn't move. This, of course, was only a partial solution. This resulted in the character getting stuck at the edges of the playing field. I then needed to add a way for the player to move if and only if they are stuck on the edge. To solve this, I called the function that checks the player condition with the "not" operator because I only wanted this to work if the player was stuck. Then, if it wasn't true, the click function would move the player in the direction clicked. This still doens't quite solve the problem, because the player might not move the character back onto the playing field, but it's much better than before.
