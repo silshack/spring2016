@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Jason's Game App"
 author: wagerpascal
+title: "Jason's Game App"
 ---
 <iframe src="https://trinket.io/embed/python/d532a75fb4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
