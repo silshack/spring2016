@@ -2,7 +2,7 @@
 layout: post
 author:
 - hannahlwang
-- clairewj
+- clairewlj
 title: "Hannah and Claire's Class Exercises"
 ---
 
