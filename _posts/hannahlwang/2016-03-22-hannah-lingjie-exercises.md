@@ -3,7 +3,7 @@ layout: post
 author:
 - hannahlwang
 - clairewlj
-title: "Hannah and Lingjie's Class Exercises"
+title: "Hannah and Lingjie's Files Exercises"
 ---
 
 <h3>Exercise 1</h3>
