@@ -133,8 +133,8 @@ Thurs, Mar 10   | Game Project Code Talks      |                                
 Tues, Mar 15    | Spring Break                 |                                   | 
 Thurs, Mar 17   | Spring Break                 |                                   | 
 Tues, Mar 22    | Projects <br> Cloud 9<br> Files | Dr. Chuck Chapter 7               | Files Exercises
-Thurs, Mar 24   | Strings<br> Regex            | Review Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | Regex Exercises
-Tues, Mar 29    | Strings<br> Regex  <br> Guest Speaker(s)?          | Review Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | 
+Thurs, Mar 24   | Git <br> Guest Speakers            | Silent Technical Privelege  | Set up git
+Tues, Mar 29    | Strings<br> Regex           | Review Dr. Chuck Chapter 6 <br> Dr. Chuck Chapter 11 | Regex Exercises <br> Post cleanup
 Thurs, Mar 31   | Dictionaries <br> Reading websites with Python | Dr. Chuck Chapter 9<br> Dr. Chuck Chapter 12   | Dictionaries Exercises
 Tues, Apr 5     | Dictionaries<br> Parsing Data                 | Dr. Chuck Chapter 13              | Dictionaries Exercises
 Thurs, Apr 7    | Project statement due <br> git |                                   | TBD <br> Meet ups check-in
