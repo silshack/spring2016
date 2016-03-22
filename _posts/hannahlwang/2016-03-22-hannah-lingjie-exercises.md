@@ -7,7 +7,7 @@ title: "Hannah and Lingjie's Files Exercises"
 ---
 
 <h3>Exercise 1</h3>
-Hannah will do
+<iframe src="https://trinket.io/embed/python3/2d76bfdf0f" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 <h3>Exercise 2</h3>
 <iframe src="https://trinket.io/embed/python/69fa272aa1" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
