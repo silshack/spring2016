@@ -24,3 +24,10 @@ Exercise 3:
 
 Fairly straightforward, as it only needed an if/else conditional to separate the cases. Though one strange thing- my print statement
 differs from the original example as the commas carried over when I ran it. I still haven't really figured out why though.
+
+Exercise 4:
+<iframe src="https://trinket.io/embed/python3/fcaed28a4a" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+It was tricky getting a grasp of the lists of lists' properties (especially the fact that breaking apart the list gives entire rows
+that are able to be indexed theselves). It's overall a lot closer to human thinking that I initially thought (I thought that the 
+"rows" were equivalent to pointers, rather than the whole row itself).
