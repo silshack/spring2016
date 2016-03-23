@@ -24,4 +24,4 @@ Exercise 4:
 <iframe src="https://trinket.io/embed/python3/b242272b35" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Reflection:
-The exercises were pretty straight forward, the only one we had difficulty with was exercise 4. A problem we ran into was appending the payment type to the end of an existing list. With Elliots help, we figured out that the payment type was being recognized as a string, so we had make it its own list. Overall, this was a good introduction. 
+The exercises were pretty straightforward, the only one we had difficulty with was exercise 4. A problem we ran into was appending the payment type to the end of an existing list. With Elliots help, we figured out that the payment type was being recognized as a string, so we had to make it into its own list. Overall, this was a good introduction. 
