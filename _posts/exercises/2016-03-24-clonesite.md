@@ -36,13 +36,16 @@ git clone https://github.com/silshack/spring2016.git
 
 ```
 # Change into the new directory
-cd spring 2016
+cd spring2016
+
+# Command line tip: start typing something and press tab to autocomplete
+# sp<tab> will sutocomplete to spring2016.
 
 # Install stuff
-bunde install
+bundle install
 
 # Make a new branch
-git checkout -b <your-github-name>-branch 
+git checkout -b [your-github-name]-branch 
 
 # (e.g. mine would be git checkout -b eah13-branch 
 
@@ -52,9 +55,9 @@ jekyll serve --watch --port=$PORT --host=$IP
 
 You'll then be able to see your version of our website at:
 
-`[project-name]-[username].c9.io/spring2016/`
+`[c9-project-name]-[username].c9.io/spring2016/`
 
-Note the `spring2016/`! The trailing slash is important.
+Where c9-project-name is the name of your Cloud 9 workspace. Note the `spring2016/`! The trailing slash is important.
 
 # Tips 
 
