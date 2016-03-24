@@ -69,7 +69,7 @@ For next class you will:
 Let's get going!
 
 * A theme for programming: **type and read your code closely**
-* [Can I get a volunteer?]({{ site.baseurl }}{% post_url how-tos/2016-01-14-githubbasics %})
+* [Can I get a volunteer?]({{ site.baseurl }}how-tos/githubbasics)
 * Turtle Program Show-offs - drop a link in Gittr chat
-* [Let's do your homework]({{ site.baseurl }}{% post_url exercises/2016-01-19-turtlepost %})
+* [Let's do your homework]({{ site.baseurl }}exercises/2016-01-19-turtlepost)
 * Chapter 2 - Variables preview
