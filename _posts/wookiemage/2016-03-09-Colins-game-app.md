@@ -3,7 +3,7 @@ layout: post
 author: wookiemage
 title: "Colin's Game"
 ---
-###Here's the game:
+###Here\'s the game:
 <iframe src="https://trinket.io/embed/python/75f65f8d0c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ###Here are my updated milestones:
@@ -33,12 +33,14 @@ Most of the changes I made to my milestones were design decisions, but a few wer
 ### Process
 I started off by listing out my milestones. They were somewhat useful and most of them were accomplishable tasks, but some of them were much larger than the others. I ended up breaking everything down much further on whiteboards so that I could get a better idea of what each goal involved.  
 Here are some photos of what that looked like:
+
 ![Whiteboards with code snippets and goals](http://i.imgur.com/VWzA5W3m.jpg)
 ![Whiteboards with code snippets and goals](http://i.imgur.com/uXuB3Srm.jpg)
 ![Whiteboards with code snippets and goals](http://i.imgur.com/AfQiXsXm.jpg)
 ![Whiteboards with code snippets and goals](http://i.imgur.com/T2lmA1gm.jpg)
 ![Whiteboards with code snippets and goals](http://i.imgur.com/IYmapzom.jpg)
 ![Whiteboards with code snippets and goals](http://i.imgur.com/NeJLpsvm.jpg)  
+
 This was very very helpful. I was able to work on different sections and functions distinctly. I dedicated different sections of whiteboard to different goals which allowed me to keep things somewhere other than my head. I could easily work on a section until I got stuck and move to another. Being able to move back and forth between different sections turned out to be helpful for problem solving as well. I was able to move on whenever I needed.  
 
 ### Troubleshooting
