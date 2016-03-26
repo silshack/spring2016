@@ -1,7 +1,7 @@
 ---
 layout: post
 author: ericabrody
-title: “Erica's drawing program"
+title: "Erica's drawing program"
 ---
 
 Here is my drawing program:

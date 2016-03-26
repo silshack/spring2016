@@ -2,8 +2,8 @@
 layout: post
 author: 
   - ericabrody
-  - shyarmadillo8
-  - jayyang95
+  - ShyArmadillo8
+  - JayYang95
 title: "Files Exercises-Erica,Jasmin,Jay"
 ---
 
