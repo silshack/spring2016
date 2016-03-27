@@ -68,8 +68,7 @@ def calculate_calories(eat, peppermints):
 ```
 
 Learning how to use a function to enable my program to repeat a loop for as many times as the user specified was so refreshing! It was
-so much quicker and more concise than having to copy and paste the code, as I had done in the previous assignment.  Functions are powerful
-features, since they expand the extent of the program and take some pressure off the programmer too.
+so much quicker and more concise than having to copy and paste the code, as I had done in the previous assignment.  Functions are powerful features, since they expand the extent of the program and take some pressure off the programmer too.
 
 One thing that I was really excited to learn about was how to randomize background colors and peppermint colors by importing random.
 This was exactly what I was looking for in my program, since I wanted to experiment and see how much I could do with color each time. 

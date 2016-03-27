@@ -59,8 +59,7 @@ Instead of this:
 scores = input("Please enter a score between 0.0 and 1.0")
 ```
 
-Another problem that I couldn't wrap my mind around was the placement of the try and except statements with the if and else statements.
-I believe that I made some bad nesting choices, but this is what I found out works the best:
+Another problem that I couldn't wrap my mind around was the placement of the try and except statements with the if and else statements. I believe that I made some bad nesting choices, but this is what I found out works the best:
 
 ```
 try:
@@ -78,12 +77,11 @@ try:
     print ("Bad Score")
 except:
   print("Please start from the beginning, and enter a score between 0.0 and 1.0")
-  ```
+```
   
 The other tactics that I'd used would give me results that were definitely not right, even if I had specified exactly what I thought was
 correct.  Lastly, I also hadn't considered that the scores a letter grade could fall into would be ranges rather than just one number.
-Ranges are a much more precise way of ensuring that the value you want ends up where you want it to. This example of what I was doing wrong
-below helps show my well meant, but wrong, idea:
+Ranges are a much more precise way of ensuring that the value you want ends up where you want it to. This example of what I was doing wrong below helps show my well meant, but wrong, idea:
 
 ```
  if float(scores) >= 0.9:
