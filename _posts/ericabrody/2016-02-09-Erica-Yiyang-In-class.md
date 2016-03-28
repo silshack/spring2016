@@ -2,8 +2,8 @@
 layout: post
 author: 
 - ericabrody
-- yiyang
-title: "Erica's Chapter 3 Exercises"
+- yiyangshi
+title: "Erica and Yiyang In Class Exercises"
 ---
 
 Exercise 1:
