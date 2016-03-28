@@ -9,7 +9,7 @@ This is my Game App:
 
 The picture source:http://nuclear-news.net/2013/08/13/fukushima-protest-contest-win-a-gold-bar-from-ebisu-studios/
 
-Milestones:
+Milestone:
 
 - [x] Draw background of 2 or more different difficulty levels of gold mine
 - [x] Draw different sizes of gold and barriers on the screen.
