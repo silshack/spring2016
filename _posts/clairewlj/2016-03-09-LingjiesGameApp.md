@@ -15,11 +15,10 @@ Milestones:
 - [x] Draw different sizes of gold and barriers on the screen.
 - [x] Write functions related to change game mode
 - [x] Write functions related to screen.onkey for controling directions of hook/turtle 
-- [ ] Write functions related to change scores according to user’s gold mining result
 - [x] Write congratulating function
 - [x] link shooting speed with click. 
 - [ ] create "Win" animation
-
+- [ ] Write functions related to change scores according to user’s gold mining result
 
 Reflection:
 I’ll have to apologize first for the game looking too simple right now, as I failed to spend enough time on it. I’ll keep working on it during the Spring break.
