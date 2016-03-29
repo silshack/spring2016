@@ -9,7 +9,8 @@ title: "Colin and Navaneet do some regex's"
 Here's Exercise 1
 <iframe src="https://trinket.io/embed/python3/00956c16a3" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-
+Here's Exercise 2
+<iframe src="https://trinket.io/embed/python/5e6419b611" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Here's Exercise 3
 
