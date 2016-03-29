@@ -7,13 +7,13 @@ title: "Natalie's drawing app snapshot"
 Updated milestones:
 
  - [x] set up screen
- - [X] user is able to click on screen and choose mode
+ - [x] user is able to click on screen and choose mode
  - Mondrian mode
- - [X] user is able to draw squares with thick edges
- - [X] user is able to draw rectangles (standing up and lying down) with thick edges
- - [X] user is able to change shapes
- - [X] user is able to change color of the pen
- - [X] user is able to change size of the pen
+ - [x] user is able to draw squares with thick edges
+ - [x] user is able to draw rectangles (standing up and lying down) with thick edges
+ - [x] user is able to change shapes
+ - [x] user is able to change color of the pen
+ - [x] user is able to change size of the pen
  - Pollock mode
  - [ ] create blobs of different styles
  - [ ] user is able to change blob style of the pen
