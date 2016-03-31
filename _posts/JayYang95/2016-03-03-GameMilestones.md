@@ -5,6 +5,7 @@ title: "Jay's Game Milestones"
 ---
 
 Milestones:
+
  - [ ] Have movement be controlled by arrow keys
  - [ ] Keep track of a counter variable (maybe points or something)
  - [ ] Uses click events to change settings of game
