@@ -32,3 +32,6 @@ Traditional:
 Using animation artifacts for artistic effect:
 
 ![]([Imgur](http://i.imgur.com/I2lR24l.png))
+
+
+Made a change!
