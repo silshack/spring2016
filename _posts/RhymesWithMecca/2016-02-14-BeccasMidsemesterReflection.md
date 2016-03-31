@@ -17,15 +17,7 @@ means I often make punctuation and indentation errors while doing my homework be
 programming.  I do like this way better, though.
 
 **Programming and Puzzles**
-My suspicion about puzzles and coding was right.  One of the highlights of my week (warning: I’m about to geek out) is doing the Sunday 
-New York Times crossword puzzle.  Usually I start, get a bit of the way through, and get stuck.  Coming back to it a few hours later 
-or the next day is very helpful, since my brain is working on it even though I’m not directly thinking about it, and then more letters 
-are filled in quickly.  The same is true for programming.  I always have an open Chrome tab for each chapter exercise (in separate 
-Trinkets), because something that trips me up on one exercise will often be solved in the next one, and I navigate back and forth a lot.  
-I also have found it useful to come back to my code a few hours later, or the next day, and have had thoughts like, “Oh!  I could use
-functions here!” and suddenly my options have expanded.  I’ve also found it helpful to keep the “Notes” app open on my laptop to write 
-notes for my reflection as I go.  Early on in the class, I would write my program(s) and then forget the little things that tripped me 
-up, making my reflections less detailed and less helpful to my learning.
+My suspicion about puzzles and coding was right.  One of the highlights of my week (warning: I’m about to geek out) is doing the Sunday New York Times crossword puzzle.  Usually I start, get a bit of the way through, and get stuck.  Coming back to it a few hours later or the next day is very helpful, since my brain is working on it even though I’m not directly thinking about it, and then more letters are filled in quickly.  The same is true for programming.  I always have an open Chrome tab for each chapter exercise (in separate Trinkets), because something that trips me up on one exercise will often be solved in the next one, and I navigate back and forth a lot.  I also have found it useful to come back to my code a few hours later, or the next day, and have had thoughts like, “Oh!  I could use functions here!” and suddenly my options have expanded.  I’ve also found it helpful to keep the “Notes” app open on my laptop to write notes for my reflection as I go.  Early on in the class, I would write my program(s) and then forget the little things that tripped me up, making my reflections less detailed and less helpful to my learning.
 
 **Things That Are Going Well**
 I have enjoyed the collaborative structure of class.  The ability to see classmates’ code after pull requests have been submitted is very
@@ -44,16 +36,13 @@ figure out how to get multiple clicky functions - I wanted to define clicky1 and
 
 <iframe src="https://trinket.io/embed/python/5a29abf2df" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Some of my classmates had thought to use the coordinate grid to specify what should be drawn where.  I rewrote this part of my program 
-such that the wand will be drawn if the user clicks on the left side of the screen, the hat if the user clicks in the middle, and the 
+Some of my classmates had thought to use the coordinate grid to specify what should be drawn where.  I rewrote this part of my program such that the wand will be drawn if the user clicks on the left side of the screen, the hat if the user clicks in the middle, and the 
 Snitch if the user clicks on the right (based on which x coordinate is clicked on).  I also cleaned up the text and got rid of the 
 congratulations animation, since it’s a bit silly, keeping the thank you text:
 
 <iframe src="https://trinket.io/embed/python/104e1fd7b5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-The other class session that was helpful was when we looked at chapter exercises on the screen and talked about problem solving strategies
-and ways to make our code more beautiful.  I used the troubleshooting suggestions of printing integers at random places throughout the 
-program and of printing variable types in the next homework assignment, both of which proved useful.
+The other class session that was helpful was when we looked at chapter exercises on the screen and talked about problem solving strategies and ways to make our code more beautiful.  I used the troubleshooting suggestions of printing integers at random places throughout the program and of printing variable types in the next homework assignment, both of which proved useful.
 
 **Things to Work On**
 Other aspects of class have frustrated me.  The idea for the flower in my first program came to me pretty naturally, and then I felt like 
@@ -66,13 +55,7 @@ Sometimes we throw around words in class like “refactor” and “hack” that
 similar?  The textbook glossaries are helpful.
 
 I think the treasure hunt was the first time we used “foreign code” – coding techniques that we hadn’t learned yet but were in the 
-program (random numbers, while loops, and modules, for example) and these aspects confused me a lot and made this program, and future
-ones with to-be-learned code, a lot harder.  I don’t like reading ahead to figure out more efficient ways to write my programs, simply 
-because of information overload, but sometimes it feels necessary.  I’m spending significantly more time on this class outside of class 
-than on my other classes (for the record, Web Development (will be Mobile Web Development for the second half of the semester), 500, 
-and 513 now, and I’ll be adding Data Sharing Among Scientists for the second half of the semester), because of the number and depth 
-of assignments and my perfectionist brain.  Maybe it would be helpful to give us a preview of the upcoming textbook chapter the class 
-before it’s assigned.
+program (random numbers, while loops, and modules, for example) and these aspects confused me a lot and made this program, and future ones with to-be-learned code, a lot harder.  I don’t like reading ahead to figure out more efficient ways to write my programs, simply because of information overload, but sometimes it feels necessary.  I’m spending significantly more time on this class outside of class than on my other classes (for the record, Web Development (will be Mobile Web Development for the second half of the semester), 500, and 513 now, and I’ll be adding Data Sharing Among Scientists for the second half of the semester), because of the number and depth of assignments and my perfectionist brain.  Maybe it would be helpful to give us a preview of the upcoming textbook chapter the class before it’s assigned.
 
 Paired programming has been a blessing and a curse.  I like the collaborative aspect – two brains are better and faster than one – 
 and how we switch roles every so often.  What frustrates me is the short amount of time we have in class and the expectation that 
