@@ -4,6 +4,7 @@ author:
 - nataliele
 - EternalFootman
 title: "Natalie and Kit's regex exercises"
+---
 
 Exercise 1:
 Kit: This exercise was a good combination of old and new skills. The counting loop was familiar; it just needed to be combined with the re.search command from Chapter 11.
