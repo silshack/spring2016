@@ -31,9 +31,7 @@ numbers and they would print back to me, but I had to remember that unless I cha
 Here is my 6.3 exercise:
 <iframe src="https://trinket.io/embed/python/15d23c014e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-This one was not so bad for me, and I liked how I was able to combine my new string knowledge with my prior knowledge of functions.  Functions
-and learning how to write them are a skill that I'm still working to improve on, so this was a good exercise for me to play around with
-prior and new knowledge.  Here's my function that I wrote:
+This one was not so bad for me, and I liked how I was able to combine my new string knowledge with my prior knowledge of functions.  Functions and learning how to write them are a skill that I'm still working to improve on, so this was a good exercise for me to play around with prior and new knowledge.  Here's my function that I wrote:
 
 ```
 def counter(letter, word):
@@ -47,10 +45,7 @@ def counter(letter, word):
 Here is my 6.4 exercise: 
 <iframe src="https://trinket.io/embed/python/c64d4841d4" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-This was also a pretty exciting exercise, as I got to learn how to do a new string method for a specific word. The code explanation
-for the website that we were referenced to better understand the method didn't make a lot of sense, but I found some examples online and 
-applied those to the definition that was in the reference.  After this, things clicked quickly.  I can see this being useful as for the
-previous exercise to shorten things up.  This will be good to keep in mind for the future.
+This was also a pretty exciting exercise, as I got to learn how to do a new string method for a specific word. The code explanation for the website that we were referenced to better understand the method didn't make a lot of sense, but I found some examples online and  applied those to the definition that was in the reference.  After this, things clicked quickly.  I can see this being useful as for the previous exercise to shorten things up.  This will be good to keep in mind for the future.
 
 Here is my 6.5 exercise:
 <iframe src="https://trinket.io/embed/python/70c4946d0c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>

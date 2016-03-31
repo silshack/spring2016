@@ -7,8 +7,7 @@ title: "Jasmine Plott's Clicky Turtles"
 This was an exciting turtle exercise that allowed me to work on functions and better understand how the user can click on screen.  What I
 decided to do for my final Trinket was to play a "game" of sorts where the user just clicks on the screen until a blue star appears. There
 is no specific layout as to how many times or where the user has to click for the star to turn blue, but when the blue star finally appears,
-then the user has won the game, the user has won and is congratulated.  Here is the code that I used for my setup function as a preface to 
-the game:
+then the user has won the game, the user has won and is congratulated.  Here is the code that I used for my setup function as a preface to the game:
 
 ```
 def setup(screen):
@@ -27,7 +26,7 @@ def setup(screen):
   sally.write("You don't want to? Too bad!!!", "Cambria", "right", "18pt bold")
   time.sleep(2)
   sally.clear()
-  ```
+```
 
 After the user has been forced into the game, they are instructed to click the screen.  This action causes stars of different colors to
 be drawn all throughout the screen.  Here is the code that I used to define my star and its parameters:

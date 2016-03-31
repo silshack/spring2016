@@ -16,7 +16,9 @@ Another key issue of my program is parameter. Because of the different shapes an
 
 Something for the future:
 I want the users to be able to drag those rectangles onto the face. Dragging seems to be a more natural way in a drawing app like this. 
+
 Milestone:
+
 - [x] Draw the empty face background.
 - [x] For each facial feature, draw three choices.
 - [x] Create a hiden turtle that draws user's choice on the empty face.
