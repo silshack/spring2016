@@ -4,7 +4,7 @@ author:
   - ericabrody
   - ShyArmadillo8
   - JayYang95
-title: "Files Exercises-Erica,Jasmin,Jay"
+title: "Files Exercises-Erica,Jasmine,Jay"
 ---
 
 Here is the code for exercises 1-3:
