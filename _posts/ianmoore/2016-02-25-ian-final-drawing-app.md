@@ -7,20 +7,14 @@ This is my drawing app:
 
 <iframe src="https://trinket.io/embed/python/622c3769c0" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-These are my milestones:
--[x] Build starter code
-
--[x] Working interface - Buttons respond to clicks, mode buttons clear when one mode is selected.
-
--[x] Mode 1 - First mode will draw
-
--[x] Mode 2 - Second mode will draw
-
--[x] Mode 3 - Third mode will draw
-
--[x] Clear and reset - Clear button functions correctly, program resets to initial state, ready for user to reinitiate
-
--[x] Debugging - Check to make sure that everything <i>actually works</i>.
+### These are my milestones:
+- [x] Build starter code
+- [x] Working interface - Buttons respond to clicks, mode buttons clear when one mode is selected.
+- [x] Mode 1 - First mode will draw
+- [x] Mode 2 - Second mode will draw
+- [x] Mode 3 - Third mode will draw
+- [x] Clear and reset - Clear button functions correctly, program resets to initial state, ready for user to reinitiate
+- [x] Debugging - Check to make sure that everything <i>actually works</i>.
 
 I believe that I met them all. My buttons respond to clicks, the mode buttons disappear and are replaced by the "Clear" and "Switch Mode" buttons, and the current mode is displayed at the top of the screen. Each mode draws as I wanted it to. The "Clear" and "Switch Mode" buttons function correctly. "Clear" resets the program to its initial state, while "Switch Mode" leaves the user's drawing as-is and allows the user to select another mode in order to continue drawing. As far as I have been able to determine, there are no show-stopping bugs in the program. Ultimately, I think I expanded my scope. I had initially intended for the color selection to take place only within the Line mode. When I realized I had more time than anticipated, I added it to the other modes and implemented pen size selection as well. (I'll admit that size 50 is a little impractical, but I think it's fun.)
 
