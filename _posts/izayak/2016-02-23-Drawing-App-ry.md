@@ -8,6 +8,7 @@ layout: post
   
 
 **Milestones (Revised Lists)**  
+
 - [x] Set up a basic sturcture (Trinket code)  
 - [x] Build up functions for drawing shapes etc.  
 - [x] Users can control the screen with keys  
@@ -25,6 +26,7 @@ layout: post
 - [x] Run without errors  
 - [x] Be well-commented  
 - [x] Be well-organized and readable  
+
 
 
 **Reflection**  

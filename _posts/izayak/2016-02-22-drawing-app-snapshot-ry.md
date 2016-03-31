@@ -8,6 +8,7 @@ layout: post
 
 
 **Updated Milestones**  
+
 - [x] Set up a basic sturcture (Trinket code)  
 - [x] Build up functions for drawing shapes, lines etc.  
 - [x] Users can control the screen with keys  
@@ -24,7 +25,8 @@ layout: post
 - [ ] Utilize a named Screen object  
 - [ ] Run without errors  
 - [x] Be well-commented  
-- [ ] Be well-organized and readable    
+- [ ] Be well-organized and readable  
+- 
 Finished small parts, and the whole structure (e.g. loops) will be built later.
 
 **Questions**  
