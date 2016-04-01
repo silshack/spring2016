@@ -2,9 +2,9 @@
 layout: post
 author: 
   - ericabrody
-  - shyarmadillo8
-  - jayyang95
-title: "Files Exercises-Erica,Jasmin,Jay"
+  - ShyArmadillo8
+  - JayYang95
+title: "Files Exercises-Erica,Jasmine,Jay"
 ---
 
 Here is the code for exercises 1-3:

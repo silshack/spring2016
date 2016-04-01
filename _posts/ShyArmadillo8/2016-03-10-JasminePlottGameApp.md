@@ -14,11 +14,12 @@ Part of the problem was that I had initially settled on trying to recreate the S
 While this game was not what I had initially envisioned, I am very happy that it turned out the way that it did-partially because I was experiencing emotional distress in regards to my program and how I did not believe that I would be able to actually make this work.  I was able to acheive most of the requirements for the program, and I was also able to accomplish the majority of the milestones that I had set out from the beginning.  Here they are in their completed format:
 
 Necessary Milestones: 
-- [X] allow the user to start the game by clicking on the screen
-- [X] allow the character to respond to key input for movement 
-- [X] allow the user to win 
-- [X] indicate winning by having the turtle write it on the screen or playing animation
-- [X] keep track of how much the turtle has “eaten” by displaying the number on the screen
+
+- [x] Allow the user to start the game by clicking on the screen
+- [x] Allow the character to respond to key input for movement 
+- [x] Allow the user to win 
+- [x] Indicate winning by having the turtle write it on the screen or playing animation
+- [x] Keep track of how much the turtle has “eaten” by displaying the number on the screen
 
 Because of the difficulties that I had been facing with my program I decided that I would just stick to accomplishing my necessary milestones and move to the optional and stretch milestones another time, especially since they were more relevant to my original plan with the Snake game.  It would have been nice to add further components to my game, such as restarting the game when the sheep went off the screen, but by the time I had gotten my program written and working, I decided that this was a battle I would leave for another day (or another program perhaps).
 

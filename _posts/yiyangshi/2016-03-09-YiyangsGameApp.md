@@ -8,6 +8,7 @@ Here is the program:
 <iframe src="https://trinket.io/embed/python/2802271ec1" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Milestones:
+
 - [x] draw shooting barrel and ice stack
 - [x] link shooting barrel with keyboard control. Make shooting barrel rotate by clicking "Up" or "Down"
 - [x] make turtle move along the direction of the shooting barrel in straight line
@@ -18,6 +19,7 @@ Milestones:
 - [ ] create "Win" animation
 
 Optional Milestones:
+
 - [x] make a welcoming manual
 - [ ] create turtles with different mode 
 - [ ] allow clicking to choose turtle modes and change speed control to keyboard control.

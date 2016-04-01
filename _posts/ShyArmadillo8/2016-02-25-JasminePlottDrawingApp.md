@@ -81,10 +81,7 @@ they would.  The final issue that I would like to improve upon is hiding the app
 even though I have them hidden appropriately.  It's probably some small mistake that I'm making that isn't clear to me right now.
 
 Despite all the obstacles that I have had throughout creating this program, I do feel like I really went through a lot of personal growth
-and challenging myself for this project.  I learned how to use the onkey() and onscreen() tools better, worked on changing with modes(although
-I could use some improvement there), and was able to accomplish more of my milestones than I had realized. Initially, I'd thought that
-I hadn't been able to complete any of them, but as I worked through the project, I found that my milestones evolved and adapted to make
-the program suit my needs.  I also did a pretty good job of documenting my code to explain the reasoning behind what I'd done.  I look forward to working on and improving my skills with programs like these into the future.
+and challenging myself for this project.  I learned how to use the onkey() and onscreen() tools better, worked on changing with modes(although I could use some improvement there), and was able to accomplish more of my milestones than I had realized. Initially, I'd thought that I hadn't been able to complete any of them, but as I worked through the project, I found that my milestones evolved and adapted to make the program suit my needs.  I also did a pretty good job of documenting my code to explain the reasoning behind what I'd done.  I look forward to working on and improving my skills with programs like these into the future.
 
 
 

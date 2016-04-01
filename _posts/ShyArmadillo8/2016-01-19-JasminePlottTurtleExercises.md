@@ -33,6 +33,7 @@ For the second Turtle trinket I created, I wanted to experiment with some differ
 to get an idea of how to do semi-circles and stars.  Below is the code that I used to create semi-circles (which were meant to be hills).
 I copied the code from this site <a href="http://stackoverflow.com/questions/29441237/how-to-draw-a-semi-circle-in-python-turtle-only">
 here </a>. From my understanding the "x in range" command tells Tina to move in a 180 degree motion forwards and to the right 1 time.
+
 If you wanted to do this more than once, then you would change the number that comes after the forward and right instructions. I added
 the extra right(180) to get Tina pointed in the direction so that she could make multiple semi-circles back to back.
 
@@ -60,13 +61,10 @@ for x in range(180):
 tina.fill(False)
 ```
 I was pleased with how the hills turned out for the most part, but I couldn't figure out how to speed up drawing the hills.  I even 
-used the proper code to increase the speed, but it would not work.  Does anyone have any ideas? I guess this taught me that even though
-you might copy and past code that works, it's important to understand how to work with it.
+used the proper code to increase the speed, but it would not work.  Does anyone have any ideas? I guess this taught me that even though you might copy and paste code that works, it's important to understand how to work with it.
 
 I also created some stars after finishing the hills.  I copied the code from this site <a href="http://stackoverflow.com/questions/26356543/turtle-graphics-draw-a-star">
-here</a>. The trickiest part for the stars was figuring out the coordinates to tell them where to go so that they could appear in 
-different places on the screen.  I'm still not 100% sure how to use the coordinates on trinket, but I was surprised to discover that you
-can use negative numbers to direct Tina to different places. Below is the code that I used to draw the stars:
+here</a>. The trickiest part for the stars was figuring out the coordinates to tell them where to go so that they could appear in different places on the screen.  I'm still not 100% sure how to use the coordinates on trinket, but I was surprised to discover that you can use negative numbers to direct Tina to different places. Below is the code that I used to draw the stars:
 
 ```
 def draw_star(size, color):

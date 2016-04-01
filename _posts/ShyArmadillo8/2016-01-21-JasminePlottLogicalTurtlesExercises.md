@@ -49,7 +49,7 @@ with to make circles with divided sections:
   tina.forward(50)
   tina.right(90)
   tina.forward(50)
-  ```
+```
 It's really long, but to be honest, it was just a lot of copying and pasting the code that I'd already written and figuring which angle
 Tina was positioned. Overall, this made a pretty satisfying peppermint.
 
@@ -131,7 +131,7 @@ elif int(peppermints) is 2:
   tina.forward(50)
   
   tina.reset()
-  ```
+```
 
 One of the areas that I had difficulty of thinking where to put it into the Trinket were the operators, so for lack of any better idea,
 I decided that we would calculate the calories of peppermints.  I wish I could have thought of something more creative, but it served

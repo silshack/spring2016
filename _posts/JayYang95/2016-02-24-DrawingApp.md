@@ -6,53 +6,61 @@ title: "Jay's Drawing App"
 
 <iframe src="https://trinket.io/embed/python/e9b9c9b95f" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Shapes
-[x] Draw circle
-[x] Draw square
-[x] Draw triangle
-[ ] Draw circle centered around point clicked 
-[x] Draw square centered around point clicked
-[x] Draw triangle centered around point clicked
+Shapes:
 
-Size
-[x] Allow 3 different sizes (small, medium, large) for shapes
-[x] Allow 3 different pen thicknesses for line drawing
-[x] Prevent current selected thickness of pen from affecting thickness of lines that shapes are drawn with
+ - [x] Draw circle
+ - [x] Draw square
+ - [x] Draw triangle
+ - [ ] Draw circle centered around point clicked 
+ - [x] Draw square centered around point clicked
+ - [x] Draw triangle centered around point clicked
 
-Line
-[x] Allows user to click around without automatically drawing a line to that point while in line mode
-[x] Let's user drag the arrow/turtle to draw a line
-[ ] Have the arrow/turtle remain a static, different color from its pen colors so that it is visible under a lot of drawing
+Size:
 
-Color
-[x] Let's user select different colors
-[x] Brings up a different interface for user to click on a color
-[x] Once color has been selected, go back to original interface
-[ ] Retain the mode selected before user clicked on color mode
+ - [x] Allow 3 different sizes (small, medium, large) for shapes
+ - [x] Allow 3 different pen thicknesses for line drawing
+ - [x] Prevent current selected thickness of pen from affecting thickness of lines that shapes are drawn with
 
-Modes
-[x] Lets user select between different modes (Shapes, Color, Line) by clicking on them
-[x] Lets user repeatedly draw whatever mode is selected until a new mode is selected
-[x] Functioning clear button
+Line:
 
-Display
-[x] Displays current mode, color, and size on topright
-[x] Have separate turtles setup the interface and have tina be the sole turtle that does the drawing
-[x] Have different turtles update each property (mode, color, size) on the display
+- [x] Allows user to click around without automatically drawing a line to that point while in line mode
+- [x] Let's user drag the arrow/turtle to draw a line
+- [ ] Have the arrow/turtle remain a static, different color from its pen colors so that it is visible under a lot of drawing
 
-Organization and Code
-[x] Comments
-[x] Use of functions and custom modules
-[x] Definite loops
-[x] Screen Object
-[x] Keyboard + Mouse used
-[ ] Generally readable and eye-pleasing
-[x] Works with no errors
+Color:
+ 
+ - [x] Let's user select different colors
+ - [x] Brings up a different interface for user to click on a color
+ - [x] Once color has been selected, go back to original interface
+ - [ ] Retain the mode selected before user clicked on color mode
+
+Modes:
+
+ - [x] Lets user select between different modes (Shapes, Color, Line) by clicking on them
+ - [x] Lets user repeatedly draw whatever mode is selected until a new mode is selected
+ - [x] Functioning clear button
+
+Display:
+
+ - [x] Displays current mode, color, and size on topright
+ - [x] Have separate turtles setup the interface and have tina be the sole turtle that does the drawing
+ - [x] Have different turtles update each property (mode, color, size) on the display
+
+Organization and Code:
+
+ - [x] Comments
+ - [x] Use of functions and custom modules
+ - [x] Definite loops
+ - [x] Screen Object
+ - [x] Keyboard + Mouse used
+ - [ ] Generally readable and eye-pleasing
+ - [x] Works with no errors
 
 A thing to note about the checklist. I started with a very basic list including shapes, lines, color, etc and added on to it while I 
 was coding. If I ran into some sort of bug or annoyance, I added it onto the list and checked it off later if it was fixed.
 
 Reflection:
+
 This is much like my snapshot work in progress Drawing App, but with a few additional features and some bugs fixed.
 The app lets the user click on whichever mode they want (square, circle, triangle, C for color, and line). Once the user has
 selected a mode, the display in the topright will change from "None" to whatever mode is currently selected. The user can then
