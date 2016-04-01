@@ -3,13 +3,14 @@ layout: post
 author: EternalFootman
 title: "Kit's Mid-semester Reflection"
 ---
-	I got my first taste for any kind of programming in 161 last semester; we spent a few weeks on HTML. The option was given to build a website by using a template or by designing everything from scratch. I suspect that the first choice was easier, but I wanted to understand how it all worked. My result was a plain, rather pathetic thing, but I had made it and was terribly proud. I discovered that it sucks you in; the actual assignment goals matter less than the need to make it as good as possible. I’m fond of creating things, and this is apparently no different.
-	I catch myself having the same tendency in this class. The assignments don’t always catch my interest, but when they do, something like this happens.
-	
-<chessboard>
 
-	This started as one of the early assignments – I don’t even remember which now. I remember thinking then that there must be easier ways to do what I wanted, and I’ve been adding them in as I learned them (functions, modules, and multiple turtles were not part of the original program. The newest and most exciting addition is the .tracer/.update bit, which makes the opening much less tedious). I’ve probably spent more time on it than I have on most of the graded projects.
-	The chessboard says a lot about how I learn, though I forget it sometimes. I don’t do well if I don’t understand the purpose of an assignment.
+I got my first taste for any kind of programming in 161 last semester; we spent a few weeks on HTML. The option was given to build a website by using a template or by designing everything from scratch. I suspect that the first choice was easier, but I wanted to understand how it all worked. My result was a plain, rather pathetic thing, but I had made it and was terribly proud. I discovered that it sucks you in; the actual assignment goals matter less than the need to make it as good as possible. I’m fond of creating things, and this is apparently no different.
+I catch myself having the same tendency in this class. The assignments don’t always catch my interest, but when they do, something like this happens.
+	
+<iframe src="https://trinket.io/embed/python/c53d8852b3" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+This started as one of the early assignments – I don’t even remember which now. I remember thinking then that there must be easier ways to do what I wanted, and I’ve been adding them in as I learned them (functions, modules, and multiple turtles were not part of the original program. The newest and most exciting addition is the .tracer/.update bit, which makes the opening much less tedious). I’ve probably spent more time on it than I have on most of the graded projects.
+The chessboard says a lot about how I learn, though I forget it sometimes. I don’t do well if I don’t understand the purpose of an assignment.
 	
 ```
 print '\n', '8.2:'
