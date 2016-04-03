@@ -4,9 +4,9 @@ layout: post
 title: "Colin's Drawing Milestones"
 ---
 
-Here are my milestones
+## Here are my milestones
  
- - [ ] Create a main.py that creates a screen and calls other functions
+  - [ ] Create a main.py that creates a screen and calls other functions
 
   - [ ] Create a function that draws a circle
 

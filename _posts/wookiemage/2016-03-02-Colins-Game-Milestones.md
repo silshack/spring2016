@@ -3,7 +3,7 @@ author: wookiemage
 layout: post
 title: "Colin's Game Milestones"
 ---
-Here are the Milestones for my game sketch:
+## Here are the Milestones for my game sketch:
 
 - [ ] Make a function that spawns turtles in random locations
 
@@ -37,14 +37,14 @@ Here are the Milestones for my game sketch:
 
 - [ ] Find and use 6 different enemy sprites.
 
-Stretch Goals:
+## Stretch Goals:
 
 - [ ] Make a mode of this game that creates a turtle that has to be caught
 
 - [ ] Make a function that generates turtles on click
 
 
-Here's what I am thinking:
+## Here's what I am thinking:
 
 The player controls a turtle with a custom image for it's shape and moves it around the screen avoiding colliding with other turtles. The player gets more points the longer he survives.
 This is super ambitious for me. But I am pretty sure we know everything we need to know to accomplish this.

@@ -3,8 +3,10 @@ author: wookiemage
 layout: post
 title: "Colin's Clicky Turtle"
 ---
-  Here\'s my turtle:
+## Here\'s my turtle:
+
   <iframe src="https://trinket.io/embed/python/79598a49b9" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+  
   
   I had a hard time figuring out what I wanted to do with this one. And really, it still isn\'t great but it meets the requirements.
   I approached this one function at a time. First I made the setup function draw a sun. Then I took that sun drawing code block and turned it into it\'s own helper function.

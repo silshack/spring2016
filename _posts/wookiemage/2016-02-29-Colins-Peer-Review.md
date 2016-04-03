@@ -4,9 +4,9 @@ layout: post
 title: "Colin's Peer Review of Becca's Drawing App"
 ---
 
-#Let\'s start with the assigment requirements:
+# Let\'s start with the assigment requirements:
 
-##The assignment stated that the app should:
+## The assignment stated that the app should:
 
 Have an entirely graphical user interface (i.e. no printed text input besides what turtle.write())
  It does!
@@ -25,7 +25,7 @@ Allow the user to clear the drawing and start over
  
 I really like this apps functionality. It does three different and creative things. I don't much like the user interface because I feel like it's kind of always in the way. We have such a small area to work with, so I would prefer to get it a little more out of the way. This of course, is personal preference.
 
-##Let\'s talk about code:
+## Let\'s talk about code:
 The assignment stated that the code should:
 
 Utilize custom modules for readability and organization
@@ -54,7 +54,7 @@ It is! One thing I'm not sure of: why have your main.py be all but empty. There 
 
 Overall, her code was very clear and organized. It was commented at the function level for almost all the functions. It was very readable. The modes.py module had no comments on it, nevertheless it was fairly straightforward once you went into the other modules to see what the functions that modes.py called did.
 
-##Milestones and reflections:
+## Milestones and reflections:
 
 Becca\'s milestones were all accomplished. She seems to have created them more as a checklist of the assignment requirements instead of thinking of them as different accomplishable blocks of code to create. For example: "is creative" is a difficult milestone to hit. How do you measure when you've accomplished being creative. Conversely, "can clear drawing and start over" is a good milestone because it's a function you can implement and check off when done.
 

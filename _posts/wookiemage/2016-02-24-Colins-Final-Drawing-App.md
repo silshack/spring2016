@@ -4,7 +4,7 @@ layout: post
 title: "Colin's Drawing App
 "
 ---
-  So here it is:
+##  So here it is:
   <iframe src="https://trinket.io/embed/python/8c362a2928" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
   
   I had a heck of a time getting it to do different things when keys were pressed. Originally, my goal was to have a variable change which method in a list of methods disp.onlick would call.
@@ -20,7 +20,7 @@ title: "Colin's Drawing App
   I also created turtle buttons that changed Tina\'s color and reset the screen. The positioning of these was a little tricky, but once I got them in the right place it wasn\'t too bad. Mostly it was just figuring out how to get the words the right distance from the turtle and from the "bottom" of the screen.
   Oh, and drawing flowers is difficult. I had to find a new turtle method so that the stem on the flowers would always face down. Fortunately for me, turtle.setheading exists. If it didn\'t, then I would have had to create some sort of variable to track the turtle\'s current direction and set it back to 270.
   
-  Here are my final milestones and their status:
+##  Here are my final milestones and their status:
   
   - [x] Create a main.py that creates a screen and calls other functions
 
