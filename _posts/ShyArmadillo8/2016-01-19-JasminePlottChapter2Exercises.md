@@ -70,9 +70,7 @@ print("According to your answer, the temperature you entered in degrees Celsius 
 + str(fahrenheit) + "°" + " " + "Fahrenheit" + ".")
 ```
 
-I did compare my conversion table to Google's temperature conversion method, and I thought that it was interesting how there was a button
-available to click to allow the conversion to happen after entering in the temperature.  The two methods appear fairly similar, but 
-I'm curious whether we'll learn how to create buttons and drop down menus with Python for the rest of the semester.
+I did compare my conversion table to Google's temperature conversion method, and I thought that it was interesting how there was a button available to click to allow the conversion to happen after entering in the temperature.  The two methods appear fairly similar, but I'm curious whether we'll learn how to create buttons and drop down menus with Python for the rest of the semester.
 
 Here is my completed trinket for exercise 5:
 <iframe src="https://trinket.io/embed/python/49b36ede91" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>

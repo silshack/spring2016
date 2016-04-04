@@ -5,10 +5,12 @@ title: "Hannah's Chapter 2 Exercises"
 ---
 Most of my issues with this assignment arose from assignment and expression statements, as well as the concept of concatenation of string variables.
 In exercise 2, I was struggling to print both "Hello" and "(name)", without having them be two separate expression statements. Before I had the lightbulb moment about concatenation, the closest I got was:
+
 ```
 print('Hello')
 print(name)
 ```
+
 This returned "Hello (name)" on two separate lines. I finally remembered what the reading had said about "+" with string variables performing concatenation, rather than addition, and ended up with this!
 <iframe src="https://trinket.io/embed/python/fac5510559" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 

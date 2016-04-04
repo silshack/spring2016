@@ -17,6 +17,7 @@ During the process, I've learned much more about the screen object, particularly
 I haven't changed much of my program from Tuesday. I realized that without setting boundaries, the drawing might exceed the edge of screen, so I put some conditional executions to avoid that. But I'm not sure if it's appropriate. What's more, I changed the size of instructions at the bottom.
 
 Milestones:
+
 - [ ] Drawing instructions and background
 - [ ] Creating functions to draw preset shapes
 - [ ] Creating functions to change the value of fillcolor

@@ -18,7 +18,7 @@ There is one way like this: print "If there was a birth every 7 seconds, there w
 3. Round function [solved]  
 https://docs.python.org/2/library/functions.html#round  
 
-***After the inclass discussion:  
+*After the inclass discussion:*  
 1. I should've included message if the input is bad.  
 2. Give the player the information about the direction would be helpful. e.g. East,North,South,West. 
 3. .towards() and .distance() and .color(). Make the turtle towards the treasure and change its color reder if get closer.  

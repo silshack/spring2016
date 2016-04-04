@@ -1,7 +1,7 @@
 ---
 layout: post
 author: ericabrody
-title: “Erica's strawberry game"
+title: "Erica's strawberry game"
 ---
 
 The game:

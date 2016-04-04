@@ -7,8 +7,7 @@ title: "Jasmine Plott's Chapter 8 Exercises"
 Here is my 8.1 Exercise:
 <iframe src="https://trinket.io/embed/python/1acf97e19a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-I really liked messing around this exercise.  There is something so soothing about creating a list and then destroying it.  Here is the function
-that I used to create my list chopping:
+I really liked messing around with this exercise.  There is something so soothing about creating a list and then destroying it.  Here is the function that I used to create my list chopping:
 
 ```
 def chop(cheeses):
@@ -21,22 +20,16 @@ def chop(cheeses):
     print("None. There are no more cheeses in this list.")
 ```
 
-From my experiences in the Chapter 6 exercises, I realized that I needed to make sure that the ranges I put in my indexes for cheeses needed
-to be integers.  This is why I created length to account for the length of the cheeses list and then last, which is based on the last item in
-the list of cheeses.  Once I straightened that out, things got a lot simplier and I just kept chopping until there were no longer any cheeses
-in the list.
+From my experiences in the Chapter 6 exercises, I realized that I needed to make sure that the ranges I put in my indexes for cheeses needed to be integers.  This is why I created length to account for the length of the cheeses list and then last, which is based on the last item in the list of cheeses.  Once I straightened that out, things got a lot simpler and I just kept chopping until there were no longer any cheeses in the list.
 
 Here is my 8.2 Exercise:
 <iframe src="https://trinket.io/embed/python/b7d27fbe3b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 This exercise took me longer than it should have I think.  I couldn't figure out how to add the text to the code, since I kept trying to
-save it under the same name that we were given under the code.  However, when I changed the name of my file to mytext.txt, it suddenly worked.
-Why is this?
+save it under the same name that we were given under the code.  However, when I changed the name of my file to mytext.txt, it suddenly worked. Why is this?
 
 Now that my program was reading the text again, I played around with it and discovered that if the second(in human brains third) word in 
-the list was not a weekday, then it printed that word anyways.  I entered snail, and it entered snail instead of Sat.  To fix this, I
-made a list of weekdays and set the program so that if it was not a weekday, it would not enter anything for that line.  It looked something
-like this:
+the list was not a weekday, then it printed that word anyways.  I entered snail, and it entered snail instead of Sat.  To fix this, I made a list of weekdays and set the program so that if it was not a weekday, it would not enter anything for that line.  It looked something like this:
 
 ```
 weekdays = ["Mon", "Tues", "Wed", "Thu", "Fri", "Sat", "Sun"]

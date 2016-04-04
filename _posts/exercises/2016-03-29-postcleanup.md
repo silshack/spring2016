@@ -4,7 +4,7 @@ author: elliott
 categories:
   - exercise
 title: "Clean up your posts from the year"
-inclass: true
+inclass: false
 ---
 
 Alright!  You should have Cloud 9 and git set up.  You should be on a branch called `[yourname]-branch` mathcing your github user name. **Make sure you're not on gh-pages**.  If you are, revisit the `git checkout` step in the in-class exercise.

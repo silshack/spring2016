@@ -26,15 +26,15 @@ Overall, I am satisfied with what I have.  I'm curious if there is a way around 
 
 **Required**
 
- - [ x ] interface is entirely graphical
- - [ x ] game uses key events (to display the surprise)
- - [ x ] game uses click events (to play the trivia game [clicking on certain spots on the screen to guess answers - spots drawn by extensions of Python's turtle class])
- - [ x ] game has a reason to play (winning points and a trophy)
- - [ x ] game displays win screen
- - [ x ] game keeps track of state - keeps track of points
- - [ x ] game displays information that updates - tells you if you got the question correct and adds points as you go
+ - [x] interface is entirely graphical
+ - [x] game uses key events (to display the surprise)
+ - [x] game uses click events (to play the trivia game [clicking on certain spots on the screen to guess answers - spots drawn by extensions of Python's turtle class])
+ - [x] game has a reason to play (winning points and a trophy)
+ - [x] game displays win screen
+ - [x] game keeps track of state - keeps track of points
+ - [x] game displays information that updates - tells you if you got the question correct and adds points as you go
  
 **Stretch**
 
  - [ ] game uses key events to change turtle/player (I'm not sure if this is possible)
- - [ x ] game has point accumulation
+ - [x] game has point accumulation

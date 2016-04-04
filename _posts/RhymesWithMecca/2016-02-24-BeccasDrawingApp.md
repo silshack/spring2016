@@ -12,23 +12,23 @@ title: "Becca's Drawing App"
 
 ##### User...
 
-- [ x ] will not type - graphical interface only
-- [ x ] can select drawing mode (program changes) using clicks and/or keys
-- [ x ] can see current mode
-- [ x ] can choose and draw shapes, lines, and colors
-- [ x ] can clear drawing and start over
+ - [x] will not type - graphical interface only
+ - [x] can select drawing mode (program changes) using clicks and/or keys
+ - [x] can see current mode
+ - [x] can choose and draw shapes, lines, and colors
+ - [x] can clear drawing and start over
 
 ##### Program...
 
-- [ x ] uses custom modules
-- [ x ] uses custom functions
-- [ x ] uses definite loops
-- [ x ] uses multiple turtles
-- [ x ] uses a named Screen object
-- [ x ] is creative
-- [ x ] runs without errors
-- [ x ] is well-commented
-- [ x ] is well-organized and readable
+ - [x] uses custom modules
+ - [x] uses custom functions
+ - [x] uses definite loops
+ - [x] uses multiple turtles
+ - [x] uses a named Screen object
+ - [x] is creative
+ - [x] runs without errors
+ - [x] is well-commented
+ - [x] is well-organized and readable
 
 **Here is my reflection:**
 

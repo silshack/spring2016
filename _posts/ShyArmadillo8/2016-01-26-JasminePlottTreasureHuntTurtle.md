@@ -4,17 +4,13 @@ author: ShyArmadillo8
 title: "Jasmine Plott's Treasure Hunt Turtle"
 ---
 
-Creating this program was quite the experience.  I'm not completely sure that I understand why I had to format the code in some of the ways 
-that I did, but at least it is finally working! I'll elaborate on some of the lessons that I learned along the way.
+Creating this program was quite the experience.  I'm not completely sure that I understand why I had to format the code in some of the ways that I did, but at least it is finally working! I'll elaborate on some of the lessons that I learned along the way.
 
 First of all, I really had to get the hang of the try and except dynamic.  In the end, I discovered that I needed to put all the code that
 I wanted to work and all its various scenarios into the try bit, and then leave the except portion for other things that a user might put 
 in (like letters instead of numbers).  
 
-Figuring out what elements I was not supposed to include was one of the easier parts of creating this program for me.  Rather than limiting
-what could go into the program, figuring out how to eliminate the bad input was one of the less challenging parts.  I lumped this bit of
-code down at the bottom of my program, so that after it tested the winning scenarios, it could move on to what didn't work.  Here's
-what I have:
+Figuring out what elements I was not supposed to include was one of the easier parts of creating this program for me.  Rather than limiting what could go into the program, figuring out how to eliminate the bad input was one of the less challenging parts.  I lumped this bit of code down at the bottom of my program, so that after it tested the winning scenarios, it could move on to what didn't work.  Here's what I have:
 
 ```
     elif int(user_x) > 100 and int(user_x) < -100 and int(user_y) > 100 and int(user_y) < -100:
@@ -25,9 +21,7 @@ what I have:
       print("Please enter a proper y coordinate between -100 and 100")
 ```
 
-The biggest learning curve for me was understanding that I simply couldn't just show a range of values and expect the computer to interpret
-them as I would.  It sounds vague using words, so I'll demonstrate below.  Here is what I thought was the correct way to demonstrate a 
-range:
+The biggest learning curve for me was understanding that I simply couldn't just show a range of values and expect the computer to interpret them as I would.  It sounds vague using words, so I'll demonstrate below.  Here is what I thought was the correct way to demonstrate a range:
 
 ```
  if int(treasure_x)-15 <= int(user_x) <= int(treasure_x)+15
@@ -51,10 +45,7 @@ When this is really the best way to do it:
 ```
 int(treasure_x)-15 <= int(user_x) and int(user_x) <= int(treasure_x)+15
 ```
-In the first option, I was going for a range between 6 and 15, but in the second option, I just lumped everything together under 15.  Related
-to this discovery, I also found out that I needed to write my ranges in ascending order.  So as the user guessed further away from the 
-treasure, the lower down I put this into my code. If I had done it the opposite way, then I never would have gotten to the other steps,
-since everything would fall within 200 coordinates of the program.
+In the first option, I was going for a range between 6 and 15, but in the second option, I just lumped everything together under 15.  Related to this discovery, I also found out that I needed to write my ranges in ascending order.  So as the user guessed further away from the treasure, the lower down I put this into my code. If I had done it the opposite way, then I never would have gotten to the other steps, since everything would fall within 200 coordinates of the program.
 
 I think that I likely made the user feedback process more complicated than I needed it to be.  I wanted Tina to be a certain color within
 a certain range for the x coordinates and Tina to be a certain color within a certain range for the y coordinates.  Hopefully, the user
