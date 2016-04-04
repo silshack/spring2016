@@ -1,10 +1,10 @@
 ---
 author: izayak
-title: "Ruotong's Regex Exercise
+title: "Ruotong's Regex Exercise"
 layout: post
 ---
 
-<iframe src="https://trinket.io/embed/python/b9c50ef805" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/022da8e5a6" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
   
 **Reflection**
