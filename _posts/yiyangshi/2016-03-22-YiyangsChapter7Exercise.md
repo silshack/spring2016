@@ -16,4 +16,6 @@ Exercise 3:
 Exercise 4:
 <iframe src="https://trinket.io/embed/python3/605774097f" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+Reflection:
+
 It was great working together with Will on Exercise 4. We were able to generate ideas from each other and help each other debug. I basically learned two solutions for each of the questions of exercise 4. Through the exercise, I noticed that there are actually a lot of approaches for questions related to lists and tables.  
