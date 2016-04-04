@@ -4,7 +4,7 @@ layout: post
 title: "Ga Kay's Game App Milestones"
 ---
 
-#Game Vision:
+# Game Vision:
 For my game, I want the character-enemy type of environment. I want the user to be able to 'kill' smaller enemies if they collide. These smaller enemies would just be moving randomly. I also want larger enemies that the user can't kill. If the user gets hit by these enemies, a heart or life will be take from the user. The larger enemies also chase after the user instead of moving around randomly. That's the basic plan for my game. To extend upon this, I want there to be coins and powerups the user can collect to help them in the game. I also want extra levels to add difficulty to the game. Lastly, to make the game more fun, I want to add a Zelda theme to the game since I love LoZ games.
 
 ## Required Milestones
