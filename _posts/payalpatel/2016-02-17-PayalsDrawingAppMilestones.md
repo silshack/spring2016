@@ -4,7 +4,7 @@ author: payalpn
 title: "Payal's Drawing App Milestones"
 ---
 
-**Drawing App Idea:** Users can create their own ice-cream cone or bowl!  
+**Drawing App Idea:** Users can create their own ice-cream cone or bowl!   
 
 - [ ] Milestone 1: User can click screen to draw ice cream cone or bowl. (Two buttons to choose from, one for cone, one for bowl) 
 - [ ] Milestone 2: User can change flavor (color) of ice cream.

@@ -25,7 +25,7 @@ title: "Payal's Drawing App"
 - [x] add comments to program 
 
 
-**Reflection:**
+**Reflection:** 
 
 My plan for this program changed throughout the entire time I worked on it, as did my milestones.  Initially, I created buttons for the topping options available.  I was able to make it so the user could click on the button and then the topping would be drawn depending on the button selected, however, I wasn’t able to get it to draw the topping when the user clicked elsewhere on the screen.  I knew I needed to include multiple onclick functions by nesting them into a larger function, but I wasn’t getting my buttons to work the way I intended them to.  Initially I was able to get the clicky functions for the toppings inside of the larger clicky function for the screen, however, I noticed that I needed another function to make my program work the way I intended for it to.  Before meeting with my partner I had already created several functions for drawing different toppings and for drawing the ice-cream cone.  
 

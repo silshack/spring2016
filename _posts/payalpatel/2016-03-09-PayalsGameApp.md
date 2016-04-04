@@ -4,7 +4,7 @@ author: payalpn
 title: "Payal's Game App"
 ---
 
-**Game App:**
+**Game App:** 
 
 <iframe src="https://trinket.io/embed/python/657bfe8fc6" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 

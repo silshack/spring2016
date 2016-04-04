@@ -8,7 +8,7 @@ At first I was thinking the purpose of my game would be for the user trying to f
 
 **Milestones:**
 
-- [ ] user can use up/down/leftright arrows to move on the screen   
+- [ ] user can use up/down/leftright arrows to move on the screen  
 - [ ] create menu bar at the top 
 - [ ] create key buttons for menu bar
 - [ ] user can use up/down/left/right arrows to move on the screen
