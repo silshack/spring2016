@@ -1,6 +1,6 @@
 ---
 type: post
-authors:
+author:
 - ShyArmadillo8
 - gao14g
 title: "Ga Kay and Jasmine's Dictionary Exercises"
