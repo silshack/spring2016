@@ -4,52 +4,24 @@ author: payalpn
 title: "Payal's Drawing App" 
 ---
 
-**Ice-Cream Drawing App**
+**Ice-Cream Drawing App** 
 
 
 <iframe src="https://trinket.io/embed/python/9f3ff11dc1" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-
 **Revised Milestones:**
 
-- [x] determine layout of game
-
+- [x] determine layout of the game 
 - [x] create instructions function to display instructions of game 
-
 - [x] determine toppings
-
-- [x] create turtles for each topping
-
-- [x] create ice-cream cone functions 
-
-- [x] create function for each of the toppings
-
-	- [x] cherry
-	
-	- [x] chocolate chips
-	
-	- [x] sprinkles
-	
-	- [x] whipped cream
-	
-	- [x] caramel
-	
-	- [x] fudge
-	
-	- [x] gummies 
-	
-		- [x] use for loop 
-		
+- [x] create turtles for each topping 
+- [x] create ice cream cone functions 
+- [x] create function for each of the toppings (cherry, chocolate chips, sprinkles, whipped cream, caramel, fudge, gummies (use for loop)) 
 - [x] create restart turtle
-
-	- [x] create restart function
-	
+- [x] create restart function 
 - [x] create Option functions to change state of topping turtles 
-
 - [x] create clicky function 
-
-- [ ] troubleshoot problems --there is a small problem (not with the functionality) that I mentioned in detail in my reflection
-
+- [ ] troubleshoot problems (there is a small problem, not with the functionality, that I mention in detail in my reflection) 
 - [x] add comments to program 
 
 
