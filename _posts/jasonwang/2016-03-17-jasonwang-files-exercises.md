@@ -28,7 +28,6 @@ differs from the original example as the commas carried over when I ran it. I st
 Exercise 4:
 <iframe src="https://trinket.io/embed/python3/fcaed28a4a" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Regular python trinket in case the python3 one disappears (code needs to go into python3 to work though): <iframe src="https://trinket.io/embed/python/40ff394e74" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 It was tricky getting a grasp of the lists of lists' properties (especially the fact that breaking apart the list gives entire rows
 that are able to be indexed theselves). It's overall a lot closer to human thinking that I initially thought (I thought that the 
