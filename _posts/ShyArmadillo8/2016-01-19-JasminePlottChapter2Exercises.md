@@ -5,8 +5,8 @@ title: "Jasmine Plott's Chapter 2 Exercises"
 ---
 Overall, these exercises went smoothly, and there was only one major setback I encountered but was able to work through in the end.
 
-The first exercise was fairly straightforward and I got that pretty quickly. I discovered that unless you indicated it in your code, you
-would not have spaces between your words.  To solve this, I place a " " between the output in my print code.  My code looked like this:
+The first exercise was fairly straightforward and I got that pretty quickly. I discovered that unless you indicated it in your code, you would not have spaces between your words.  To solve this, I place a " " between the output in my print code.  My code looked like this:
+
 ```
 #Ask the user for their name
 name = input("What is your name?\n")
@@ -17,10 +17,7 @@ print("Welcome" + " " + name + "!")
 Here is my completed trinket for exercise 2:
 <iframe src="https://trinket.io/embed/python/172319618b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-The second exercise was the one that gave me the most trouble, but I was able to work through it fairly quickly.  The biggest problem that
-encountered was calculating the pay, and I couldn't understand why I kept getting an error, since my equation was correct.  I went back
-through the Chapter 2 notes and discovered that it was because I had not specified a type for the values that were used in the equation.
-To demonstrate things a little more clearly, my code looked something like this:
+The second exercise was the one that gave me the most trouble, but I was able to work through it fairly quickly.  The biggest problem that I encountered was calculating the pay, and I couldn't understand why I kept getting an error, since my equation was correct.  I went back through the Chapter 2 notes and discovered that it was because I had not specified a type for the values that were used in the equation.To demonstrate things a little more clearly, my code looked something like this:
 
 ```
 #Ask how many hours the user has worked
@@ -48,12 +45,10 @@ pay = float(hour) * float(rate)
 print("According to your responses, your gross pay is" + " " + str(pay) + ".\n")
 ```
 
-After working through this dilemma, I discovered that I need to be specific as to what I want my program to do. Here is my
-completed trinket for exercise 3:
+After working through this dilemma, I discovered that I need to be specific as to what I want my program to do. Here is my completed trinket for exercise 3:
 <iframe src="https://trinket.io/embed/python/9031eae42d" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Lastly, the third exercise was not as bad as I expected either, especially since I figured out that I needed to indicate the type for
-each of the values that I was going to use in an equation.  Below is the code that I used to come up with the conversion:
+Lastly, the third exercise was not as bad as I expected either, especially since I figured out that I needed to indicate the type for each of the values that I was going to use in an equation.  Below is the code that I used to come up with the conversion:
 
 ```
 #Time to ask for the temperature.  Letting the user know what we're doing.

@@ -4,9 +4,7 @@ author: ShyArmadillo8
 title: "Jasmine Plott's Poetry Slam Tina"
 ---
 
-This was a pretty fun exercise! I liked the idea of working towards a program that had a fun end purpose to it.  The hardest part for
-me was figuring out how to move the different input sections from one line to another.  I divided the program into 3 components.  
-Below is the first portion:
+This was a pretty fun exercise! I liked the idea of working towards a program that had a fun end purpose to it.  The hardest part for me was figuring out how to move the different input sections from one line to another.  I divided the program into 3 components.  Below is the first portion:
 
 ```
 import turtle
