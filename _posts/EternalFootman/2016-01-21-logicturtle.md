@@ -9,6 +9,7 @@ This is the first scene of "Alice In Wonderland" with turtles. Enjoy.
 
 I'm looking forward to learning loops as I'd like to have the user decide how many flowers are drawn.
 Here is the existing code:
+
 ```
 alice.goto(140,0)
 alice.pendown()
@@ -19,9 +20,11 @@ alice.circle(5)
 alice.fill(False)
 alice.penup()
 ```
+
 I'd like to have a relative direction instead of a coordinates; then it can repeat as often as I like (using conditionals to keep it within reason).
 
 I'd also like to see if strings can be used with conditionals to eliminate the number versions of yes and no. Here is my solution until I can do that.
+
 ```
 z = raw_input("Should Alice follow the rabbit? Type 1 for yes and 2 for no.")
 if int(z) == 2:
@@ -32,5 +35,6 @@ elif int(z) == 1:
 else:
   print("You had one job. Now the universe is frozen in indecision.")
 ```
+
 Finally, I'm not sure how to go back to the question if the answer doesn't work.
 Apart from these issues, I enjoyed this program very much. Perhaps I'll design the whole book.
