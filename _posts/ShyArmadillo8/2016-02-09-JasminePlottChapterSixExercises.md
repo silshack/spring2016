@@ -7,12 +7,9 @@ title: "Jasmine Plott's Chapter 6 Exercises"
 Here is my 6.1 exercise:
 <iframe src="https://trinket.io/embed/python/6bcb8c5c8b" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-This one was a bit puzzling to me, since I was able to easily get the string to list each individual letter going forward, but was struggling
-to get them to go backwards.  I discovered that the trick here was checking for the type of each variable after I called it and making sure
-that I could get the variables I needed to float to do so.  
+This one was a bit puzzling to me, since I was able to easily get the string to list each individual letter going forward, but was struggling to get them to go backwards.  I discovered that the trick here was checking for the type of each variable after I called it and making sure that I could get the variables I needed to float to do so.  
 
-Once I figured out how to get all my types just so, I was able to rework the code that I'd originally had for listing each letter individually 
-forwards and make it go backwards.  Here is a sample of what it looked like:
+Once I figured out how to get all my types just so, I was able to rework the code that I'd originally had for listing each letter individually forwards and make it go backwards.  Here is a sample of what it looked like:
 
 ```
 while index < length:
@@ -23,10 +20,7 @@ while index < length:
     break
 ```
 
-I discovered that I needed to set the index beforehand to a variable I'd named last, which was the length-1.  Once I was there, I kept
-counting down.  I had to remember that [0] references the first letter in my string, so I had to adjust the index to be less than 0 in
-order to account for this last letter to print.  After that, the loop breaks!  I was moderately puzzled as to why I could still enter
-numbers and they would print back to me, but I had to remember that unless I change them to float, they are interpreted as strings.
+I discovered that I needed to set the index beforehand to a variable I'd named last, which was the length-1.  Once I was there, I kept counting down.  I had to remember that [0] references the first letter in my string, so I had to adjust the index to be less than 0 in order to account for this last letter to print.  After that, the loop breaks!  I was moderately puzzled as to why I could still enter numbers and they would print back to me, but I had to remember that unless I change them to float, they are interpreted as strings.
 
 Here is my 6.3 exercise:
 <iframe src="https://trinket.io/embed/python/15d23c014e" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -50,10 +44,5 @@ This was also a pretty exciting exercise, as I got to learn how to do a new stri
 Here is my 6.5 exercise:
 <iframe src="https://trinket.io/embed/python/70c4946d0c" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-This was a trickier exercise that made me think about how to do this.  I really had to think about where I wanted to slice the string,
-since I discovered that if I set word.find to find the :, then I was a little further back than I'd intended to be.  I needed to change 
-things up so that I was setting word.find to the space after the colon.  Once I'd found that, I guided my code to the 5 that marked the 
-end of the string slice that I ultimately wanted to print.    After this, I created a section that allowed me to print the piece that I
-wanted to.  It took a little trial and error to make it appear exactly as I'd wanted, but once I understood that where you set word.find
-matters, things improved.
+This was a trickier exercise that made me think about how to do this.  I really had to think about where I wanted to slice the string, since I discovered that if I set word.find to find the :, then I was a little further back than I'd intended to be.  I needed to change things up so that I was setting word.find to the space after the colon.  Once I'd found that, I guided my code to the 5 that marked the end of the string slice that I ultimately wanted to print.    After this, I created a section that allowed me to print the piece that I wanted to.  It took a little trial and error to make it appear exactly as I'd wanted, but once I understood that where you set word.find matters, things improved.
 

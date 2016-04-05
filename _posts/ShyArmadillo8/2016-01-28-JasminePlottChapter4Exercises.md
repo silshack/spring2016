@@ -4,11 +4,7 @@ author: ShyArmadillo8
 title: "Jasmine Plott's Chapter 4 Exercises"
 ---
 
-This exercise really helped me get the hang of functions!  The biggest obstacle for me was (as usual) trying to figure out where to put 
-the try and except statements. and using these within the context of the function.  After I figured out that I needed to nest everything 
-that I wanted to underneath the try part and then add the except at the end, the program went a lot smoother.  I also had to work through
-indenting what I was using so that it didn't fall under the function and could allow the function to execute.  In the end, it looked a
-little something like this:
+This exercise really helped me get the hang of functions!  The biggest obstacle for me was (as usual) trying to figure out where to put the try and except statements. and using these within the context of the function.  After I figured out that I needed to nest everything that I wanted to underneath the try part and then add the except at the end, the program went a lot smoother.  I also had to work through indenting what I was using so that it didn't fall under the function and could allow the function to execute.  In the end, it looked a little something like this:
 
 ```
 try:
@@ -36,18 +32,14 @@ try:
 Here is my completed Chapter 4 Exercise 6 Trinket:
 <iframe src="https://trinket.io/embed/python/90f39e9f35" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-The second exercise that we had to do for this chapter was challenging in the fact that I had to figure out how to account for both the 
-float aspect of score and string aspect of score that I wanted to print out.  I discovered that this was easily fixed by creating a new
-variable to account for the string aspect and I could continue to use the other variable for floating.  This resulted in score and 
-score_string.  To better express this idea, here is the code I saw below:
+The second exercise that we had to do for this chapter was challenging in the fact that I had to figure out how to account for both the float aspect of score and string aspect of score that I wanted to print out.  I discovered that this was easily fixed by creating a new variable to account for the string aspect and I could continue to use the other variable for floating.  This resulted in score and score_string.  To better express this idea, here is the code I saw below:
 
 ```
 score = input("Please enter a score between 0.0 and 1.0")
 score_string = str(score)
 ```
 
-When I put the code together in the function, it allowed both of the variables to build off of each other.  It looked a little something like
-this:
+When I put the code together in the function, it allowed both of the variables to build off of each other.  It looked a little something like this:
 
 ```
   def computegrade(score):
