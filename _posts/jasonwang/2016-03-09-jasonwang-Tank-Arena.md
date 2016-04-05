@@ -8,7 +8,8 @@ title: "Jason's Game App"
 I came into this project thinking that it would be simple- perhaps only several inclusive classes and some math and I'd be done.
 I think I was a victim of scope creep.
 
-##Milestones
+## Milestones
+
 - [x] Make Tank figures or sprites.
 - [x] Be able to move the tank.
 - [ ] Set limit on movement per turn.
@@ -23,6 +24,7 @@ I think I was a victim of scope creep.
 - [ ] Create dumb "AI" for other tank (Optional)
 - [ ] Make craters for where shells land (Optional)
 - [ ] Generate multiple maps (Optional).
+
 
 Looks like I didn't get a lot of milestones this time. The major issue that resulted in this many blanks was the fact that apparently,
 functions in screen.onkey don't seem to work when trying to pass parameters through. Each time I would receive a null error. After

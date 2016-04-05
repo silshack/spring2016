@@ -13,24 +13,23 @@ While I stated in my midsemeter reflection that I needed to have better foresigh
 
 From my last milestone:
 
-- [X] No printed text in final product.
-- [X] Select drawing mode with clicks onto buttons.
-- [X] Select colors with keys. 
-- [X] Display relevant information at all times.
+- [x] No printed text in final product.
+- [x] Select drawing mode with clicks onto buttons.
+- [x] Select colors with keys. 
+- [x] Display relevant information at all times.
 - [ ] Select line thickness.
-- [X] Click button for clearing/resetting the board.
-- [X] Uses custom modules and functions.
-- [X] Use multiple turtles.
-- [X] Uses Definite loops.
-- [X] Uses screen method of some kind.
-- [X] No errors
-- [X] Be organized. 
+- [x] Click button for clearing/resetting the board.
+- [x] Uses custom modules and functions.
+- [x] Use multiple turtles.
+- [x] Uses Definite loops.
+- [x] Uses screen method of some kind.
+- [x] No errors
+- [x] Be organized. 
 - [ ] Establish a theme of some sort. (Optional)
 - [ ] Animated Transitions. (Optional)
 - [ ] Zoom in/out functionality. (Optional)
 
-As before, the goal of this project was to create a microsoft paint-esque application where you can mainly freedraw, and post shapes at certain points. However, one of the major issues that I could not reconcile was the fact that since I had two different turtles managing the pen and the position of the shapes,
-they both end up being in the same place (turning it into a reverse connect-the-dots), and don't have the functionality of a program such as Microsoft Paint. Much of the difficulty lies in how to separate the "click" and "release" functions of the mouse; however, if one were to click down, it is also the same place for the "release" function, leading to each line connecting the shapes when pressed.
+As before, the goal of this project was to create a microsoft paint-esque application where you can mainly freedraw, and post shapes at certain points. However, one of the major issues that I could not reconcile was the fact that since I had two different turtles managing the pen and the position of the shapes, they both end up being in the same place (turning it into a reverse connect-the-dots), and don't have the functionality of a program such as Microsoft Paint. Much of the difficulty lies in how to separate the "click" and "release" functions of the mouse; however, if one were to click down, it is also the same place for the "release" function, leading to each line connecting the shapes when pressed.
 
 I also initially attempted to have the shape icons be clickable for selection, but it still leads to an issue of reconciling the clicking mechanism. I also attempted to plan out a method of creating a system where clicking a button would be determine a different mode (drawing vs. shapes setting). However, I still was unable to figure out the logic regarding this part.
 As for the line thickness, I was attempting to determine a method of counting button presses so that I could use the arrow keys as a sort of "slider", but this also did not work out in time.

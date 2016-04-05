@@ -8,6 +8,7 @@ Custom input:
 <iframe src="https://trinket.io/embed/python/c9a0e93b91" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 For ease of viewing, here's the code:
+
 ```
 import turtle
 mike = turtle.Turtle()
@@ -39,6 +40,7 @@ Turtle Hacking:
 <iframe src="https://trinket.io/embed/python/eb7273e016" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 For ease of viewing, here's the code:
+
 ```
 import turtle
 
@@ -69,6 +71,7 @@ while (side_number_1 > 0):
 
 chair.fill(False)
 ```
+
 Thoughts:
 The program asks for a number of sides that you wish the polygon to have. From this value, it determines the angles of which to form an equilateral polygon with the specified number of sides.
 
