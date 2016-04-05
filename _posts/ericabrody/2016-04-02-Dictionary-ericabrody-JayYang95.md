@@ -1,12 +1,15 @@
 ---
 layout: post
 author: 
-  - ericabrody
-  - JayYang95
+    - ericabrody
+    - JayYang95
+
 title: "Dictionary Exercise"
 ---
+Here is the code: 
 
-Here is the code: <iframe src="https://trinket.io/embed/python3/bacd4a5503" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/bacd4a5503" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 
 Reflection:
