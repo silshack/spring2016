@@ -7,29 +7,28 @@ title: "Ga Kay's Game App"
 # My Trinket
 <iframe src="https://trinket.io/embed/python/c5901db926" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-# My Milestones
-### Required Milestones
-- [X] have an entirely graphical user interface
-- [X] have at least one key event
-- [X] have at least one click event
-- [X] have a ‘Win’ screen
-- [X] show user ‘state’
-- [X] have at least one custom module
-- [X] use at least on definite loop
-- [X] have at least one custom extension of Python’s Turtle class
-- [X] have a named Screen object
-- [X] have at least two Turtle objects
-- [X] run without errors
-- [X] have comments
-- [X] have ‘enemies’ that the user can ‘kill’ (keep count of number of enemies killed)
-- [X] have a larger enemy the user can’t kill that will hurt the user (keep count of lives)
-- [X] have enemies randomly move around
-- [X] have larger enemy slowly chase the user
+## Required Milestones
+- [x] have an entirely graphical user interface
+- [x] have at least one key event
+- [x] have at least one click event
+- [x] have a ‘Win’ screen
+- [x] show user ‘state’
+- [x] have at least one custom module
+- [x] use at least on definite loop
+- [x] have at least one custom extension of Python’s Turtle class
+- [x] have a named Screen object
+- [x] have at least two Turtle objects
+- [x] run without errors
+- [x] have comments
+- [x] have ‘enemies’ that the user can ‘kill’ (keep count of number of enemies killed)
+- [x] have a larger enemy the user can’t kill that will hurt the user (keep count of lives)
+- [x] have enemies randomly move around
+- [x] have larger enemy slowly chase the user
 
-### Optional Milestones
+## Optional Milestones
 - [ ] have at least two to three levels the user can play
-- [X] allow the user to choose what their character will look like
-- [X] let the user restart the game without using the Run button
+- [x] allow the user to choose what their character will look like
+- [x] let the user restart the game without using the Run button
 - [ ] have randomly spawning coins the user can collect
 - [ ] have randomly spawning powerups that will help the user (maybe increase speed) 
 - [ ] make the game Zelda themed
