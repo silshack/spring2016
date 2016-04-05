@@ -17,27 +17,23 @@ tinker.  I'm going to create an entirely new Trinket as my final so I can keep w
 
 Setup: This was pretty straightforward.  I need to work on carelessness though.  Sorry, Moony!
 
-Changing Modes: I had trouble with the screen.onkey function to change the modes.  I had a function that took three arguments set up to
-change the mode (h, f, or p, based on if the user wants Hagrid, Fleur, or Madam Pince Mode).  "if screen.onkey("h")", Hagrid Mode would 
-be called. That didn't work.  I looked closer at the sample from the videos and used the make_gray function as a model.  I was close - 
-screen.onkey needs two arguments, not one.
+Changing Modes: I had trouble with the screen.onkey function to change the modes.  I had a function that took three arguments set up to change the mode (h, f, or p, based on if the user wants Hagrid, Fleur, or Madam Pince Mode).  "if screen.onkey("h")", Hagrid Mode would be called. That didn't work.  I looked closer at the sample from the videos and used the make_gray function as a model.  I was close - screen.onkey needs two arguments, not one.
 
 Functions: In general, it's useful to have hagrid.showturtle() to troubleshoot when you're coding the functions.  Also, 
 commenting out tracer and update is helpful for the same reasons.  At fist, I was drawing my pine tree leaves as two right triangles 
 because I forgot that I didn't need to start in the middle of a side to draw an equilateral triangle.  Then I started at an angle, 
 made an equilateral triangle, and life was simpler.
 
-I wanted to have Hagrid draw a maple tree for odd-numbered x-coordinates and a pine tree for even-numbered x-coordinates.  I remembered
-Hannah doing something similar in the first clicky turtles exercise.  I had this:
+I wanted to have Hagrid draw a maple tree for odd-numbered x-coordinates and a pine tree for even-numbered x-coordinates.  I remembered Hannah doing something similar in the first clicky turtles exercise.  I had this:
 
----
+```
 
-  if int(x) % 2 ==0 and int(y) % 2 == 0:
-     screen.onclick(pine)
-  elif int(x) % 2 == 1 and int(y) % 2 == 0:
-     screen.onclick(maple)
+      if int(x) % 2 ==0 and int(y) % 2 == 0:
+         screen.onclick(pine)
+      elif int(x) % 2 == 1 and int(y) % 2 == 0:
+         screen.onclick(maple)
 
----
+```
 
 That didn't work.  I then looked back at my own clicky exercise and saw that I'd used one clicky function for all possible clicky things.
 In this, I added if statements for the different coordinates, as well as a clear function (more on that later).  And then my one clicky 
@@ -50,11 +46,7 @@ modes are switched.  I wanted to clear the drawing but be able to remind the use
 at the top and the clear button are the responsibility of the helper turtle, and the instructions and drawings are the responsibility
 of the non-helper turtle, for all three modes.  I think my helper turtle code could be cleaner (Thing #2 to change).
 
-I'm Learning!: Fleur's mode was a lot easier than Hagrid's - I copied and pasted Hagrid and Fang's code and changed names and colors 
-appropriately.  I would like to have the user navigate through the maze after drawing it (Thing #3 to change).  And maybe another
-piece shape?  Madam Pince's mode is a bit simpler, but it was my first time using random.choice in a program (I got this from Jasmine's
-clicky turtles).  The thing I'd like to fiddle with here is getting the orientation of the books to be consistent (Thing #4 to change).  
-I had this problem with the maze pieces in Fleur's function, but it was less of a problem here since the maze can be in any orientation.
+I'm Learning!: Fleur's mode was a lot easier than Hagrid's - I copied and pasted Hagrid and Fang's code and changed names and colors appropriately.  I would like to have the user navigate through the maze after drawing it (Thing #3 to change).  And maybe another piece shape?  Madam Pince's mode is a bit simpler, but it was my first time using random.choice in a program (I got this from Jasmine's clicky turtles).  The thing I'd like to fiddle with here is getting the orientation of the books to be consistent (Thing #4 to change).  I had this problem with the maze pieces in Fleur's function, but it was less of a problem here since the maze can be in any orientation.
 
 In all, I could submit what I have, but I'm a perfectionist, so I'm going to keep working on it.  I adapted a new tool over the weekend,
 which involves setting a timer and making myself take a break after a certain amount of time (after adding comments to keep track of 

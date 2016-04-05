@@ -54,9 +54,4 @@ making her doing a 180 at the end of each book function.  To fix this, I comment
 added a show.turtle so I could see where she was moving.  I used this technique a fair amount to debug throughout this project.
 
 Also: The one thing that I am annoyed about is the clear functions.  The main turtle draws and clears the drawing when the user clicks
-the clear button.  The helper turtle text (H = Hagrid Mode, F = Fleur Mode, and P = Madam Pince Mode) is supposed to go away once the 
-user switches mode, based on the code in the change_mode() function, but this isn't happening.  I added text to the instructions at the 
-bottom of the screen in each mode telling the user to clear the screen before switching modes.  I need the helper turtle text to stay
-after the drawing is cleared so the user knows which keys to press.  I can't revert to a universal set-up function because I indicate
-with colored text which mode the user is currently in.  One way to rectify this is to completely redo the interface, but that would 
-be a bit of a headache.  The program **works**, so I think I can stop.  
+the clear button.  The helper turtle text (H = Hagrid Mode, F = Fleur Mode, and P = Madam Pince Mode) is supposed to go away once the user switches mode, based on the code in the change_mode() function, but this isn't happening.  I added text to the instructions at the bottom of the screen in each mode telling the user to clear the screen before switching modes.  I need the helper turtle text to stay after the drawing is cleared so the user knows which keys to press.  I can't revert to a universal set-up function because I indicate with colored text which mode the user is currently in.  One way to rectify this is to completely redo the interface, but that would be a bit of a headache.  The program **works**, so I think I can stop.  
