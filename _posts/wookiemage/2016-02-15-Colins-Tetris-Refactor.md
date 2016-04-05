@@ -3,10 +3,10 @@ author: wookiemage
 layout: post
 title: "Colin's Tetris Refactor"
 ---
-Here's my refactor:
+## Here's my refactor:
 <iframe src="https://trinket.io/embed/python/e956c64129" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Here's my thinking:
+## Here's my thinking:
 Right off I saw that we should move the turtles away from the main.py page. Or rather, I thought that we could move them in order to make that page a little more readable.
 So I set about pulling each turtle into it's own module. This is easier to read and modify because each one is separate and easily changed without effecting the others. While doing this I noticed that one turtle in particular behaved differently from the others. Most of the turtles drew static elements once at the beginning of the program, but one of them continually draws the screen.
 Seeing this logical distinction, I created a new module that sets up the screen and draws the static elements and another that draws the dynamic elements.

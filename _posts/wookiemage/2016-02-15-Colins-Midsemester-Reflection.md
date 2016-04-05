@@ -3,7 +3,8 @@ author: wookiemage
 layout: post
 title: "Mid-Semester Reflection"
 ---
-#Reflection
+# Reflection
+
 I came to this class with some expectations and some previous coursework in programming. I assumed that this course would be similar to my C++ course in college. I also assumed that my previous experience would always be helpful. I wasn\'t right.
 
 This course, with its flipped nature, is not at all like my C++ course ten years ago. That course was very traditional in nature and used a textbook originally published in the late eighties. There is something to be said for doing things the hard way, and I do remember a lot of the concepts from that class, but there is a definite advantage to the setup of this class.
