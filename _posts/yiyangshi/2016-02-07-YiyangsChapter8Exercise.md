@@ -14,5 +14,7 @@ Exercise 3:
 <iframe src="https://trinket.io/embed/python/aac87246e5" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Reflection:
+
 1. When use split, all the spaces between two words will be ignored, not just one.
+
 2. In a python text file, hitting the return key indicates the end of a line.
