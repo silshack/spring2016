@@ -4,24 +4,25 @@ author: payalpn
 title: "Payal's Game App"
 ---
 
-**Game App:**
+**Game App:** 
 
 <iframe src="https://trinket.io/embed/python/657bfe8fc6" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+**Revised Game Milestones:** 
 
-**Revised Game Milestones:**
--	[x] user can use up/down/left/right arrows to move on the screen
--	[x] create menu bar at the top
--	[x] create key buttons for menu bar
--	[x] allow users to click screen to change background
--	[x] import images for backgrounds 
--	[x] have hidden treasure at random location
--	[x] display show/display user’s position in the corner (OR counter for # of objects collected)
--	[x] create individual location tools for each user at the bottom of the screen—in order to allow each user to determine how close (or far) they are to the treasure  
--	[x] create two turtles to find hidden treasure 
--	[x] create animated win screen 
--	[x] create instructions screen 
--	[x] create countdown timer 
+- [x] user can use up/down/leftright arrows to move on the screen  
+- [x] create menu bar at the top 
+- [x] create key buttons for menu bar
+- [x] allow users to click screen to change background 
+- [x] import images for backgrounds
+- [x] have hidden treasure at random location 
+- [x] show/display user's position in the corner (OR counter for # of objects collected)
+- [x] create individual location tools for each user at the bottom of the screen—in order to allow each user to determine how close (or far) they are to the treasure 
+- [x] create two turtles to find hidden treasure 
+- [x] create animated win screen 
+- [x] create instructions screen
+- [x] create countdown timer 
+
 
 **Reflection:**
 

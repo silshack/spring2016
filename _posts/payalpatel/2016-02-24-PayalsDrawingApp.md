@@ -4,56 +4,28 @@ author: payalpn
 title: "Payal's Drawing App" 
 ---
 
-**Ice-Cream Drawing App**
+**Ice-Cream Drawing App** 
 
 
 <iframe src="https://trinket.io/embed/python/9f3ff11dc1" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-
 **Revised Milestones:**
 
-- [x] determine layout of game
-
+- [x] determine layout of the game 
 - [x] create instructions function to display instructions of game 
-
 - [x] determine toppings
-
-- [x] create turtles for each topping
-
-- [x] create ice-cream cone functions 
-
-- [x] create function for each of the toppings
-
-	- [x] cherry
-	
-	- [x] chocolate chips
-	
-	- [x] sprinkles
-	
-	- [x] whipped cream
-	
-	- [x] caramel
-	
-	- [x] fudge
-	
-	- [x] gummies 
-	
-		- [x] use for loop 
-		
+- [x] create turtles for each topping 
+- [x] create ice cream cone functions 
+- [x] create function for each of the toppings (cherry, chocolate chips, sprinkles, whipped cream, caramel, fudge, gummies (use for loop)) 
 - [x] create restart turtle
-
-	- [x] create restart function
-	
+- [x] create restart function 
 - [x] create Option functions to change state of topping turtles 
-
 - [x] create clicky function 
-
-- [ ] troubleshoot problems --there is a small problem (not with the functionality) that I mentioned in detail in my reflection
-
+- [ ] troubleshoot problems (there is a small problem, not with the functionality, that I mention in detail in my reflection) 
 - [x] add comments to program 
 
 
-**Reflection:**
+**Reflection:** 
 
 My plan for this program changed throughout the entire time I worked on it, as did my milestones.  Initially, I created buttons for the topping options available.  I was able to make it so the user could click on the button and then the topping would be drawn depending on the button selected, however, I wasn’t able to get it to draw the topping when the user clicked elsewhere on the screen.  I knew I needed to include multiple onclick functions by nesting them into a larger function, but I wasn’t getting my buttons to work the way I intended them to.  Initially I was able to get the clicky functions for the toppings inside of the larger clicky function for the screen, however, I noticed that I needed another function to make my program work the way I intended for it to.  Before meeting with my partner I had already created several functions for drawing different toppings and for drawing the ice-cream cone.  
 
