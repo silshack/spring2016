@@ -1,7 +1,7 @@
 ---
 author: clairewlj
 layout: post
-title: "Lingjie's Drawing App Milestone"
+title: "Lingjie's Drawing App Milestones"
 ---
 
 The drawing app I want to create is one to draw a landscape painting, that user can click to choose the shape of moon, cloud, mountain, lake and trees to put into the painting.
