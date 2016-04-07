@@ -6,11 +6,11 @@ title: "Payal's MOAR Dictionary Exercises"
 
 **Exercise 1:**
 
-<iframe src="https://trinket.io/embed/python3/e8d7f60b08" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/35438b7454" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 **Exercises 2-5:**
 
-<iframe src="https://trinket.io/embed/python3/a2178ed680" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python3/7d511efedb" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 
 **Reflection:**
