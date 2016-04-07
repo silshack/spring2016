@@ -18,19 +18,19 @@ There is one strange feature that I haven’t figured out. I thought I had progr
 
 Very quickly through designing this, I can see why programmers utilize milestones, pair programming, and how quickly, at least for me, excitement for certain features becomes disappointment when you realize you can’t actually incorporate that feature.
 
-[x] run without errors
-[x] separate into different modules for readability
-[x] include comment for every major function
-[x] ensure function and variable names make sense
-[x] create screen object
-[x] allow users to make shapes based on keys
-[x] entirely graphical user interface
-[x] allow user to select drawing mode that changes the program’s response to clicks and keys
-[x] display current mode and other relevant information
-[x] allow user to clear drawing and start over
-[ ] option to choose length of side(s) (small, medium, large)
-[x] utilize multiple turtle objects
-[x] utilize a named screen object
-[x] utilize define loops
-[ ] allow user to pick background color
+- [x] run without errors
+- [x] separate into different modules for readability
+- [x] include comment for every major function
+- [x] ensure function and variable names make sense
+- [x] create screen object
+- [x] allow users to make shapes based on keys
+- [x] entirely graphical user interface
+- [x] allow user to select drawing mode that changes the program’s response to clicks and keys
+- [x] display current mode and other relevant information
+- [x] allow user to clear drawing and start over
+- [ ] option to choose length of side(s) (small, medium, large)
+- [x] utilize multiple turtle objects
+- [x] utilize a named screen object
+- [x] utilize define loops
+- [ ] allow user to pick background color
 
