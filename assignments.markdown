@@ -43,7 +43,7 @@ be completed by the date and time listed.  Class notes are for your reference of
 {% for note in (site.categories.notes | sort: 'date') %}
     {% assign class_dates = class_dates | push: note.date %}
 {% endfor %}
-{% for date in class_dates reversed %}
+{% for date in class_dates %}
     {% for reading in readings %}
       {% if reading.date  == date %}
           {% assign assignments = assignments | push: reading %}
