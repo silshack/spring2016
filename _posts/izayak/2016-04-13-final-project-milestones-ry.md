@@ -9,6 +9,7 @@ layout: post
 * What dataset should I choose? I have to find one dataset that is rich of information (so that I can flexibly moderate my plan to make it include more or less tasks) but also in a clean format, good for me to use what I learned in this course (dictionaries, lists, functions, loops, regex etc.) and not too big. Also, one of the requirements is to include more than one file. This should also influence my decision.  
 * What should I include in this project? I plan to do basic descriptive statistics analysis (with histogram visualization), regex and find interesting facts from data (i.e. Who win the largest number of counties support among Democratic/Republican candidates? Which airline's proportion of negative tweets is the highest? etc.)
 * Use Trinket Python 3 or Cloud 9? Since the data files are not large, I would probably use Trinket 3. But I haven't decided. I will decide after tomorrow class' Cloud 9 tutorial. *I tried to paste the csv file into Trinket but it does not work. Is that because the file is too large? The csv file has more than 10000 lines.*
+<iframe src="https://trinket.io/embed/python3/253614bf5b" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Due to these considerations, I choose the follwing two data files: 1) Twitter US Airlines Sentiment 2) 2015 First GOP Debate Twitter
 Sentiment. Both of them are from kaggle.com. I read all the descriptions and interesting scripts of all the kaggle datasets. They are all
