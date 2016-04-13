@@ -1,3 +1,9 @@
+---
+author: wookiemage
+layout: post
+title: "Colin's Final App Milestones"
+---
+
 ## The Vision:
 
 Using [this data](http://bit.ly/1qQB5AY) which I created on [Mockaroo](https://www.mockaroo.com/) I will create series of data visualizations based on some simple metrics. I will present a chart showing which are the top five most popular first and last names. I will present information about how much total is owed and who owes the most. I will present information about which websites were the best referers and which were the least. I will also analyze our customer base to show the percentage between male and female. I will show the top five domains for emails.
