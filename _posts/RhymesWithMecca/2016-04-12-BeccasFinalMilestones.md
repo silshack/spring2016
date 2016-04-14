@@ -15,6 +15,7 @@ For gDNA, the tool should be able to find the percent AT/GC content (useful to k
 <iframe src="https://trinket.io/embed/python3/84d05dedeb" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 **Milestones**
+
   - [ ] cDNA (various functions accessible by user input): program can transcribe the sequence into mRNA, translate it into a protein, count the number of each amino acid, print the length of the sequence, print the reverse complement, and print the complementary DNA strand
   - [ ] gDNA (various functions accessible by user input): program can find the sequence's percent AT/GC content, print the length of the sequence, print the reverse complement, and print the complementary DNA strand
   - [ ] program has help function, accessible by user input
