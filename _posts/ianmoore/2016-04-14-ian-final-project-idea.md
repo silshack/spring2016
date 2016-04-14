@@ -8,10 +8,19 @@ I intend to make a refined version of my text adventure. My text adventure was w
 
 My hope is that this new version will, in addition to implementing a new story, create a readable set of code. With any luck, each function will follow on logically from the function before it. 
 
-#####These are my milestones:
+**These are my milestones:**
 
-- [ ] Write brief story outline
+By class on Tuesday, April 19
+
+- [ ] Write story for program
 - [ ] Diagram story flow on paper
+
+By class on Thursday, April 21
+
+- [ ] Pseudocode entire program
+
+By class on Tuesday, April 26
+
 - [ ] Build initial version of program with flow from "level one" to "level two"
 - [ ] Build beta version of program with all levels implemented
 - [ ] Implement win screen
