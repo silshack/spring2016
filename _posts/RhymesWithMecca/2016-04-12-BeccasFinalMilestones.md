@@ -19,5 +19,17 @@ For gDNA, the tool should be able to find the percent AT/GC content (useful to k
   - [ ] cDNA (various functions accessible by user input): program can transcribe the sequence into mRNA, translate it into a protein, count the number of each amino acid, print the length of the sequence, print the reverse complement, and print the complementary DNA strand
   - [ ] gDNA (various functions accessible by user input): program can find the sequence's percent AT/GC content, print the length of the sequence, print the reverse complement, and print the complementary DNA strand
   - [ ] program has help function, accessible by user input
+  - [ ] program has visual component
   - [ ] program is iterable ("What would you like to do?" after each step) and user can exit if they so desire (test multiple cases!)
-  - [ ] program can be generalized if user changes sequence in one module
+  - [ ] program has been debugged
+ 
+___
+ 
+**For Tuesday - cDNA Capabilities**  
+
+  - [ ] transcribe sequence into mRNA
+  - [ ] make translate output pretty
+  - [ ] count the number of each amino acid
+  - [ ] print the length of the sequence
+  - [ ] print the reverse complement
+  - [ ] print the complementary DNA strand
