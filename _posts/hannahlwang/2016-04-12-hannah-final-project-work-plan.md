@@ -17,3 +17,27 @@ Here are my milestones:
 - [ ] Write code to read and analyze data, produce outputs
 - [ ] Write code to create visualizations
 - [ ] Push code to Github repo
+
+<h3>Revised Work Plan</h3>
+
+For today:
+
+- [x] Set up Cloud9 workspace
+- [x] Import CSV files
+- [x] Write starter code to read files
+
+For Tuesday:
+
+- [ ] Set up separate Github repo
+- [ ] Clean up data or figure out another way to deal with commas in file names
+- [ ] Write code to print out summary of file
+- [ ] Deal with bad user input (wrong type of file, etc)
+- [ ] Determine what options will be available on main menu (and secondary menu(s), if needed)
+- [ ] First option should be print out column headers and allow user to choose one
+
+For later:
+
+- [ ] Code the other options (once I figure them out)
+- [ ] Write code to create visualizations
+- [ ] Create Github repo
+- [ ] Push code to Github repo
