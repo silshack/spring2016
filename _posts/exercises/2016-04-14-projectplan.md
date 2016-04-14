@@ -3,7 +3,7 @@ layout: post
 author: elliott
 categories:
   - exercise
-title: Project idea & work plan
+title: "Project idea & work plan"
 published: true
 ---
 
