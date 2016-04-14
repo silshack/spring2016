@@ -9,6 +9,7 @@ I intend to make a refined version of my text adventure. My text adventure was w
 My hope is that this new version will, in addition to implementing a new story, create a readable set of code. With any luck, each function will follow on logically from the function before it. 
 
 #####These are my milestones:
+
 - [ ] Write brief story outline
 - [ ] Diagram story flow on paper
 - [ ] Build initial version of program with flow from "level one" to "level two"
