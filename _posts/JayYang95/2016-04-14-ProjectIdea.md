@@ -8,11 +8,16 @@ For my final project, I decided I would be remaking my original Turtle game. The
 
 Milestones:
 
- - [] Clean, readable code
- - [] Use of a text file with difficulty settings and other settings
- - [] Sleeker UI
- - [] Use of imported images
- - [] Restart function
- - [] Help dialogue
- - [] Possibly a pause/resume function
- - [] Player starts with number of lives
+ - [ ] Clean, readable code
+ - [ ] Use of a text file with difficulty settings and other settings
+ - [ ] Sleeker UI
+ - [ ] Restart function
+ - [ ] Help dialogue
+ - [ ] Player starts with number of lives
+ - [ ] Keep track of game state in dictionary (lives, level, difficulty)
+ - [ ] Add more enemy turtles with increasing difficulty
+
+Later Possible Milestones:
+
+ - [ ] Use of imported images
+ - [ ] Pause/resume function
