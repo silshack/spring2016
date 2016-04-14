@@ -17,17 +17,17 @@ Here are some of the milestones that I'll need to make sure I am able to properl
 - [ ] Have users type "Finished" (or other appropriate command) to allow them to exit from the program
 - [ ] Figure out how to have the user upload their data that they might want analyzed by my program *be sure to clarify with Elliott that he doesn't mean to just have the user copy and paste their own data into a file in my program*
 - [ ] Produce a graph that visualizes the input the user entered. Baby milestones are below to grow to this:
-      - [ ] Create a dictionary to hold each name and the value associated with that name
-      - [ ] Create a for loop that goes through the data
-      - [ ] For each matching entry in the for loop, add this to the dictionary with the value
-      - [ ] Have the output print the name(s) with either * or some sort of visual symbol equal to the number of counts for each entry
-      - [ ] Determine if I want to place limits on the number of data outputs printed or can figure out a way to be more creative
+- [ ] Create a dictionary to hold each name and the value associated with that name
+- [ ] Create a for loop that goes through the data
+- [ ] For each matching entry in the for loop, add this to the dictionary with the value
+- [ ] Have the output print the name(s) with either * or some sort of visual symbol equal to the number of counts for each entry
+- [ ] Determine if I want to place limits on the number of data outputs printed or can figure out a way to be more creative
 - [ ] After the initial data is printed for the user, allow them to have the opportunity to enter more input
 - [ ] Produce some statistics from the data that the user has asked for. Baby milestones are below to grow to this:
-      - [ ] Print the mean.  To do this, I'll need to get the sum and total count of values to figure this out
-      - [ ] Print the median.  To do this, I'll need to use the total count of values and put it in the median formula
-      - [ ] Print the maximum. To do this, I could use the maximum function 
-      - [ ] Print the minimum.  To do this, I could use the minimum function
-      - [ ] See if I can create functions for these actions
+- [ ] Print the mean.  To do this, I'll need to get the sum and total count of values to figure this out
+- [ ] Print the median.  To do this, I'll need to use the total count of values and put it in the median formula
+- [ ] Print the maximum. To do this, I could use the maximum function 
+- [ ] Print the minimum.  To do this, I could use the minimum function
+- [ ] See if I can create functions for these actions
       
       
