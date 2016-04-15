@@ -30,4 +30,20 @@ Here are some of the milestones that I'll need to make sure I am able to properl
 - [ ] Print the minimum.  To do this, I could use the minimum function
 - [ ] See if I can create functions for these actions
       
+___
+
+Goals for Tuesday:
+
+- [ ] Make the data file that I have smaller (so it won't slow the program down)
+- [ ] Have the program ask for user input (so they select from either National or State data)
+- [ ] Have users type "Help" to be directed to a page that gives them more detail about the program
+- [ ] Figure out how to have the user upload their data that they might want analyzed by my program
+- [ ] Print the output for the user input. Consider working on the graph, if there's time
+
+Extra Goals that I Need to Consider After Discussing with Group:
+
+- [ ] Ensure that my data set is smaller it's more manageable for the file
+- [ ] Consider creative ways to represent the graph (ex: * = 1000, & = 100), play around with this
+
+
       
