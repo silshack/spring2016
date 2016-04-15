@@ -9,31 +9,39 @@ For my final project I am going to do the data analysis project.  The data I am 
 **Milestones:**
 
 
+For Next Tues: 
+
+- [ ] determine what fields to include in data file 
+
 - [ ] create multiple data files using mockaroo –data files will be membership information for an organization
 
-- [ ] help text
+- [ ] upload data files as csv files into python3 trinket 
 
-- [ ] way to exit the program
+- [ ] determine how many options I will have (and what each option will do) --goal is to have at least 2 created by Tues. 
+
+- [ ] create function that counts number of people who work at each company (one option)
+
+- [ ] create & use a dictionary (use a dictionary to go through file and count how many people work for each company) 
+
+- [ ] include definite for loop (one place could be when creating a dictionary that counts number of people that work for each company)
+
+- [ ] create functions that count number of people in each state, gender, etc. (another option idea) 
+
+
+To be Scheduled: 
+
+- [ ] help text --accessible throughout program 
+
+- [ ] way to exit the program 
 
 - [ ] create an iterative interface
 
-- [ ] text based interface
-
-- [ ] create function that counts number of people who work at each company
-
-- [ ] create functions that count number of people in each state, gender, etc.
+- [ ] text based interface 
 
 - [ ] use functions mentioned previously to create a visual data text printout (horizontal historgram)
 
 - [ ] allow users to determine what information they will look at in the visual data text printout (state, company, etc.) 
 
-- [ ] include definite for loop
-
-- [ ] include custom modules—data files in csv format
-
-- [ ] create & use a dictionary 
-
 - [ ] comment code 
 
 - [ ] runs without errors 
-
