@@ -1,0 +1,11 @@
+---
+layout: post
+author: wagerpascal
+title: "Jason's Second Programming Meetup"
+---
+
+Today, I went to the Triangle Open Source Open Mic’s 3rd Lightning Talk that was held at the TransLoc office. Basically, any attendee is allowed to have a 5-10 minute lightning talk on any topic that pertains to an open source project. It’s a fairly open community, where anyone who feels like talking simply signs up on a sheet, and isn’t required to have any materials during talking.
+
+Overall, the talks were pretty interesting. The first talk was about the Leaflet applet, which is a data visualization tool that puts data onto maps. It was really interesting to see how data from other websites (the speaker took CSV files from the NYC Taxi regulations department and modeled the general distribution of taxi pickups in Manhattan) could be integrated with the maps through a pretty slick looking GUI with animations. The second talk was regarding connecting Amazon Echo’s Alexa to Sonos speakers for (Bluetooth?) remote control (even coming down to being able to specify which room and which playlists to pay). While he did his work by himself, he posted his framework onto Github for anyone to access. There were also some talks about the whole process of seeking community advice to use an open-source program at work, as well as a talk regarding a framework for blogs (which incidentally had a lot to do with Travis CI and markdown).
+
+However, my favorite talks were about a minecraft visualization of a server’s resources (unfortunately I didn’t understand everything that was going on, but the fact that the user can toggle the server’s operations through a local minecraft server was both pretty pointless and funny. The second (and more serious one) was regarding a dev’s exploration of using open-source software to guide CNC milling (a way for mechanical engineers to accurately cut and alter things). Basically, there’s a number of issues, primarily centered around the fact that you have to account for bit during cutting; you simply cannot cut to the exact specifications, as the bit takes up space itself. It was a very interesting talk, and I was definitely not expecting mechanical engineering ideas to be floating around in an open source talk. I guess it comes to show the wide range of people that are interested in open source projects.
