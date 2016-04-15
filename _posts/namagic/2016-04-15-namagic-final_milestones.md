@@ -14,26 +14,26 @@ title: "Omar's Revised Project Plan"
 - [x] Allow user to select county
 
 <h3>For Tuesday</h3>
-- [] Handle bad input for selected county
-- [] Create working function to calculate household size: Exemptions/Returns
-- [] Create working function to calculate AGI per Return: (AGI * 1000)/Returns
-- [] Find a method to print inflow categories (US & Foreign; US; Same State; Different State; Foreign; Non-Migrants)
-- [] Find a method to print outflow categories (US & Foreign; US; Same State; Different State; Foreign; Non-Migrants)
-- [] Calculate net migration information by subtracting inflow and outflow returns and exemption numbers
-- [] Create working function to calculate AGI for net migration
-- [] Print out numbers neatly for inflow, outflow, and net for selected county
+- [ ] Handle bad input for selected county
+- [ ] Create working function to calculate household size: Exemptions/Returns
+- [ ] Create working function to calculate AGI per Return: (AGI * 1000)/Returns
+- [ ] Find a method to print inflow categories (US & Foreign; US; Same State; Different State; Foreign; Non-Migrants)
+- [ ] Find a method to print outflow categories (US & Foreign; US; Same State; Different State; Foreign; Non-Migrants)
+- [ ] Calculate net migration information by subtracting inflow and outflow returns and exemption numbers
+- [ ] Create working function to calculate AGI for net migration
+- [ ] Print out numbers neatly for inflow, outflow, and net for selected county
 
 <h3>For Thursday</h3>
-- [] Devise method to find top three couunties flowing into selected county that have a matching outflow counties
-- [] Print out inflow, outflow, and net migration numbers for top three inflow counties with matching outflow counties
+- [ ] Devise method to find top three couunties flowing into selected county that have a matching outflow counties
+- [ ] Print out inflow, outflow, and net migration numbers for top three inflow counties with matching outflow counties
 
 <h3>For Tuesday (4/25)</h3>
-- [] Visualization for county net migration
-- [] Visualization for top county inflow
+- [ ] Visualization for county net migration
+- [ ] Visualization for top county inflow
 
 <h3>Until 4/29</h3>
-- [] Add Census API to bring in basic info about county (population, households, median income)
-- [] Make sure code is clean, commented
+- [ ] Add Census API to bring in basic info about county (population, households, median income)
+- [ ] Make sure code is clean, commented
 
 
 <iframe src="https://trinket.io/embed/python3/cd7a9bf6bf" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
