@@ -35,4 +35,4 @@ Strech Goals:
 
 - [ ] Create class to simplify program
 - [ ] Create functions to create different types of visualizations (bar/line charts, scatter plots, etc)
-- [ ] Possible Create functions to allow users change some of the filters chosen
+- [ ] Possible Create functions to allow users to change some of the filters chosen
