@@ -12,11 +12,27 @@ Currently I plan to firstly create clearly structured table of medals using dict
 
 Milestones:
 
+For Next Tuesday:
+
+- [ ] Import two csv files into Cloud9 and PyCharm
+- [ ] Read files correctly
 - [ ] Create combinations of lists and dictionaries for extracting data from the dataset and storing it in a well-structured format
+- [ ] Clean Data and make sure the elements of lines_table is orgnized
+- [ ] Write function to ask user for filename and open/read it
+- [ ] Write code to handle user's bad input
+- [ ] Set up basic display of data file opened 
+
+To be scheduled:
+
 - [ ] Display explanatory features(data type, format, value) of the dataset selected by the user, such as the range of years included, the total numbers of countries, sports, disciplines and events involved, etc.
 - [ ] Display original instructions for users, including types of data/visualizations can be selected to view
-- [ ] Create functions to create different types of visualizations (bar/line charts, scatter plots, etc)
+- [ ] Write help instructions
 - [ ] Write code to allow users select one or more specific filters
 - [ ] Use loops to allow users re-start selecting filters
-- [ ] (Possible) Create functions to allow users change some of the filters chosen
-- [ ] (Possible) Use screen.onkey to allow users exit the program
+- [ ] Use screen.onkey to allow users exit the program
+
+Strech Goals:
+
+- [ ] Create class to simplify program
+- [ ] Create functions to create different types of visualizations (bar/line charts, scatter plots, etc)
+- [ ] Possible Create functions to allow users change some of the filters chosen
