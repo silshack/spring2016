@@ -1,4 +1,4 @@
-`n---
+---
 author: wookiemage
 layout: post
 title: "Colin's First Cultural Immersion Event"
