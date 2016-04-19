@@ -10,12 +10,12 @@ title: "Becca's First Project Update"
 
 **For Tuesday - cDNA Capabilities**  
 
-  - [ x ] transcribe sequence into mRNA
-  - [ x ] make translate output pretty
-  - [ x ] count the number of each amino acid
-  - [ x ] print the length of the sequence
-  - [ x ] print the reverse complement
-  - [ x ] print the complementary DNA strand
+- [x] transcribe sequence into mRNA
+- [x] make translate output pretty
+- [x] count the number of each amino acid
+- [x] print the length of the sequence
+- [x] print the reverse complement
+- [x] print the complementary DNA strand
 
 **Reflection:**
 
