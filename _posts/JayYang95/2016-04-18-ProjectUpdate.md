@@ -27,13 +27,18 @@ Stretch goals:
  
 Goals for Tuesday:
 
- - [x] Pause/resume function
+ - [ ] Pause/resume function
  - [x] Sleeker UI
  - [x] Help dialogue
  
 Goals for Thursday:
 
+ - [ ] Get pause/resume to function 100% properly
  - [ ] Have a text file containing settings
  - [ ] Create a dictionary of game states (current level/difficulty, # of lives, # of enemies)
  - [ ] Cleanly manage states of turtles so that restart function can reset these states
  - [ ] Add more enemy turtles
+ 
+Revisions:
+
+After a little testing I saw that the pause/resume created some weird bugs, so I have moved it to goals for Thursday.
