@@ -46,5 +46,6 @@ To Be Scheduled:
 
 
 Strech Goals:
+
 - [ ] Maybe use turtle to create line graph.
 - [ ] Make the program into an "App"-like program. Make it fun. 
