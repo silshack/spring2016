@@ -11,35 +11,35 @@ In terms of what I wanted to accomplish for Tuesday, I was able to follow my pla
 
 ## Required Milestones:
 
-- [X] include at at least two of the four data sets
+- [x] include at at least two of the four data sets
 - [ ] allow users to search through any type of data set
-- [X] have a text-based interface
+- [x] have a text-based interface
 - [ ] have a "help" function that the user can access by typing "/help" (or something similar to that)
 - [ ] allow the user to keep searching for information until they want to exit the program
 - [ ] visualize at least two to three of the text printouts
-- [X] include an introduction message for the user
+- [x] include an introduction message for the user
 - [ ] include at least three to four options for the user to choose from
 - [ ] use try and except to handle bad input
 - [ ] allow users to search for specific items and specific statistics about each item
-- [X] include at least one custom module, one dictionary, and one function
-  - [X] create a dictionary of dictionaries for each item in the file
-  - [X] create a function that allows the user to exit the program
+- [x] include at least one custom module, one dictionary, and one function
+  - [x] create a dictionary of dictionaries for each item in the file
+  - [x] create a function that allows the user to exit the program
   
 ## Stretch Goals:
 
-- [X] include all four data sets
+- [x] include all four data sets
 - [ ] include additional data set about cheapest item locations
 - [ ] integrate Eve Online's Crest API to pull more data
 - [ ] allow visualization for all text printouts
 
 ### For Tuesday:
 
-- [X] import the csv files
-- [X] read through each data file
-- [X] include a welcome message for the user
-- [X] have the layout of my options menu 
-  - [X] include at least three to four options all with descriptive titles
-  - [X] create functions for at least one to two of the options
+- [x] import the csv files
+- [x] read through each data file
+- [x] include a welcome message for the user
+- [x] have the layout of my options menu 
+  - [x] include at least three to four options all with descriptive titles
+  - [x] create functions for at least one to two of the options
 
 ### For Thursday:
 
