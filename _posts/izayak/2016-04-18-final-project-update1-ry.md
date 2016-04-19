@@ -16,7 +16,8 @@ I have worked out one dictionary of lists of dictionaries. And I plan to finish 
 - [X] (new1) Set up cloud 9
 - [X] (new1) Load data file (part: loaded concised version of one data file)
 - [ ] (new1) Data cleaning (part: tried data cleaning)
-- [X] (new1) Build lists and dictionaries to get information from the data (part)
+- [X] (new1) Build lists and dictionaries to get information from the data (part: built nested dictionaries, also need dictionaries of negative reason and airlines etc. separately)
+- [ ] (new1) Make readable tables based on dictionaries, thinking of alignment
 - [ ] Try one simple descriptive statistics calculation and do visualization on a particular data file (In my mind the first try would be calculation the total number of complaints towards different airlines in data file airline.csv, and make a histogram.)
 - [ ] Do more descriptive statistics analysis such as summary statistics (max, min, mean, etc.) 
 - [ ] Think more ways to do data visualization through text printouts
