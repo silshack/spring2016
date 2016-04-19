@@ -1,7 +1,7 @@
 ---
 author: clairewlj
 layout: post
-title: "Lingjie's Project Updates & Stand-up 1"
+title: "Lingjie's Project Updates & Stand-up Report 1"
 ---
 
 Reflection: I basically complete the tasks stated in the milestones for Tuesday. I figured out how to use both Cloud9 and PyCharm to write the program, and uploaded two csv data files. One problem I met was about the version of python when using Cloud9. It seems that .readlines() could not work in python 2, and that I still need to choose the version of python 3 even with the line #!/usr/bin/python. I'm not sure if there's something wrong about it.
