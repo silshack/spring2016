@@ -1,7 +1,7 @@
 ---
 layout: post
 author: jamesma560
-title: "James Moore Project Update and Stand-Up Report 1"
+title: "James Moore Project Update and Stand Up Report 1"
 ---
 
 So far I have gotten a python file working on Cloud9, and I feel pretty comfortable with the interface so far. I was also able to upload 
@@ -12,9 +12,9 @@ functions within each option.
 
 Milestones Finished: 
 
-- [X] figure out how to make a simple .py file in Cloud9
-- [X] Figure out how to get a .py file to interact with a .csv file on Cloud9.
-- [X] Create and display list of column headers.
+- [x] figure out how to make a simple .py file in Cloud9
+- [x] Figure out how to get a .py file to interact with a .csv file on Cloud9.
+- [x] Create and display list of column headers.
 - [x] Create loop of options.
 
 For Thursday:
