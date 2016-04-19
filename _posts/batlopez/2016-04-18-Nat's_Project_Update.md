@@ -3,6 +3,7 @@ layout: post
 author: batlopez
 title: "Nat's Project Update I"
 ---
+<iframe src="https://trinket.io/embed/python3/b17bec1ffe" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Since last class, I was able to access the two data files (one of the course catalog and one from the list of classes that the Research Hub has already supported). I was able to get both files to open and generate a list of just the courses with a specific term, such as the word "seminar." I was most recently going through the other data set with information about previous classes and trying to pull just the course code from the data that has a course code associated with it. I was able to do that! Now, I'm trying to use the course code data on that sheet to pull the course description from the other data file. I have not really figured out how to do that. That and creating a dictionary of all the words in the descriptions with their counts to generate the most frequently used words is my next major task I want to focus on. I have relied heavily on code from previous exercises to help me. I do wonder if sometimes I'm writing or using starter code that could be better written. Should I focus on that? Or is that something you can refine as you progress?
 Milestones:
