@@ -16,6 +16,7 @@ My main goals are to improve the appearance of the app as well as increase it's 
 I plan on using dicitonaries to house all of the word lists, since they are dictionaries after all. I'm playing with the idea of letting the user "save" their man after they get a certain number of words right, so they would have one of the body parts removed, giving them an extra chance of sorts.
 
 Functionality Milestones: 
+
 - [ ] Allow user to click on keys on the screen
 - [ ] Implement score system: give points for getting words right, save highest score
 - [ ] Allow user to enter their own word list
@@ -23,6 +24,7 @@ Functionality Milestones:
 - [ ] Improve on screen text to be more descriptive and helpful to the user
 
 Visual Milestones: 
+
 - [ ] Change the color of keys when they are pressed
 - [ ] Make completion screen more exciting by importing outside images
 - [ ] Draw more things on the screen so it's not so plain
