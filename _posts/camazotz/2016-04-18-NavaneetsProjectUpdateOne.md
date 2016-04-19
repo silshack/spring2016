@@ -6,6 +6,10 @@ title: "Navaneet's Project Update One!"
 
 Progress:
 
+The main change I had to make to my milestones was that in my original milestones, I had one dictionary for each mode storing a tuple of values (for example, a tuple of candidate-party-vote for state as key). That set up would not allow me to get all of the candidate votes for a particular state and all of a particular party's votes for a particular state without traversing through each tuple and comparing strings (which would be rather cumbersome and probably inefficient). Instead, I altered my milestones to create dictionaries of dictionaries to enable this function. This requires creating two additional dictionaries but the searching and matching with queries portion of the project is greatly improved as a result.
+
+Below are some of the issues I ran into over the weekend and how I resolved them:
+
 I tried to use the pandas library to read in data from the election dataset but after reading it into a pandas DataFrame, I could only access data via the columns so it wasn't very useful for forming the dictionaries that I wanted. I ended up reading the data as we did in class through the readLine() method.
 
 While creating the countyDict, I found that some states had the same county names. So for example, Arkansas and Montana may both have a county named 'Autuaga'. As a result, using the county name by itself as a key wasn't sufficient so I made a key consisting of a tuple of the county and state.
@@ -22,16 +26,18 @@ When printing out the asterisks in a loop, I noticed that the print function was
 
 In order to get the asterisks to line up when printing in the loop, I used format(string, '<30') to align the string to the left and extend space out for 30 characters. I found that method [here](https://www.safaribooksonline.com/library/view/python-cookbook-3rd/9781449357337/ch02s13.html).
 
-My completed milestones are as follows:
+My revised and completed milestones are as follows:
 
 - [x] Read all data into python lists
-- [x] Create a dictionary with each state as key and a candidate-party-vote tuple as value
-- [x] Create a dictionary with each candidate as key and a party-vote tuple as value
-- [x] Create a dictionary with each county as key and a state-party-candidate-vote tuple as value
+- [x] Create a dictionary with each state as key and as value another dictionary with candidate as key and vote as value
+- [x] Create a dictionary with each candidate as key and as value another dictionary with state as key and vote as value
+- [x] Create a dictionary with each county as key and as value another dictionary with candidate as key and vote as value
+- [ ] Create a dictionary with each county as key and as value another dictionary with party as key and vote as value
+- [ ] Create a dictionary with each state as key and as value another dictionary with party as key and vote as value
 - [ ] Build a user interface for the user to select three modes (state, candidate, and county)
-- [ ] Have a help option to give the user directions on navigating the app
+- [x] Have a help option to give the user directions on navigating the app
 - [ ] For each mode, allow the user to enter any state, candidate, or county respectively and display the corresponding value tuple
 - [ ] Allow the user to switch datasets
 - [x] For any query, display the fraction of votes as a bar graph (composed of asterisks) as a function of the votes and the mode that the user has selected (so if the user is in state mode, display the number of votes for each state as a bar graph)
 
-I am still building the user interface for each mode along with error checking.
+I am still building the user interface for each mode along with error checking. I haven't had a chance to look into using Cloud 9 but I have been using PyCharm and have uploaded my project to a separate Github repository at this [link](https://github.com/camazotz/ElectionStats2016.git). I'll see if I have time to explore Cloud 9 over the next week.
