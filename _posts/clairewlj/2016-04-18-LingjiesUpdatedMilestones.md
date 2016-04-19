@@ -32,7 +32,7 @@ To be scheduled:
 - [ ] Use loops to allow users re-start selecting filters
 - [ ] Use screen.onkey to allow users exit the program
 
-Strech Goals:
+Stretch Goals:
 
 - [ ] Create class to simplify program
 - [ ] Create functions to create different types of visualizations (bar/line charts, scatter plots, etc)
