@@ -25,3 +25,4 @@ Milestones:
 - [x] For any query, display the fraction of votes as a bar graph (composed of asterisks) as a function of the votes and the mode that the user has selected (so if the user is in state mode, display the number of votes for each state as a bar graph)
 
 Overall the project is going well.
+The github repository can be found [here](https://github.com/camazotz/ElectionStats2016.git).
