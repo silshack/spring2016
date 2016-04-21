@@ -33,6 +33,7 @@ For Thursday:
 - [ ] Display original instructions for users, including types of data/visualizations can be selected to view
 
 For Next Tuesday:
+
 - [ ] Write help instructions
 - [ ] Display original instructions for users, including types of data/visualizations can be selected to view
 - [ ] Write functions to calculate and display statistical features such as country with most medals, etc
