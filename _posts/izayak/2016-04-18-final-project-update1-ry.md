@@ -13,21 +13,21 @@ I have worked out one dictionary of lists of dictionaries. And I plan to finish 
 
 
 *Milestones*  
-- [X] (new1) Set up cloud 9
-- [X] (new1) Load data file (part: loaded concised version of one data file)
-- [ ] (new1) Data cleaning (part: tried data cleaning)
-- [X] (new1) Build lists and dictionaries to get information from the data (part: built nested dictionaries, also need dictionaries of negative reason and airlines etc. separately)
-- [ ] (new1) Make readable tables based on dictionaries, thinking of alignment
-- [ ] Try one simple descriptive statistics calculation and do visualization on a particular data file (In my mind the first try would be calculation the total number of complaints towards different airlines in data file airline.csv, and make a histogram.)
-- [ ] Do more descriptive statistics analysis such as summary statistics (max, min, mean, etc.) 
-- [ ] Think more ways to do data visualization through text printouts
-- [ ] (new1) Before using regex with tweets, find a way to make tweets' materials loaded successfully
-- [ ] Use regex to deal with texts (i.e. tweets in airline.csv and gopdebate.csv)
-- [ ] Use functions to make some parts of the program concise
-- [ ] Generalize the program to make it work for different data files: make some variables flexible; add conditionals; let the user input which columns map to what kind of data etc.
-- [ ] Make a text-based interface
-- [ ] Add help text (think of in what way to achieve that)
-- [ ] The user should be able to perform any number of supported actions and then exit the program
-- [ ] Check if the program is well-formatted (comments, organized, readable), error and bug free
 
+- [x] (new1) Set up cloud 9  
+- [x] (new1) Load data file (part: loaded concised version of one data file)  
+- [ ] (new1) Data cleaning (part: tried data cleaning)  
+- [x] (new1) Build lists and dictionaries to get information from the data (part: built nested dictionaries, also need dictionaries of negative reason and airlines etc. separately)  
+- [ ] (new1) Make readable tables based on dictionaries, thinking of alignment  
+- [ ] Try one simple descriptive statistics calculation and do visualization on a particular data file (In my mind the first try would be calculation the total number of complaints towards different airlines in data file airline.csv, and make a histogram.)  
+- [ ] Do more descriptive statistics analysis such as summary statistics (max, min, mean, etc.)   
+- [ ] Think more ways to do data visualization through text printouts  
+- [ ] (new1) Before using regex with tweets, find a way to make tweets' materials loaded successfully  
+- [ ] Use regex to deal with texts (i.e. tweets in airline.csv and gopdebate.csv)  
+- [ ] Use functions to make some parts of the program concise  
+- [ ] Generalize the program to make it work for different data files: make some variables flexible; add conditionals; let the user input which columns map to what kind of data etc.  
+- [ ] Make a text-based interface  
+- [ ] Add help text (think of in what way to achieve that)  
+- [ ] The user should be able to perform any number of supported actions and then exit the program  
+- [ ] Check if the program is well-formatted (comments, organized, readable), error and bug free  
 
