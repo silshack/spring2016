@@ -1,0 +1,8 @@
+---
+layout: post
+author: gao14g
+title: "Ga Kay's Cultural Immersion Activity"
+---
+## Cultural Immersion Activity
+
+For my second programming meetup, I orignally intended to go to an event called People Programming in Durham with a few of my other classmates. Unfortunately, we were unable to attend due to issues with Uber. There was something messing up with the application, and we were unable to request an Uber. Based on the description of People Programming, it seemed to be a fairly casual event where programmers just met up at a cafe and talked about their projects/programming experiences. Payal, Javairia, and I decided to hold our own programming meetup on Franklin Street since we weren't able to go to the one in Durham. We invited a few of our other programming friends and met up at Sweet Frog. We bought some frozen yogurt, opened up our laptops, and had some really great discussions. It was interesting to learn about everyone's programming experiences. Personally, I didn't get into programming until I started college. We also talked about the projects we are all working on. It was great to get some additional feedback on my data analysis project and see what other people are working on. I think informal programming meetups are great. They are a great way to get connected with other programmers around the area. Many people come from different programming backgrounds, and it's always a great learning experience to see how other people learn how to program. Our informal programming event actually motivated us to possibly try to create a more formal programming group that meets every so often. It would be a great way to meet other programmers at UNC.
