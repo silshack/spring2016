@@ -1,8 +1,9 @@
 ---
 layout: post
 author: ericabrody
-title: "Erica's Project Update 2"
+title: "Erica's Project Update 2 - after class"
 ---
+There are only very minor changes to the milestones. 
 
 A snapshot of my progress can be found in this GitHub repo: https://github.com/ericabrody/data_explore.git
 
@@ -33,6 +34,8 @@ Finished
 
 For Tuesday:  Finish creating functionality and Create user interface (which includes pretty display of results)
   
+  - [ ] get function that changes variable response values to response names as defined in "dataDictionary" dictionary in helpers.py
+
   - [ ] Delayed:Calculate bivariate statistics for two specific variables- average tobacco use by state
   
   - [ ] Generalize bivariate statistics into a function
@@ -60,6 +63,8 @@ To be scheduled:
   - [ ] Create introduction to the program
   
   - [ ] Create functionality for program to work with a "bring your own" dataset
+
+    - [ ] Interface will need to be updated so users can pick a different dataset with a different year of data
 
 Stretch goals:
   - [ ] stretch goal - Functionality to look at categorical variables by state and sex, first with a specific variable
