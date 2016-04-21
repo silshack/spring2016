@@ -30,6 +30,4 @@ I have worked out one dictionary of lists of dictionaries. And I plan to finish 
 - [ ] Add help text (think of in what way to achieve that)  
 - [ ] The user should be able to perform any number of supported actions and then exit the program  
 - [ ] Check if the program is well-formatted (comments, organized, readable), error and bug free  
-- 
-
 
