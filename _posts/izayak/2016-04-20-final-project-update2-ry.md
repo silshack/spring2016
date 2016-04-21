@@ -6,7 +6,8 @@ title: "Ruotong's Final Project Update 2"
 
 From Tuesday, I have finished the setup of basic dictionaries, including one for airlines, one for negative reasons, and one for the overall data. I have made frequency counts and printing histograms on airlines and negative reasons dictionaries. And from the overall dictionary, I made a contingency table of airlines, negative reasons and sentiments. 
 I found out that I can make analysis of airlines and negative reasons by the overall dictionary as well, so I plan to do that before next update. Also, I will make functions to achieve the table and histogram making and showing. And I will make some changes before that: to change all blank in negative reasons into "Not Stated", then I do not need to do that in the data analysis and visualizaion part then it will be more convenient for me to put the analysis of all the variables in one single function. Before this Tuesday, I found that I cannot use either xxx != " " or xxx != None or xxx is not None to deal with the blank, and I figured out that I can use len() with it. Although I do not need to do this since after discussed with Erica on Tuesday I think that blank (i.e. not stated reason) is also worth attention. 
-Also, before next update, I plan to finish the tweets and time variables' analysis and generalize the program to work with both the airlines and the gop debate files.
+Also, before next update, I plan to finish the tweets and time variables' analysis and generalize the program to work with both the airlines and the gop debate files.  
+The files in github repository has been updated.
 
 
 
