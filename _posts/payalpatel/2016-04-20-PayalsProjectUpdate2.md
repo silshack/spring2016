@@ -15,31 +15,31 @@ Link to the my program: https://github.com/payalpn/inls560finalproject
 
 Milestones I will work on next:
 
-- [x] create more options for program (since the next class is two days from this one, this will be the primary milestone I work on, the other ones mentioned below will be my focus over the weekend 
+ - [x] create more options for program (since the next class is two days from this one, this will be the primary milestone I work on, the other ones mentioned below will be my focus over the weekend 
 
-- [ ] visual data text printouts 
+ - [ ] visual data text printouts 
 
 
 To be scheduled Milestones:
 
-- [ ] deal with user error --using try/except, or if/elif? 
+ - [ ] deal with user error --using try/except, or if/elif? 
 
-- [ ] help text --accessible throughout program 
+ - [ ] help text --accessible throughout program 
 
-- [ ] comment code 
+ - [ ] comment code 
 
-- [ ] runs without errors 
+ - [ ] runs without errors 
 
-- [x] format results from each option  --well, halfway (I did this for a couple of options, haven't finished for all.) 
+ - [x] format results from each option  --well, halfway (I did this for a couple of options, haven't finished for all.) 
 
 
 Stretch Milestones:
 
-- [ ] create at least one visual data text printout that is a vertical histogram 
+ - [ ] create at least one visual data text printout that is a vertical histogram 
 
-- [x] use Cloud9
+ - [x] use Cloud9
 
-- [ ] compare data from two different csv files at the same time 
+ - [ ] compare data from two different csv files at the same time 
 
 
 
@@ -48,26 +48,26 @@ Stretch Milestones:
 
 Milestones I will work on next:
 
-- [ ] create more options for program 
+ - [ ] create more options for program 
 
-- [ ] visual data text printouts 
+ - [ ] visual data text printouts 
 
-- [ ] deal with user error --using try/except, or if/elif? 
+ - [ ] deal with user error --using try/except, or if/elif? 
 
 To be scheduled milestones:
 
-- [ ] help text --accessible throughout program 
+ - [ ] help text --accessible throughout program 
 
-- [ ] comment code 
+ - [ ] comment code 
 
-- [ ] runs without errors 
+ - [ ] runs without errors 
 
-- [x] format results from each option  --well, halfway (I did this for a couple of options, haven't finished for all.) 
+ - [x] format results from each option  --well, halfway (I did this for a couple of options, haven't finished for all.) 
 
 
 Stretch Milestones:
 
-- [ ] create at least one visual data text printout that is a vertical histogram 
+ - [ ] create at least one visual data text printout that is a vertical histogram 
 
-- [ ] compare data from two different csv files at the same time 
+ - [ ] compare data from two different csv files at the same time 
 
