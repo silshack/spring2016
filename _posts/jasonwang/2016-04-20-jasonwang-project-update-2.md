@@ -18,6 +18,9 @@ title: "Jason's Second Project Update"
 - [ ] Function to allow the user to exit the program if desired.
 - [ ] Create a function to determine the overall growth of view count (beginning crawl vs. ending crawl) and rank appropriately.
 - [ ] Use video ID's from determining top 10 and bottom 10 view count growth rates and graph selected videos.
+- [x] Make dictionary of video ID's as keys, and view count as the data.
+- [x] Make dictionary of video ID's as keys, and average rating as the data.
+- [x] Make dictionary of video ID's as keys, and comment count as the data. 
 
 ## Stretch Milestones
 - [ ] Integrate youtube API
