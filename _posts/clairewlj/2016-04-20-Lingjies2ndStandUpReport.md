@@ -10,6 +10,8 @@ Reflection: I think that I've finished half of the project, and the next step is
 
 I've created functions to list unique values of each variable such as city, sports and events, etc, and then displayed background information of these variables. Then I've written loops to ask user for his interested choice of information, which also allows user to select multiple filters. Then I've written loops to select rows according to the user's chosen filters. Thus after the user enters "q" to quit filtering, the program will display the filters he chooses, and then display the selected rows.
 
+During the process, I've consolidated knowledge of lists and dictionaries, such as when more than one empty sets are involved as elements, the index of each empty set will always be the same - the first empty set's index. Also, I'm really happy that I've immediately applied the knowledge I gained from a data analysis & python related book a couple of days ago. The all() and any() functions are quite useful for selecting specfic rows based on multiple filters of multiple levels.This program so far works fine for the dataset, but I'm wondering if I can optimize it to accelerate its operation.
+
 Updated milestones:
 
 For Tuesday:
