@@ -14,7 +14,7 @@ Goals for Thursday:
  - [ ] Cleanly manage states of turtles so that restart function can reset these states
  - [x] Add more enemy turtles
  
-I didn't have much time since Tuesday to work on this, but I have managed to get a the game so far to pause/resume by pressing "P". I have also created a text file with some settings for each level, though the file itself is not in use yet. I have also created a dictionary to manage game states including level, lives, and number of collected items, but only the "level" key is being used currently to determine how many enemies to spawn and I have created more enemy turtles. So far I feel like the milestones I have set are reachable.
+I didn't have much time since Tuesday to work on this, but I have managed to get the game so far to pause/resume by pressing "P". I have also created a text file with some settings for each level, though the file itself is not in use yet. I have also created a dictionary to manage game states including level, lives, and number of collected items, but only the "level" key is being used currently to determine how many enemies to spawn and I have created more enemy turtles. So far I feel like the milestones I have set are reachable.
 
 To do list:
 
@@ -26,3 +26,12 @@ To do list:
  - [ ] Restart function
  - [ ] Beating a level restarts the game with updated gamesettings (more enemies, more difficult)
  - [ ] Make "Help" button print something helpful
+
+Stretch goals:
+
+ - [ ] Improve enemy random movement
+ - [ ] Power ups
+ 
+Possible changes:
+
+ - [ ] Spawn each enemy in set location rather than at random
