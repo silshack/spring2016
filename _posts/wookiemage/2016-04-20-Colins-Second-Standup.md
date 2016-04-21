@@ -7,6 +7,7 @@ title: "Colin's second standup update"
 [link](https://github.com/wookiemage/inls560-final-app/commit/e7c6deaa3578093d935b95be5a6c806d312a7a48 "Latest Commit 4-21")
 
   ## Here's what I said I would do for today:
+  
 - [x] Build a function that opens a target file
 - [x] Create a function that makes a horizontal bar chart to represent percentage breakdown between two options
 - [ ] Create a function that finds the largest value in a collumn in list of lists
