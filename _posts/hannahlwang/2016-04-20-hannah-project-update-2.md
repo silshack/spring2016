@@ -15,7 +15,11 @@ https://github.com/hannahlwang/inls560-finalproject
 - [x] Push code to Github repo
 - [x] Clean up data or figure out another way to deal with commas in file names
 - [x] Write code to print out summary of file
+
+For Tuesday:
+
 - [ ] Deal with bad user input (wrong type of file, etc)
+- [ ] Create dictionary of dictionary to print out statistics for each PK (UUID)
 - [ ] Determine what options will be available on main menu (and secondary menu(s), if needed)
 - [ ] First option should be print out column headers and allow user to choose one
 - [ ] Code the other options (once I figure them out)
