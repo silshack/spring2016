@@ -1,6 +1,6 @@
 ---
 author: yiyangshi
-layout: posts
+layout: post
 title: "Yiyang's Second Project Update"
 ---
 
