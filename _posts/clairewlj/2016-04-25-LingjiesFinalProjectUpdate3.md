@@ -4,6 +4,8 @@ layout: post
 title: "Lingjie's Project Update & Stand-up Report 3"
 ---
 
+github link: https://github.com/clairewlj/clairewlj
+
 Reflection:
 I've worked hard in the weekend and I've almost completed the project except for some possible refinement on the structure & display. I planned to give users two options for either displaying detailed data rows or presenting rankings based on their interests, and then I decided to add the visualization part. Currently my program will give users three options: viewing ranking of countries on their medal amounts by year/sport/gender/medal type, or selecting different filters from year/city/sport/discipline/event/gender/medal and viewing selected data rows, or viewing visualizations including line graph to compare two countries on medal amount by medal type over history, and bar chart to view top 10 countries ranked according to the amount of medals by medal type and year.
 
