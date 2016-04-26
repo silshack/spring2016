@@ -5,9 +5,11 @@ title: "Jasmine Plott's Final Project Updates and Stand-Up Report 3"
 ---
 
 Here is the most recent version of my Final Project:
+
 <iframe src="https://trinket.io/embed/python3/3d1a254753" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Here are the milestones that I set out to complete for this class:
+
 - [x] Create a command for users to exit the project (i.e. something like finished)
 - [x] After the initial data is printed for the user, allow them to have the opportunity to enter more input
 - [x] Produce some statistics from the data that the user has asked for. Baby milestones are below to grow to this:
