@@ -70,7 +70,7 @@ be completed by the date and time listed.  Class notes are for your reference of
 {% assign all_assignments = assignments  %}
 
 <table>
- 
+  
     <th>Type</th>
     <th>Title</th>
     <th>Due Date</th>
