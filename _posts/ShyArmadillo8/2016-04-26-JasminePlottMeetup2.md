@@ -1,7 +1,7 @@
 ---
 layout: post
 author: ShyArmadillo8
-title: "Jasmine Plott's Second Meetup"
+title: "Jasmine Plott's Meetup 2"
 ---
 
 The second meetup that I attended was Triangle Hacker Hours at Francesca’s Dessert Café in Durham, NC.  The one that I went to took place on Sunday, April 17th at 4:00pm. 
