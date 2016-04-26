@@ -25,3 +25,5 @@ My revised milestones from last class are:
 Reflection:
 
 I've completed the majority of the tasks. All that remains is to modularize and comment the code. One challenge I ran into during this last portion of the project was randomizing the Excel data. I didn't want to use arbitrary numbers because that wouldn't be representative of actual votes cast. So searched [online](http://answers.microsoft.com/en-us/office/forum/office_2007-excel/how-to-randomize-data-in-excelspreadsheets/399ec67b-a443-e011-9bac-78e7d160ad4e?auth=1) and found a few Excel functions that allowed me to do so. I made three fake datasets using the method I found.
+
+Here is the [link](https://github.com/camazotz/ElectionStats2016.git) to my github repo.
