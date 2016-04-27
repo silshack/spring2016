@@ -41,6 +41,7 @@ From there, I just want to add a help option, refactor some code, and figure out
 Old Plan:
 
 For Tuesday: 
+
 - [ ] Figure out how to manipulate data in individual columns in the csv file.
 - [ ] Figure out how to assign manipulations to each option. To be Scheduled: 
 - [ ] Figure out how a user’s .csv file would work with a program made on Cloud9. 
