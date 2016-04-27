@@ -4,7 +4,9 @@ author: EternalFootman
 title: "Kit's Project Update"
 ---
 
-<iframe src="https://trinket.io/embed/python/c3141d12d2" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/python/3e833b92a7" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+(Updated 4/27 to be a copy and not the original.)
 
 I have the individual sections working, but the transition between them is (as anticipated) more complicated. I tried a great while loop first, but it has trouble with the Croquet section because that one has no set ending (players just stop when bored). The count updated and the next section of the loop ran on top of the game, so that was not usable. Now I've moved on to a menu that comes up between the games; this allows users to pick a section at will, which I rather like. The problem now is that I'm not sure how to limit the click function to the menu; it runs beautifully until you click on the screen during a game, but then it runs whatever command the menu connects with that location. Apart from that, everything is working well enough.
 
