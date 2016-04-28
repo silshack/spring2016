@@ -41,11 +41,11 @@ I’ve found a lot of useful resources throughout this semester. Here are some f
 
 Some Community Resources:
 
-(Learn Python Reddit)[https://www.reddit.com/r/learnpython/] This subreddit has over 50k subscribers of differing ability in Python who all have the same goal, to help others learn python. While I haven’t posted any questions to this subreddit, I have read a lot of great questions and explanations there. As with any subreddit, you get the bad with the good, so sometimes you see very terse answers with little explanation, but generally those get downvoted and nice verbose answers get upvoted. 
+[Learn Python Reddit](https://www.reddit.com/r/learnpython/) This subreddit has over 50k subscribers of differing ability in Python who all have the same goal, to help others learn python. While I haven’t posted any questions to this subreddit, I have read a lot of great questions and explanations there. As with any subreddit, you get the bad with the good, so sometimes you see very terse answers with little explanation, but generally those get downvoted and nice verbose answers get upvoted. 
 
 Another great feature of this community is our next resource:
 
-(The Learn Python Subreddit Wiki)[https://www.reddit.com/r/learnpython/wiki/index] This is a long list of community resources generated and maintained by the learnpython group. It has lots of different categories of resources, everything from video tutorials, to explanations of the differences between python 2 and 3. This is a good place to turn when google fails you, or you want some curated resources.
+[The Learn Python Subreddit Wiki](https://www.reddit.com/r/learnpython/wiki/index) This is a long list of community resources generated and maintained by the learnpython group. It has lots of different categories of resources, everything from video tutorials, to explanations of the differences between python 2 and 3. This is a good place to turn when google fails you, or you want some curated resources.
 
 ## A Semester in review
 
