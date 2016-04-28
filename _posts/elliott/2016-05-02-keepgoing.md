@@ -2,6 +2,7 @@
 author: elliott
 category: notes
 title: "Keep Going!"
+layout: post
 ---
 
 Colin had a great request for a list of resources that students can use to keep going deeper with Python.  Here's the beginning of a list, and I hope students will add it it (via pull request, of course :)
