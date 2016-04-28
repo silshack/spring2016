@@ -7,11 +7,11 @@ title: "Colin's Final App"
   
 ## Let’s talk about what my app does:
 
-	My app allows a user to choose one of three sets of premade data or import their own set of data. It then presents the user with 7 different ways to look at the data. Most of these functions present the data both as a number and a rudimentary visualization. The data set that this program is meant to analyze is a form of sales data automatically generated from [Mockaroo]( http://mockaroo.com/). I chose randomly generated data because I could choose the data types and content very specifically so that I would have the chance to try a lot of different techniques on the data. My data includes, names, emails, ip address, gender, referrer domain, and two different dollar amounts. This gives me lots of different options as far as what to analyze.
+My app allows a user to choose one of three sets of premade data or import their own set of data. It then presents the user with 7 different ways to look at the data. Most of these functions present the data both as a number and a rudimentary visualization. The data set that this program is meant to analyze is a form of sales data automatically generated from [Mockaroo]( http://mockaroo.com/). I chose randomly generated data because I could choose the data types and content very specifically so that I would have the chance to try a lot of different techniques on the data. My data includes, names, emails, ip address, gender, referrer domain, and two different dollar amounts. This gives me lots of different options as far as what to analyze.
 	
 ## Ambition Vs. Reality
 
-	When I started this project, I wanted to do some pretty remarkable things. I had some very ambitious milestones:
+When I started this project, I wanted to do some pretty remarkable things. I had some very ambitious milestones:
 	
 - [ ] Create a function that passes IP address to the google geolocation api
 - [ ] Create a function that can retrieve a map link and pass that link to the bit.ly api
