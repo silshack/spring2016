@@ -9,9 +9,9 @@ To be honest, it was pretty tough to find an open source project that fit my int
 I took a peek through the Github trending open source projects (under the Python listing) and kept reading through (maybe 15-20 different projects) until I found https://github.com/YongHaoWu/NeteaseCloudMusicFlac . It was a pretty simple program, which only required the one python file to crawl through Baidu music players and downloading the resulting FLAC file from the site. Pretty cool small project, and I was really glad that I’m semi-literate in Chinese to the point that I understood the gist of what the guy wrote. I found the TODO list on the main page, and read through it (Rough translation here for convenience).
 
 1. Reorganize into PEP8 format.
-2.	The program currently matches the song name, but it would be better to also match artist name.
-3.	The success rate isn’t very high, and could consider going to other websites to scrape.
-4.	Automatically delete song files that are under 10 Mb.
+2. The program currently matches the song name, but it would be better to also match artist name.
+3. The success rate isn’t very high, and could consider going to other websites to scrape.
+4. Automatically delete song files that are under 10 Mb.
 
 I tried to look through the PEP8 Format page but found that as far as I can tell, he mainly followed it. However, I looked through the OS library that he imported, and found a getsize() method that may fit what he was looking for. I also found a StackExchange thread that also supports my theory. http://stackoverflow.com/questions/8626325/most-efficient-way-to-delete-a-file-if-its-below-a-certain-size
 
