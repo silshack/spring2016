@@ -4,6 +4,8 @@ author: ericabrody
 title: "Erica's Final Project"
 ---
 
+My project can be found at this GitHub repo: https://github.com/ericabrody/data_explore.git
+
 Introduction
 
 I chose to create a data analysis program, because I think it is much more likely that I will use Python for data analysis than video game creation in the future. At the beginning, I was not feeling particularly confident in my ability to create such a program; however, I committed myself to breaking the task down into small chunks and focusing on one chunk at a time. So while I was least confident, I just focused on selecting a dataset and getting it into Trinket. 
