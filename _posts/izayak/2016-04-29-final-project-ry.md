@@ -36,7 +36,6 @@ I really hope that I could know how to deal with those unrecognizable chracters 
 Cleaning files in excel can be time consumind and at the same time the result is not good. I deleted tweets with more than one lines as cannot put them into one line, which waste lots of valuable materials.     
 
 
-
 **Overall Reflection**    
 I am very glad that we are assigned this final project instead of a final exam since we can learn more from a project like this. I gained quite a lot coding experience during the process of building this data analysis program. Although it is relatively small comparing to what are made by programmers in industry, I haven't imagined one day I can write a program that is more than a thousand lines, which is quite encouraging, isn't it? Also, I like the way that the project is updated. In order to turn in the three updates and effectively discuss in pair and in group, I have to write programs step by step and think carefully in advance. It forces me to break up the big goal into small tasks and keep working on it. After the last day of class, I realized that I have finished most of the work, and it is 3 days from the submission deadline. If you work in advance, you will feel relaxed and think in a more thorough way. Moreover, I am very happy with my pair Erica and my group members Omar and Javairia. I got helpful suggestions from them and felt supported in the group. All in all, thank you very much for this experience. I will be more comfortable when coding is needed in the future, and will have more option when trying to do data analysis.       
 
@@ -62,7 +61,6 @@ I am very glad that we are assigned this final project instead of a final exam s
 - [x] (fin4) Add help text (think of in what way to achieve that)   
 - [x] (fin4) The user should be able to perform any number of supported actions and then exit the program   
 - [x] (fin4) Check if the program is well-formatted (comments, organized, readable), error and bug free   
-
 
 
 **Stretch/Optional Milestones**          
