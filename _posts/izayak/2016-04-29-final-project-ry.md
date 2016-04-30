@@ -69,3 +69,5 @@ I am very glad that we are assigned this final project instead of a final exam s
 - [ ] matplotlib, 3rd party modules   
 - [x] (fin4) Do more descriptive statistics analysis such as summary statistics (max, min, mean, etc.)    
 - [ ] (new4) Use other tools deal with data cleaning and tweets 
+- 
+
