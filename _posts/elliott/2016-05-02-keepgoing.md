@@ -11,7 +11,8 @@ Colin had a great request for a list of resources that students can use to keep 
 
 There are various great online resources that you can use as you work on projects.
 
-* TBD
+* (Learn Python Subreddit)[https://www.reddit.com/r/learnpython/]
+* They also have a very nice wiki full of resources. You can find it (here)[https://www.reddit.com/r/learnpython/wiki/index]
 
 # Online Classes
 
