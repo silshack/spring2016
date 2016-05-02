@@ -1,3 +1,9 @@
+---
+layout: post
+author: hannahlwang
+title: "Hannah's Final Project"
+---
+
 Link to my Github repo: https://github.com/hannahlwang/inls560-finalproject
 
 For my final project, I chose to create a data analysis application that analyzes data exports from the Carolina Digital Repository. These data exports can be downloaded through the administrative interface in the CDR, and they contain information about all the objects in a collection. I had to first run this project by my supervisor, since these data exports are not available to the general public. He said that it was fine (and a great use of the data exports!), as long as I only used exports from collections that are publicly available. The three collections I chose were: UNC Scholarly Publications, Art MFA Theses, and SILS Masters Papers.
